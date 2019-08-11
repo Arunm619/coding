@@ -38,7 +38,7 @@
 
 Rotation:
 
-1.Print left rotation of array in O(n) time and O(1) space
+**1.Print left rotation of array in O(n) time and O(1) space** [See Solution](https://gist.github.com/arun-sudharsan/085d2e6ab0e01ba1988d0e8b4e91e99a)
 
 2.Find the minimum element in a sorted and rotated array
 
