@@ -46,7 +46,7 @@ Rotation:
 
 **4.Maximum sum of i\*arr[i] among all rotations of a given array** [See Solution](https://gist.github.com/arun-sudharsan/3d7e05ab5ba415b70a76cc8eeb8c5f94)
 
-5.Search an element in a sorted and rotated array
+**5.Search an element in a sorted and rotated array** [See Solution](https://gist.github.com/arun-sudharsan/5e088e2be1367ff6a3626e519e52ac26)
 
 6.Program to cyclically rotate an array by one
 
