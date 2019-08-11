@@ -48,7 +48,7 @@ Rotation:
 
 **5.Search an element in a sorted and rotated array** [See Solution](https://gist.github.com/arun-sudharsan/5e088e2be1367ff6a3626e519e52ac26)
 
-6.Program to cyclically rotate an array by one
+**6.Program to cyclically rotate an array by one** [See Solution](https://gist.github.com/arun-sudharsan/af48d31fa158ebf108a04a94b10c595e)
 
 7.Count rotation divisible by 4
 
