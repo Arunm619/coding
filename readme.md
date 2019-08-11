@@ -44,7 +44,7 @@ Rotation:
 
 **3.Find the Rotation Count in Rotated Sorted array** [See Solution](https://gist.github.com/arun-sudharsan/b477ba0d1784246e2554ac133d9b9c24)
 
-4.Maximum sum of i\*arr[i] among all rotations of a given array
+**4.Maximum sum of i\*arr[i] among all rotations of a given array** [See Solution](https://gist.github.com/arun-sudharsan/3d7e05ab5ba415b70a76cc8eeb8c5f94)
 
 5.Search an element in a sorted and rotated array
 
