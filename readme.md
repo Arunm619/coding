@@ -56,7 +56,7 @@ Rotation:
 **Permutations of a string (Without Duplicates)** [See Solution](https://gist.github.com/arun-sudharsan/513ee6dd2fcf5ca85e96080ca5b0bc05)  
 **Divisibility By Four** [See Solution](https://gist.github.com/arun-sudharsan/04f11f0c125eafc6bdb6441ad659039f)  
 
-8.Check if a string can be obtained by rotating another string 2 place  
+**8.Check if a string can be obtained by rotating another string 2 place** [See Solution](https://gist.github.com/arun-sudharsan/2eec983dd5ad8151432c09802d620ccf)    
 **Rotations of String** [See Solution](https://gist.github.com/arun-sudharsan/45a876e71f78d6488de59c7864054d0d)
 
 
