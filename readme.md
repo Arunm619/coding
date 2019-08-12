@@ -56,7 +56,9 @@ Rotation:
 **Permutations of a string (Without Duplicates)** [See Solution](https://gist.github.com/arun-sudharsan/513ee6dd2fcf5ca85e96080ca5b0bc05)  
 **Divisibility By Four** [See Solution](https://gist.github.com/arun-sudharsan/04f11f0c125eafc6bdb6441ad659039f)  
 
-8.Check if a string can be obtained by rotating another string 2 place
+8.Check if a string can be obtained by rotating another string 2 place  
+**Rotations of String** [See Solution](https://gist.github.com/arun-sudharsan/45a876e71f78d6488de59c7864054d0d)
+
 
 9.Inplace rotate square matrix by 90 degrees
 
