@@ -53,7 +53,7 @@ Rotation:
 7.Count rotation divisible by 4
 
 **Permutations of a string** [See Solution](https://gist.github.com/arun-sudharsan/e1c566eeafeead4f45cf274f2cab7cea)
-
+**Divisibility By Four** [See Solution](https://gist.github.com/arun-sudharsan/04f11f0c125eafc6bdb6441ad659039f)  
 8.Check if a string can be obtained by rotating another string 2 place
 
 9.Inplace rotate square matrix by 90 degrees
