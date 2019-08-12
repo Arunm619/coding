@@ -60,7 +60,7 @@ Rotation:
 **Rotations of String** [See Solution](https://gist.github.com/arun-sudharsan/45a876e71f78d6488de59c7864054d0d)
 
 
-9.Inplace rotate square matrix by 90 degrees
+**9.Inplace rotate square matrix by 90 degrees** [See Solution](https://gist.github.com/arun-sudharsan/d6f92e82949e10bc5fe0a7fdb0d6b3e1)  
 
 
 
