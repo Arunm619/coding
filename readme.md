@@ -69,7 +69,7 @@ Array Rearrangement:
 
 **2.Rearrange positive and negative numbers in O(n) time and O(1) extra space** [See Solution](https://gist.github.com/arun-sudharsan/e88580be071dc02f78a9b3c0e3fa0ce6)  
 
-3.Minimum swaps required to bring all elements less than or equal to k together
+**3.Minimum swaps required to bring all elements less than or equal to k together** [See Solution](https://gist.github.com/arun-sudharsan/12d5f2d0ff225a2b8b8d557c556e9414)  
 
 4.Rearrange array such that even positioned are greater than odd
 
