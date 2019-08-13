@@ -51,7 +51,6 @@ Rotation:
 **6.Program to cyclically rotate an array by one** [See Solution](https://gist.github.com/arun-sudharsan/af48d31fa158ebf108a04a94b10c595e)
 
 **7.Count rotation divisible by 4** [See Solution](https://gist.github.com/arun-sudharsan/589e42bcf023f2a6ea2eb39e4220572f)  
-    
 **Permutations of a string** [See Solution](https://gist.github.com/arun-sudharsan/e1c566eeafeead4f45cf274f2cab7cea)  
 **Permutations of a string (Without Duplicates)** [See Solution](https://gist.github.com/arun-sudharsan/513ee6dd2fcf5ca85e96080ca5b0bc05)  
 **Divisibility By Four** [See Solution](https://gist.github.com/arun-sudharsan/04f11f0c125eafc6bdb6441ad659039f)  
@@ -68,7 +67,7 @@ Array Rearrangement:
 
 **1.Distinct adjacent elements in an array** [See Solution](https://gist.github.com/arun-sudharsan/47662ffcbbe1c4a5e247309a696dab6f)  
 
-2.Rearrange positive and negative numbers in O(n) time and O(1) extra space
+**2.Rearrange positive and negative numbers in O(n) time and O(1) extra space** [See Solution](https://gist.github.com/arun-sudharsan/e88580be071dc02f78a9b3c0e3fa0ce6)  
 
 3.Minimum swaps required to bring all elements less than or equal to k together
 
