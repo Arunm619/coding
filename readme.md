@@ -66,7 +66,7 @@ Rotation:
 
 Array Rearrangement:
 
-1.Distinct adjacent elements in an array
+**1.Distinct adjacent elements in an array** [See Solution](https://gist.github.com/arun-sudharsan/47662ffcbbe1c4a5e247309a696dab6f)  
 
 2.Rearrange positive and negative numbers in O(n) time and O(1) extra space
 
