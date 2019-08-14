@@ -82,7 +82,7 @@ Array Rearrangement:
 
 **8.Move all negative elements to end in order with extra space allowed** [See Solution](https://gist.github.com/arun-sudharsan/ce02c546be720e8726f83e85b5971c76)  
 
-9.Replace every array element by multiplication of previous and next
+**9.Replace every array element by multiplication of previous and next** [See Solution](https://gist.github.com/arun-sudharsan/ff776351b6d04234dbb3336d7ebfe300)   
 
 10.Maximum Product Subarray
 
