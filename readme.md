@@ -71,7 +71,7 @@ Array Rearrangement:
 
 **3.Minimum swaps required to bring all elements less than or equal to k together** [See Solution](https://gist.github.com/arun-sudharsan/12d5f2d0ff225a2b8b8d557c556e9414)  
 
-4.Rearrange array such that even positioned are greater than odd
+**4.Rearrange array such that even positioned are greater than odd** [See Solution](https://gist.github.com/arun-sudharsan/63169a9cba29ddfbd86dd0c36bc6a583)   
 
 5.Rearrange an array in order – smallest, largest, 2nd smallest, 2nd largest, .
 
