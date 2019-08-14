@@ -84,6 +84,8 @@ Array Rearrangement:
 
 **9.Replace every array element by multiplication of previous and next** [See Solution](https://gist.github.com/arun-sudharsan/ff776351b6d04234dbb3336d7ebfe300)   
 
+**Subarray and SubSequence** [See Solution](https://gist.github.com/arun-sudharsan/a241bc408171c33f6b900c5c643d67bf)  
+
 10.Maximum Product Subarray
 
 11.Form minimum number from given sequence
