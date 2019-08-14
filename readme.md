@@ -88,7 +88,7 @@ Array Rearrangement:
 
 **10.Maximum Product Subarray** [See Solution](https://gist.github.com/arun-sudharsan/50ee106998eed99788cda08e9f56d280)  
 
-11.Form minimum number from given sequence
+**11.Form minimum number from given sequence** [See Solution](https://gist.github.com/arun-sudharsan/010acf627754a8f09be0e0d3bee06b48)  
 
 12.Convert array into Zig-Zag fashion
 
