@@ -90,7 +90,7 @@ Array Rearrangement:
 
 **11.Form minimum number from given sequence** [See Solution](https://gist.github.com/arun-sudharsan/010acf627754a8f09be0e0d3bee06b48)  
 
-12.Convert array into Zig-Zag fashion
+**12.Convert array into Zig-Zag fashion** [See Solution](https://gist.github.com/arun-sudharsan/a5b9b47ca347bbbad774f886c7aff3fc)  
 
 13.Three way partitioning of an array around a given range
 
