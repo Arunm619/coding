@@ -80,7 +80,7 @@ Array Rearrangement:
 
 **7.Arrange given numbers to form the biggest number | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/ff9629bfc2b8965956d229d2d572ea23)  
 
-8.Move all negative elements to end in order with extra space allowed
+**8.Move all negative elements to end in order with extra space allowed** [See Solution](https://gist.github.com/arun-sudharsan/ce02c546be720e8726f83e85b5971c76)  
 
 9.Replace every array element by multiplication of previous and next
 
