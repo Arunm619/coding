@@ -76,6 +76,7 @@ Array Rearrangement:
 **5.Rearrange an array in order – smallest, largest, 2nd smallest, 2nd largest, .** [See Solution](https://gist.github.com/arun-sudharsan/2c43689e7d04c1889f699f59d3fc984d)  
 
 **6.Double the first element and move zero to end** [See Solution](https://gist.github.com/arun-sudharsan/b4fdc7083ff9c9c1198c4c8783833d7a)  
+**Move Zeroes to End** [See Solution](https://gist.github.com/arun-sudharsan/0f7037452fd8d587061843f8108096ea)  
 
 7.Arrange given numbers to form the biggest number | Set 1
 
