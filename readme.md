@@ -73,7 +73,7 @@ Array Rearrangement:
 
 **4.Rearrange array such that even positioned are greater than odd** [See Solution](https://gist.github.com/arun-sudharsan/63169a9cba29ddfbd86dd0c36bc6a583)   
 
-5.Rearrange an array in order – smallest, largest, 2nd smallest, 2nd largest, .
+**5.Rearrange an array in order – smallest, largest, 2nd smallest, 2nd largest, .** [See Solution](https://gist.github.com/arun-sudharsan/2c43689e7d04c1889f699f59d3fc984d)  
 
 6.Double the first element and move zero to end
 
