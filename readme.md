@@ -78,7 +78,7 @@ Array Rearrangement:
 **6.Double the first element and move zero to end** [See Solution](https://gist.github.com/arun-sudharsan/b4fdc7083ff9c9c1198c4c8783833d7a)  
 **Move Zeroes to End** [See Solution](https://gist.github.com/arun-sudharsan/0f7037452fd8d587061843f8108096ea)  
 
-7.Arrange given numbers to form the biggest number | Set 1
+**7.Arrange given numbers to form the biggest number | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/ff9629bfc2b8965956d229d2d572ea23)  
 
 8.Move all negative elements to end in order with extra space allowed
 
