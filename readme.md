@@ -86,7 +86,7 @@ Array Rearrangement:
 
 **Subarray and SubSequence** [See Solution](https://gist.github.com/arun-sudharsan/a241bc408171c33f6b900c5c643d67bf)  
 
-10.Maximum Product Subarray
+**10.Maximum Product Subarray** [See Solution](https://gist.github.com/arun-sudharsan/50ee106998eed99788cda08e9f56d280)  
 
 11.Form minimum number from given sequence
 
