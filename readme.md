@@ -103,7 +103,7 @@ Array | Order Statistics
 
 **1.Kth smallest element in a row-wise and column-wise sorted 2D array** [See Solution](https://gist.github.com/arun-sudharsan/84072fbe5e927307197b8fbad1af79f4)  
 
-2.Find all elements in array which have at-least two greater elements
+**2.Find all elements in array which have at-least two greater elements** [See Solution](https://gist.github.com/arun-sudharsan/3e20f51a97cf9652d8502844da77b51e)  
 
 3.Minimum product of k integers in an array of positive Integers
 
