@@ -92,7 +92,8 @@ Array Rearrangement:
 
 **12.Convert array into Zig-Zag fashion** [See Solution](https://gist.github.com/arun-sudharsan/a5b9b47ca347bbbad774f886c7aff3fc)  
 
-13.Three way partitioning of an array around a given range
+13.Three way partitioning of an array around a given range  
+**Quick Sort** [See Solution](https://gist.github.com/arun-sudharsan/372e957e85728f36a30aa0eed1a4a6dd)  
 
 14.Sort an array according to the order defined by another array
 
