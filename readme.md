@@ -97,7 +97,7 @@ Array Rearrangement:
 
 **14.Sort an array according to the order defined by another array** [See Solution](https://gist.github.com/arun-sudharsan/f873e781df8509c3dec40b06ad216438)  
 
-15.Sort an array of 0s, 1s and 2s  
+**15.Sort an array of 0s, 1s and 2s** [See Solution](https://gist.github.com/arun-sudharsan/d4cc9d7f273149cd40eff8d449f4ed8e)    
 **Sort Binary Array 0s and 1s** [See Solution](https://gist.github.com/arun-sudharsan/81bc7a2e5ba8f38ae86c5a64fea58099)  
 Array | Order Statistics
 
