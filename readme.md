@@ -95,7 +95,7 @@ Array Rearrangement:
 **13.Three way partitioning of an array around a given range** [See Solution](https://gist.github.com/arun-sudharsan/100747dba0e87c098b5dca723bfacb82)  
 **Quick Sort** [See Solution](https://gist.github.com/arun-sudharsan/372e957e85728f36a30aa0eed1a4a6dd)  
 
-14.Sort an array according to the order defined by another array
+**14.Sort an array according to the order defined by another array** [See Solution](https://gist.github.com/arun-sudharsan/f873e781df8509c3dec40b06ad216438)  
 
 15.Sort an array of 0s, 1s and 2s
 
