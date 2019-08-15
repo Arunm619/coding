@@ -105,7 +105,7 @@ Array | Order Statistics
 
 **2.Find all elements in array which have at-least two greater elements** [See Solution](https://gist.github.com/arun-sudharsan/3e20f51a97cf9652d8502844da77b51e)  
 
-3.Minimum product of k integers in an array of positive Integers
+**3.Minimum product of k integers in an array of positive Integers** [See Solution](https://gist.github.com/arun-sudharsan/6d9e3452b4ccce13598b1ededa05d575)  
 
 4.Maximum sum such that no two elements are adjacent
 
