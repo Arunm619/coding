@@ -101,7 +101,7 @@ Array Rearrangement:
 **Sort Binary Array 0s and 1s** [See Solution](https://gist.github.com/arun-sudharsan/81bc7a2e5ba8f38ae86c5a64fea58099)  
 Array | Order Statistics
 
-1.Kth smallest element in a row-wise and column-wise sorted 2D array
+**1.Kth smallest element in a row-wise and column-wise sorted 2D array** [See Solution](https://gist.github.com/arun-sudharsan/84072fbe5e927307197b8fbad1af79f4)  
 
 2.Find all elements in array which have at-least two greater elements
 
