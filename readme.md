@@ -119,7 +119,7 @@ Array | Order Statistics
 
 **9.Sliding Window Maximum (Maximum of all subarrays of size k)** [See Solution](https://gist.github.com/arun-sudharsan/d874556071e1dbcd50a0619f0322d152)  
 
-10.Find the minimum distance between two numbers
+**10.Find the minimum distance between two numbers** [See Solution](https://gist.github.com/arun-sudharsan/7782af14a94f80e8cbc13fbb53cb96ad)  
 
 1.Count Strictly Increasing Subarrays
 
