@@ -107,7 +107,7 @@ Array | Order Statistics
 
 **3.Minimum product of k integers in an array of positive Integers** [See Solution](https://gist.github.com/arun-sudharsan/6d9e3452b4ccce13598b1ededa05d575)  
 
-4.Maximum sum such that no two elements are adjacent
+**4.Maximum sum such that no two elements are adjacent** [See Solution](https://gist.github.com/arun-sudharsan/700232d8b1784906ca784a5bb1598941)  
 
 5.Maximum and minimum of an array using minimum number of comparisons
 
