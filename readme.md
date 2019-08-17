@@ -109,7 +109,7 @@ Array | Order Statistics
 
 **4.Maximum sum such that no two elements are adjacent** [See Solution](https://gist.github.com/arun-sudharsan/700232d8b1784906ca784a5bb1598941)  
 
-5.Maximum and minimum of an array using minimum number of comparisons
+**5.Maximum and minimum of an array using minimum number of comparisons** [See Solution](https://gist.github.com/arun-sudharsan/d1c611fe5c89f52cf691f0f12f2449d6)  
 
 6.Maximum difference between two elements such that larger element appears after the smaller number
 
