@@ -115,7 +115,7 @@ Array | Order Statistics
 
 **7.Count smaller elements on right side** [See Solution](https://gist.github.com/arun-sudharsan/429b6c7296a1f9ec40a89270126fd949)  
 
-8.Given an array arr[], find the maximum j – i such that arr[j] \&gt; arr[i]
+**8.Given an array arr[], find the maximum j – i such that arr[j] > arr[i]** [See Solution](https://gist.github.com/arun-sudharsan/e23ae6fd0d8cbd4389cddf12e9904204)  
 
 9.Sliding Window Maximum (Maximum of all subarrays of size k)
 
