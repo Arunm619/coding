@@ -113,7 +113,7 @@ Array | Order Statistics
 
 **6.Maximum difference between two elements such that larger element appears after the smaller number** [See Solution](https://gist.github.com/arun-sudharsan/ae2bb5a39d682631ffbe08a4f943c20b)  
 
-7.Count smaller elements on right side
+**7.Count smaller elements on right side** [See Solution](https://gist.github.com/arun-sudharsan/429b6c7296a1f9ec40a89270126fd949)  
 
 8.Given an array arr[], find the maximum j – i such that arr[j] \&gt; arr[i]
 
