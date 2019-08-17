@@ -111,7 +111,7 @@ Array | Order Statistics
 
 **5.Maximum and minimum of an array using minimum number of comparisons** [See Solution](https://gist.github.com/arun-sudharsan/d1c611fe5c89f52cf691f0f12f2449d6)  
 
-6.Maximum difference between two elements such that larger element appears after the smaller number
+**6.Maximum difference between two elements such that larger element appears after the smaller number** [See Solution](https://gist.github.com/arun-sudharsan/ae2bb5a39d682631ffbe08a4f943c20b)  
 
 7.Count smaller elements on right side
 
