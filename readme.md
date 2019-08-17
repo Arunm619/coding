@@ -117,7 +117,7 @@ Array | Order Statistics
 
 **8.Given an array arr[], find the maximum j – i such that arr[j] > arr[i]** [See Solution](https://gist.github.com/arun-sudharsan/e23ae6fd0d8cbd4389cddf12e9904204)  
 
-9.Sliding Window Maximum (Maximum of all subarrays of size k)
+**9.Sliding Window Maximum (Maximum of all subarrays of size k)** [See Solution](https://gist.github.com/arun-sudharsan/d874556071e1dbcd50a0619f0322d152)  
 
 10.Find the minimum distance between two numbers
 
