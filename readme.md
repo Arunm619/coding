@@ -121,7 +121,7 @@ Array | Order Statistics
 
 **10.Find the minimum distance between two numbers** [See Solution](https://gist.github.com/arun-sudharsan/7782af14a94f80e8cbc13fbb53cb96ad)  
 
-1.Count Strictly Increasing Subarrays
+**1.Count Strictly Increasing Subarrays** [See Solution](https://gist.github.com/arun-sudharsan/23d7b8576dd85a69448375cb78232d8b)  
 
 2.Find zeroes to be flipped so that number of consecutive 1&#39;s is maximized
 
