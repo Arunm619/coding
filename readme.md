@@ -123,7 +123,7 @@ Array | Order Statistics
 
 **1.Count Strictly Increasing Subarrays** [See Solution](https://gist.github.com/arun-sudharsan/23d7b8576dd85a69448375cb78232d8b)  
 
-2.Find zeroes to be flipped so that number of consecutive 1&#39;s is maximized
+**2.Find zeroes to be flipped so that number of consecutive's is maximized** [See Solution](https://gist.github.com/arun-sudharsan/0e472e0807f75946f274a61f4a64e952)  
 
 3.Smallest greater elements in whole array
 
