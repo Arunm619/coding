@@ -136,7 +136,7 @@ Array | Order Statistics
 
 **7.Longest Increasing Subsequence Size (N log N)** (N^2) [See Solution](https://gist.github.com/arun-sudharsan/dc3599b79780cce3b644a32d18fef3d2)  
 
-8.Find the smallest positive number missing from an unsorted array
+**8.Find the smallest positive number missing from an unsorted array** [See Solution](https://gist.github.com/arun-sudharsan/f4e458ec3b99bda520e99a52d7433d74)  
 
 
 
