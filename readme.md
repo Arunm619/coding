@@ -142,8 +142,7 @@ Array | Order Statistics
 
 Arrays Optimization Problems:
 
-1.Largest Sum Contiguous Subarray
-
+**1.Largest Sum Contiguous Subarray** [See Solution](https://gist.github.com/arun-sudharsan/be038f342f1a0545219b3c33a898d5e5)  
 2.Find the subarray with least average
 
 3.Find the minimum distance between two numbers
