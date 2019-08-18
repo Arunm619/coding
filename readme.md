@@ -125,7 +125,7 @@ Array | Order Statistics
 
 **2.Find zeroes to be flipped so that number of consecutive's is maximized** [See Solution](https://gist.github.com/arun-sudharsan/0e472e0807f75946f274a61f4a64e952)  
 
-3.Smallest greater elements in whole array
+**3.Smallest greater elements in whole array** [See Solution](https://gist.github.com/arun-sudharsan/e91c05c858f020b94f0e1d6c3e3843ff)  
 
 4.Find the closest pair from two sorted arrays
 
