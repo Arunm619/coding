@@ -127,7 +127,9 @@ Array | Order Statistics
 
 **3.Smallest greater elements in whole array** [See Solution](https://gist.github.com/arun-sudharsan/e91c05c858f020b94f0e1d6c3e3843ff)  
 
-4.Find the closest pair from two sorted arrays
+4.Find the closest pair from two sorted arrays [See Solution](https://gist.github.com/arun-sudharsan/70099d1b3a8dad0ea9d55b72797a79dd)  
+Closest Pair in a sorted array [See Solution](https://gist.github.com/arun-sudharsan/8b05e9800662ad7e3fd7e32ea7d94f82)  
+
 
 5.Maximum Sum Path in Two Arrays
 
