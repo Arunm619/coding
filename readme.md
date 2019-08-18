@@ -127,12 +127,11 @@ Array | Order Statistics
 
 **3.Smallest greater elements in whole array** [See Solution](https://gist.github.com/arun-sudharsan/e91c05c858f020b94f0e1d6c3e3843ff)  
 
-4.Find the closest pair from two sorted arrays [See Solution](https://gist.github.com/arun-sudharsan/70099d1b3a8dad0ea9d55b72797a79dd)  
-Closest Pair in a sorted array [See Solution](https://gist.github.com/arun-sudharsan/8b05e9800662ad7e3fd7e32ea7d94f82)  
+**4.Find the closest pair from two sorted arrays** [See Solution](https://gist.github.com/arun-sudharsan/70099d1b3a8dad0ea9d55b72797a79dd)  
+**Closest Pair in a sorted array** [See Solution](https://gist.github.com/arun-sudharsan/8b05e9800662ad7e3fd7e32ea7d94f82)  
 
 
-5.Maximum Sum Path in Two Arrays
-
+**5.Maximum Sum Path in Two Arrays** [See Solution](https://gist.github.com/arun-sudharsan/49188c4b3152fbdfb0af42ee78904717)  
 6.Given an array of of size n and a number k, find all elements that appear more than n/k times
 
 7.Longest Increasing Subsequence Size (N log N)
