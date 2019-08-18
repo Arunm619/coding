@@ -132,7 +132,7 @@ Array | Order Statistics
 
 
 **5.Maximum Sum Path in Two Arrays** [See Solution](https://gist.github.com/arun-sudharsan/49188c4b3152fbdfb0af42ee78904717)  
-6.Given an array of of size n and a number k, find all elements that appear more than n/k times
+**6.Given an array of of size n and a number k, find all elements that appear more than n/k times** [See Solution](https://gist.github.com/arun-sudharsan/2ea588a1b605f02b0f6e364ea65b22a7)  
 
 7.Longest Increasing Subsequence Size (N log N)
 
