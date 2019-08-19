@@ -153,7 +153,7 @@ Arrays Optimization Problems:
 
 **6.Smallest subarray with sum greater than a given value** [See Solution](https://gist.github.com/arun-sudharsan/2a27ac54bc137e4b9bd8f074f72fbd21)  
 
-7.Find maximum average subarray of k length
+**7.Find maximum average subarray of k length** [See Solution](https://gist.github.com/arun-sudharsan/ca7359cc983aceccff4e6efe27de711a)  
 
 8.Count minimum steps to get the given desired array
 
