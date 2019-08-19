@@ -155,7 +155,7 @@ Arrays Optimization Problems:
 
 **7.Find maximum average subarray of k length** [See Solution](https://gist.github.com/arun-sudharsan/ca7359cc983aceccff4e6efe27de711a)  
 
-8.Count minimum steps to get the given desired array
+**8.Count minimum steps to get the given desired array** [See Solution](https://gist.github.com/arun-sudharsan/4ec49a665ea2b76c1e891b841878f055)  
 
 9.Find minimum number of merge operations to make an array palindrome
 
