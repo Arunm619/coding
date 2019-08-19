@@ -151,7 +151,7 @@ Arrays Optimization Problems:
 
 **5.Dynamic Programming | Set 14 (Maximum Sum Increasing Subsequence)** [See Solution](https://gist.github.com/arun-sudharsan/d1415564a607b2e0e166d8519253731c)  
 
-6.Smallest subarray with sum greater than a given value
+**6.Smallest subarray with sum greater than a given value** [See Solution](https://gist.github.com/arun-sudharsan/2a27ac54bc137e4b9bd8f074f72fbd21)  
 
 7.Find maximum average subarray of k length
 
