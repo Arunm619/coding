@@ -145,11 +145,11 @@ Arrays Optimization Problems:
 **1.Largest Sum Contiguous Subarray** [See Solution](https://gist.github.com/arun-sudharsan/be038f342f1a0545219b3c33a898d5e5)  
 **2.Find the subarray with least average** [See Solution](https://gist.github.com/arun-sudharsan/466f2ca835ba012ceb091b506d912075)  
 
-3.Find the minimum distance between two numbers
+**3.Find the minimum distance between two numbers** [Seen Already](https://gist.github.com/arun-sudharsan/7782af14a94f80e8cbc13fbb53cb96ad)  
 
-4Minimum number of jumps to reach end
+4.Minimum number of jumps to reach end
 
-5.Dynamic Programming | Set 14 (Maximum Sum Increasing Subsequence)
+**5.Dynamic Programming | Set 14 (Maximum Sum Increasing Subsequence)** [See Solution](https://gist.github.com/arun-sudharsan/d1415564a607b2e0e166d8519253731c)  
 
 6.Smallest subarray with sum greater than a given value
 
