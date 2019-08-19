@@ -143,7 +143,7 @@ Array | Order Statistics
 Arrays Optimization Problems:
 
 **1.Largest Sum Contiguous Subarray** [See Solution](https://gist.github.com/arun-sudharsan/be038f342f1a0545219b3c33a898d5e5)  
-2.Find the subarray with least average
+**2.Find the subarray with least average** [See Solution](https://gist.github.com/arun-sudharsan/466f2ca835ba012ceb091b506d912075)  
 
 3.Find the minimum distance between two numbers
 
