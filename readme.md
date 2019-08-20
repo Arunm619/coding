@@ -147,7 +147,7 @@ Arrays Optimization Problems:
 
 **3.Find the minimum distance between two numbers** [Seen Already](https://gist.github.com/arun-sudharsan/7782af14a94f80e8cbc13fbb53cb96ad)  
 
-4.Minimum number of jumps to reach end
+**4.Minimum number of jumps to reach end** [See Solution](https://gist.github.com/arun-sudharsan/86479d6c012df2ea68f1e9e9e4fa7f91)  
 
 **5.Dynamic Programming | Set 14 (Maximum Sum Increasing Subsequence)** [See Solution](https://gist.github.com/arun-sudharsan/d1415564a607b2e0e166d8519253731c)  
 
