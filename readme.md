@@ -159,7 +159,7 @@ Arrays Optimization Problems:
 
 **9.Find minimum number of merge operations to make an array palindrome** [See Solution](https://gist.github.com/arun-sudharsan/a52fd12c22d906519211e7d491a38211)  
 
-10.Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
+**10.Find the smallest positive integer value that cannot be represented as sum of any subset of a given array** [See Solution](https://gist.github.com/arun-sudharsan/a554c3b61b0d1c73c049b90cdf07bbd9)  
 
 11.Find minimum difference between any two elements
 
