@@ -161,7 +161,7 @@ Arrays Optimization Problems:
 
 **10.Find the smallest positive integer value that cannot be represented as sum of any subset of a given array** [See Solution](https://gist.github.com/arun-sudharsan/a554c3b61b0d1c73c049b90cdf07bbd9)  
 
-11.Find minimum difference between any two elements
+**11.Find minimum difference between any two elements** [See Solution](https://gist.github.com/arun-sudharsan/0116947f445de41bdbdcbd1858dc364c)  
 
 12.Longest Span with same Sum in two Binary arrays
 
