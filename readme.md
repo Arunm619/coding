@@ -157,7 +157,7 @@ Arrays Optimization Problems:
 
 **8.Count minimum steps to get the given desired array** [See Solution](https://gist.github.com/arun-sudharsan/4ec49a665ea2b76c1e891b841878f055)  
 
-9.Find minimum number of merge operations to make an array palindrome
+**9.Find minimum number of merge operations to make an array palindrome** [See Solution](https://gist.github.com/arun-sudharsan/a52fd12c22d906519211e7d491a38211)  
 
 10.Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
 
