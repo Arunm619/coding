@@ -169,7 +169,7 @@ Array Sorting:
 
 **1.Alternative Sorting** [See Solution](https://gist.github.com/arun-sudharsan/eef996d6f6496a4d6a0d64072d5d4d26)  
 
-2.Sort a nearly sorted (or K sorted) array
+**2.Sort a nearly sorted (or K sorted) array** [See Solution](https://gist.github.com/arun-sudharsan/8c567b187914af7f925699cbe81e88b8)  
 
 3.Sort an array according to absolute difference with given value
 
