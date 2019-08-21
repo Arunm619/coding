@@ -175,7 +175,7 @@ Array Sorting:
 
 **4.Sort an array in wave form** [See Solution](https://gist.github.com/arun-sudharsan/29e2c13e2c1651d8a40d8c6ec83b03ba)  
 
-5.Sort elements by frequency
+**5.Sort elements by frequency** [See Solution](https://gist.github.com/arun-sudharsan/20c7f2de966ca2ffefd24460cb221481)  
 
 6.Count Inversions in an array | Set 1 (Using Merge Sort)
 
