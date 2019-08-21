@@ -173,7 +173,7 @@ Array Sorting:
 
 **3.Sort an array according to absolute difference with given value** [See Solution](https://gist.github.com/arun-sudharsan/2fcb28e54dc521eaac8688f30b1147ef)  
 
-4.Sort an array in wave form
+**4.Sort an array in wave form** [See Solution](https://gist.github.com/arun-sudharsan/29e2c13e2c1651d8a40d8c6ec83b03ba)  
 
 5.Sort elements by frequency
 
