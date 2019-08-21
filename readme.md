@@ -179,7 +179,7 @@ Array Sorting:
 
 6.Count Inversions in an array | Set 1 (Using Merge Sort)
 
-7.Two elements whose sum is closest to zero
+**7.Two elements whose sum is closest to zero** [See Solution](https://gist.github.com/arun-sudharsan/0f06d2d84229dcaf72cc4f4be4931026)  
 
 8.Minimum number of swaps required to sort an array
 
