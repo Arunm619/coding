@@ -171,7 +171,7 @@ Array Sorting:
 
 **2.Sort a nearly sorted (or K sorted) array** [See Solution](https://gist.github.com/arun-sudharsan/8c567b187914af7f925699cbe81e88b8)  
 
-3.Sort an array according to absolute difference with given value
+**3.Sort an array according to absolute difference with given value** [See Solution](https://gist.github.com/arun-sudharsan/2fcb28e54dc521eaac8688f30b1147ef)  
 
 4.Sort an array in wave form
 
