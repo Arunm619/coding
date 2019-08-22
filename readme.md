@@ -182,11 +182,12 @@ Array Sorting:
 **7.Two elements whose sum is closest to zero** [See Solution](https://gist.github.com/arun-sudharsan/0f06d2d84229dcaf72cc4f4be4931026)  
 
 8.Minimum number of swaps required to sort an array  
+
 **Merge Sort O(nlogn) time with O(n) space** [See Solution](https://gist.github.com/arun-sudharsan/56d9cd596ff87be085e93550c5307ebd)  
 
-9.Union and Intersection of two sorted arrays
+**9.Union and Intersection of two sorted arrays** [See Solution](https://gist.github.com/arun-sudharsan/109941cf419029b900b79d94147335fe)  
 
-10.Find Union and Intersection of two unsorted arrays
+**10.Find Union and Intersection of two unsorted arrays** [See Solution](https://gist.github.com/arun-sudharsan/109941cf419029b900b79d94147335fe)  
 
 11.Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
 
