@@ -189,7 +189,7 @@ Array Sorting:
 
 **10.Find Union and Intersection of two unsorted arrays** [See Solution](https://gist.github.com/arun-sudharsan/109941cf419029b900b79d94147335fe)  
 
-11.Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+**11.Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted** [See Solution](https://gist.github.com/arun-sudharsan/fd9a0202a5c310f5f7b332d8514ae722)  
 
 12.Count the number of possible triangles
 
