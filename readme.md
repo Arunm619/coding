@@ -177,7 +177,7 @@ Array Sorting:
 
 **5.Sort elements by frequency** [See Solution](https://gist.github.com/arun-sudharsan/20c7f2de966ca2ffefd24460cb221481)  
 
-6.Count Inversions in an array | Set 1 (Using Merge Sort)
+**6.Count Inversions in an array | Set 1 (Using Merge Sort)** [See Solution](https://gist.github.com/arun-sudharsan/255f68974fe15b6049987f87f011fdda)  
 
 **7.Two elements whose sum is closest to zero** [See Solution](https://gist.github.com/arun-sudharsan/0f06d2d84229dcaf72cc4f4be4931026)  
 
