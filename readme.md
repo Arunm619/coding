@@ -191,7 +191,7 @@ Array Sorting:
 
 **11.Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted** [See Solution](https://gist.github.com/arun-sudharsan/fd9a0202a5c310f5f7b332d8514ae722)  
 
-12.Count the number of possible triangles
+**12.Count the number of possible triangles** [See Solution](https://gist.github.com/arun-sudharsan/46c4505caed8f59e91d5350eb534b3e3)  
 
 13.Elements to be added so that all elements of a range are present in array
 
