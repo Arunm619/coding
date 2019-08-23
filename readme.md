@@ -195,7 +195,7 @@ Array Sorting:
 
 **13.Elements to be added so that all elements of a range are present in array** [See Solution](https://gist.github.com/arun-sudharsan/5f59818199d5327719e66de86840e4ce)  
 
-14.Count all distinct pairs with difference equal to k
+**14.Count all distinct pairs with difference equal to k** [See Solution](https://gist.github.com/arun-sudharsan/717ce5ecc80501f8fd29a6b83a4eaa03)  
 
 15.Merge two sorted arrays with O(1) extra space
 
