@@ -201,7 +201,7 @@ Array Sorting:
 
 16.Program to check if an array is sorted or not (Iterative and Recursive)
 
-17.Maximize the sum of arr[i]\*i
+**17.Maximize the sum of arr[i]*i** [See Solution](https://gist.github.com/arun-sudharsan/09ea9a26d88889f6c17e7e7fbf5cb99c)  
 
 **18.Pairs with Difference less than K** [See Solution](https://gist.github.com/arun-sudharsan/28d3926089b6b82094eb0dff5b2886fc)  
 
