@@ -203,7 +203,7 @@ Array Sorting:
 
 17.Maximize the sum of arr[i]\*i
 
-18.Pairs with Difference less than K
+**18.Pairs with Difference less than K** [See Solution](https://gist.github.com/arun-sudharsan/28d3926089b6b82094eb0dff5b2886fc)  
 
 **19.Merging two unsorted arrays in sorted order** [See Solution](https://gist.github.com/arun-sudharsan/2e5fc8cca0085a4022d9412248df1a33)  
 
