@@ -193,7 +193,7 @@ Array Sorting:
 
 **12.Count the number of possible triangles** [See Solution](https://gist.github.com/arun-sudharsan/46c4505caed8f59e91d5350eb534b3e3)  
 
-13.Elements to be added so that all elements of a range are present in array
+**13.Elements to be added so that all elements of a range are present in array** [See Solution](https://gist.github.com/arun-sudharsan/5f59818199d5327719e66de86840e4ce)  
 
 14.Count all distinct pairs with difference equal to k
 
