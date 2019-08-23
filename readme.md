@@ -205,7 +205,7 @@ Array Sorting:
 
 18.Pairs with Difference less than K
 
-19.Merging two unsorted arrays in sorted order
+**19.Merging two unsorted arrays in sorted order** [See Solution](https://gist.github.com/arun-sudharsan/2e5fc8cca0085a4022d9412248df1a33)  
 
 20.Sort an array after applying the given equation
 
