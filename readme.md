@@ -181,7 +181,7 @@ Array Sorting:
 
 **7.Two elements whose sum is closest to zero** [See Solution](https://gist.github.com/arun-sudharsan/0f06d2d84229dcaf72cc4f4be4931026)  
 
-8.Minimum number of swaps required to sort an array  
+**8.Minimum number of swaps required to sort an array** [See Solution](https://gist.github.com/arun-sudharsan/a2fc62fe2a0dff60b0a4fde2b0db8831)    
 
 **Merge Sort O(nlogn) time with O(n) space** [See Solution](https://gist.github.com/arun-sudharsan/56d9cd596ff87be085e93550c5307ebd)  
 
