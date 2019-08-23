@@ -207,7 +207,7 @@ Array Sorting:
 
 **19.Merging two unsorted arrays in sorted order** [See Solution](https://gist.github.com/arun-sudharsan/2e5fc8cca0085a4022d9412248df1a33)  
 
-20.Sort an array after applying the given equation
+**20.Sort an array after applying the given equation** [See Solution](https://gist.github.com/arun-sudharsan/82b70096f7848f79e43fc3e46d944042)  
 
 21.Sum of minimum absolute difference of each array element
 
