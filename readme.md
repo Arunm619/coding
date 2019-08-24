@@ -215,7 +215,7 @@ Array Sorting:
 
 Array Matrix:
 
-1.Search in a row wise and column wise sorted matrix
+**1.Search in a row wise and column wise sorted matrix** [See Solution](https://gist.github.com/arun-sudharsan/34bfa324dec90694fe6fb52ba2799c41)  
 
 2.Print a given matrix in spiral form
 
