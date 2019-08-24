@@ -209,7 +209,7 @@ Array Sorting:
 
 **20.Sort an array after applying the given equation** [See Solution](https://gist.github.com/arun-sudharsan/82b70096f7848f79e43fc3e46d944042)  
 
-21.Sum of minimum absolute difference of each array element
+**21.Sum of minimum absolute difference of each array element** [See Solution](https://gist.github.com/arun-sudharsan/5ee389847599d13b8f3a3b566e8e6a28)  
 
 
 
