@@ -197,7 +197,7 @@ Array Sorting:
 
 **14.Count all distinct pairs with difference equal to k** [See Solution](https://gist.github.com/arun-sudharsan/717ce5ecc80501f8fd29a6b83a4eaa03)  
 
-15.Merge two sorted arrays with O(1) extra space
+**15.Merge two sorted arrays with O(1) extra space** [See Solution](https://gist.github.com/arun-sudharsan/dca101ae66862e80983853a8b9d5f067)  
 
 **16.Program to check if an array is sorted or not (Iterative and Recursive)** [See Solution](https://gist.github.com/arun-sudharsan/58185712929fbba6b1a97fa1e1cbcdb7)  
 
