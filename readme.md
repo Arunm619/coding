@@ -199,9 +199,9 @@ Array Sorting:
 
 15.Merge two sorted arrays with O(1) extra space
 
-16.Program to check if an array is sorted or not (Iterative and Recursive)
+**16.Program to check if an array is sorted or not (Iterative and Recursive)** [See Solution](https://gist.github.com/arun-sudharsan/58185712929fbba6b1a97fa1e1cbcdb7)  
 
-**17.Maximize the sum of arr[i]*i** [See Solution](https://gist.github.com/arun-sudharsan/09ea9a26d88889f6c17e7e7fbf5cb99c)  
+**17.Maximize the sum of product of arr[i] and i** [See Solution](https://gist.github.com/arun-sudharsan/09ea9a26d88889f6c17e7e7fbf5cb99c)  
 
 **18.Pairs with Difference less than K** [See Solution](https://gist.github.com/arun-sudharsan/28d3926089b6b82094eb0dff5b2886fc)  
 
