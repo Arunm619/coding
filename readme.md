@@ -223,7 +223,7 @@ Array Matrix:
 
 **4.Print unique rows in a given boolean matrix** [See Solution](https://gist.github.com/arun-sudharsan/c81b3691cc59fa1dc549239bc2e5e69b)  
 
-5.Maximum size square sub-matrix with all 1s
+**5.Maximum size square sub-matrix with all 1s** [See Solution](https://gist.github.com/arun-sudharsan/ada41f5b81fdd84db337c02dbf5fa777)  
 
 6.Zigzag (or diagonal) traversal of Matrix
 
