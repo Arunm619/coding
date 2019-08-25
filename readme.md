@@ -219,7 +219,7 @@ Array Matrix:
 
 **2.Print a given matrix in spiral form** [See Solution](https://gist.github.com/arun-sudharsan/e56a9239b6e0c532055244a8698433c2)  
 
-3.A Boolean Matrix Question
+**3.A Boolean Matrix Question** [See Solution](https://gist.github.com/arun-sudharsan/321ce1a88cc49386b104ddab98af5e2c)  
 
 4.Print unique rows in a given boolean matrix
 
