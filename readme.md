@@ -225,7 +225,7 @@ Array Matrix:
 
 **5.Maximum size square sub-matrix with all 1s** [See Solution](https://gist.github.com/arun-sudharsan/ada41f5b81fdd84db337c02dbf5fa777)  
 
-6.Zigzag (or diagonal) traversal of Matrix
+**6.Zigzag (or diagonal) traversal of Matrix** [See Solution](https://gist.github.com/arun-sudharsan/eaf7e38cca284137b205ecaf3795ff34)  
 
 7.Flood fill Algorithm
 
