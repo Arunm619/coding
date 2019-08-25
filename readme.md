@@ -221,7 +221,7 @@ Array Matrix:
 
 **3.A Boolean Matrix Question** [See Solution](https://gist.github.com/arun-sudharsan/321ce1a88cc49386b104ddab98af5e2c)  
 
-4.Print unique rows in a given boolean matrix
+**4.Print unique rows in a given boolean matrix** [See Solution](https://gist.github.com/arun-sudharsan/c81b3691cc59fa1dc549239bc2e5e69b)  
 
 5.Maximum size square sub-matrix with all 1s
 
