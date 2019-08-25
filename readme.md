@@ -217,7 +217,7 @@ Array Matrix:
 
 **1.Search in a row wise and column wise sorted matrix** [See Solution](https://gist.github.com/arun-sudharsan/34bfa324dec90694fe6fb52ba2799c41)  
 
-2.Print a given matrix in spiral form
+**2.Print a given matrix in spiral form** [See Solution](https://gist.github.com/arun-sudharsan/e56a9239b6e0c532055244a8698433c2)  
 
 3.A Boolean Matrix Question
 
