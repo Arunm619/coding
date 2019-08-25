@@ -229,7 +229,7 @@ Array Matrix:
 
 **7.Flood fill Algorithm** [See Solution](https://gist.github.com/arun-sudharsan/86825fd40cf15cfcece0a2d4e2bedcc0)  
 
-8.Sorted matrix
+**8.Sorted matrix** [See Solution](https://gist.github.com/arun-sudharsan/972ebf8ab43d0a2195cbfb43eb15cc5b)  
 
 9.Given a matrix of &#39;O&#39; and &#39;X&#39;, replace &#39;O&#39; with &#39;X&#39; if surrounded by &#39;X&#39;
 
