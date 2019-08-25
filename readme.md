@@ -231,7 +231,7 @@ Array Matrix:
 
 **8.Sorted matrix** [See Solution](https://gist.github.com/arun-sudharsan/972ebf8ab43d0a2195cbfb43eb15cc5b)  
 
-9.Given a matrix of &#39;O&#39; and &#39;X&#39;, replace &#39;O&#39; with &#39;X&#39; if surrounded by &#39;X&#39;
+**9.Given a matrix of &#39;O&#39; and &#39;X&#39;, replace &#39;O&#39; with &#39;X&#39; if surrounded by &#39;X&#39;** [See Solution](https://gist.github.com/arun-sudharsan/09ba92d461de1a99f26454eab7cb772b)  
 
 10.Find the longest path in a matrix with given constraints
 
