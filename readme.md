@@ -245,7 +245,8 @@ Array Matrix:
 
 5.Number of paths with exactly k coins
 
-6.Maximum size rectangle binary sub-matrix with all 1s
+6.Maximum size rectangle binary sub-matrix with all 1s  
+**Largest Area of a histogram - Linear Solution** [See Solution](https://gist.github.com/arun-sudharsan/cb4b4d359fd3aae32a119b60a07b588c)   
 
 7.Shortest path in a Binary Maze
 
