@@ -248,9 +248,8 @@ Array Matrix:
 **6.Maximum size rectangle binary sub-matrix with all 1s** [See Solution](https://gist.github.com/arun-sudharsan/417c2255909dac465b56516e09a0d863)    
 **Largest Area of a histogram - Linear Solution** [See Solution](https://gist.github.com/arun-sudharsan/cb4b4d359fd3aae32a119b60a07b588c)   
 
-7.Shortest path in a Binary Maze
-
-8.Inplace rotate square matrix by 90 degrees
+**7.Shortest path in a Binary Maze** [See Solution](https://gist.github.com/arun-sudharsan/a1c25cef0e3bc61f0f2c5f36d69a50b5)  
+**8.Inplace rotate square matrix by 90 degrees** [See Solution](https://gist.github.com/arun-sudharsan/d6f92e82949e10bc5fe0a7fdb0d6b3e1)  
 
 9.Dynamic Programming | Set 27 (Maximum sum rectangle in a 2D matrix)
 
