@@ -237,7 +237,7 @@ Array Matrix:
 
  **1.Find the largest rectangle of 1&#39;s with swapping of columns allowed** [See Solution](https://gist.github.com/arun-sudharsan/dd59a7fd3c638738d35534250dfe301c)  
 
-2.Validity of a given Tic-Tac-Toe board configuration
+**2.Validity of a given Tic-Tac-Toe board configuration** [See Solution](https://gist.github.com/arun-sudharsan/f15e6c2980475d7985863d78e0e160c8)  
 
 3.Minimum Initial Points to Reach Destination
 
