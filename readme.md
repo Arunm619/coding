@@ -235,7 +235,7 @@ Array Matrix:
 
 10.Find the longest path in a matrix with given constraints
 
- 1.Find the largest rectangle of 1&#39;s with swapping of columns allowed
+ **1.Find the largest rectangle of 1&#39;s with swapping of columns allowed** [See Solution](https://gist.github.com/arun-sudharsan/dd59a7fd3c638738d35534250dfe301c)  
 
 2.Validity of a given Tic-Tac-Toe board configuration
 
