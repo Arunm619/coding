@@ -233,7 +233,7 @@ Array Matrix:
 
 **9.Given a matrix of &#39;O&#39; and &#39;X&#39;, replace &#39;O&#39; with &#39;X&#39; if surrounded by &#39;X&#39;** [See Solution](https://gist.github.com/arun-sudharsan/09ba92d461de1a99f26454eab7cb772b)  
 
-10.Find the longest path in a matrix with given constraints
+**10.Find the longest path in a matrix with given constraints** [See Solution](https://gist.github.com/arun-sudharsan/68e2a340cb06a79f6a06a348d563f5f6)  
 
  **1.Find the largest rectangle of 1&#39;s with swapping of columns allowed** [See Solution](https://gist.github.com/arun-sudharsan/dd59a7fd3c638738d35534250dfe301c)  
 
