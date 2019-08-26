@@ -239,7 +239,7 @@ Array Matrix:
 
 **2.Validity of a given Tic-Tac-Toe board configuration** [See Solution](https://gist.github.com/arun-sudharsan/f15e6c2980475d7985863d78e0e160c8)  
 
-3.Minimum Initial Points to Reach Destination
+**3.Minimum Initial Points to Reach Destination** [See Solution](https://gist.github.com/arun-sudharsan/e7d5019e026e09bc6f097c8190df3803)  
 
 4.Rotate Matrix Elements
 
