@@ -263,7 +263,7 @@ Array Searching:
 
 **3.Equilibrium index of an array** [See Solution](https://gist.github.com/arun-sudharsan/6d06e8456e96a0a4ef4d4eaba9caf6ba)  
 
-4.Majority Element
+**4.Majority Element** [See Solution](https://gist.github.com/arun-sudharsan/2d1dd4ba49ca0a90a9b226742f15aabb)  
 
 5.Check for Majority Element in a sorted array
 
