@@ -265,7 +265,7 @@ Array Searching:
 
 **4.Majority Element** [See Solution](https://gist.github.com/arun-sudharsan/2d1dd4ba49ca0a90a9b226742f15aabb)  
 
-5.Check for Majority Element in a sorted array
+**5.Check for Majority Element in a sorted array** [See Solution](https://gist.github.com/arun-sudharsan/2eed1879792e0a609d68abbecc26b132)  
 
 6.Find the two repeating elements in a given array
 
