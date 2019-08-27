@@ -267,7 +267,7 @@ Array Searching:
 
 **5.Check for Majority Element in a sorted array** [See Solution](https://gist.github.com/arun-sudharsan/2eed1879792e0a609d68abbecc26b132)  
 
-6.Find the two repeating elements in a given array
+**6.Find the two repeating elements in a given array** [See Solution](https://gist.github.com/arun-sudharsan/84fdb656b586e301ff86123fd1ae6e99)  
 
 7.Find a Fixed Point (Value equal to index) in a given array
 
