@@ -257,7 +257,7 @@ Array Matrix:
 
 Array Searching:
 
-1.Find common elements in three sorted arrays
+**1.Find common elements in three sorted arrays** [See Solution](https://gist.github.com/arun-sudharsan/0d91b98bc51bef3b3fd6ff3589d27411)  
 
 2.Maximum Subarray Sum Excluding Certain Elements
 
