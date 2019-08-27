@@ -269,7 +269,7 @@ Array Searching:
 
 **6.Find the two repeating elements in a given array** [See Solution](https://gist.github.com/arun-sudharsan/84fdb656b586e301ff86123fd1ae6e99)  
 
-7.Find a Fixed Point (Value equal to index) in a given array
+**7.Find a Fixed Point (Value equal to index) in a given array** [See Solution](https://gist.github.com/arun-sudharsan/071bed4be067e7cc58dbf00f7b51447d)  
 
 8.Find subarray with given sum | Set 1 (Nonnegative Numbers)
 
