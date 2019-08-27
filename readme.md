@@ -261,7 +261,7 @@ Array Searching:
 
 **2.Maximum Subarray Sum Excluding Certain Elements** [See Solution](https://gist.github.com/arun-sudharsan/ee7da850a943a06c4f562b77182170d0)  
 
-3.Equilibrium index of an array
+**3.Equilibrium index of an array** [See Solution](https://gist.github.com/arun-sudharsan/6d06e8456e96a0a4ef4d4eaba9caf6ba)  
 
 4.Majority Element
 
