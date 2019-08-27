@@ -259,7 +259,7 @@ Array Searching:
 
 **1.Find common elements in three sorted arrays** [See Solution](https://gist.github.com/arun-sudharsan/0d91b98bc51bef3b3fd6ff3589d27411)  
 
-2.Maximum Subarray Sum Excluding Certain Elements
+**2.Maximum Subarray Sum Excluding Certain Elements** [See Solution](https://gist.github.com/arun-sudharsan/ee7da850a943a06c4f562b77182170d0)  
 
 3.Equilibrium index of an array
 
