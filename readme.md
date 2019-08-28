@@ -283,7 +283,7 @@ Array Searching:
 
 **12.Find the Number Occurring Odd Number of Times** [See Solution](https://gist.github.com/arun-sudharsan/e98a51d6c3dba40f48db434dd6473177)  
 
-13.Find lost element from a duplicated array
+**13.Find lost element from a duplicated array** [See Solution](https://gist.github.com/arun-sudharsan/ae5e152acbfc093d2ce4d7115c076b50)  
 
 14.Find the repeating and the missing | Added 3 new methods
 
