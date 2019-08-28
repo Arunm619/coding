@@ -279,7 +279,7 @@ Array Searching:
 
 
 
-11.Find a triplet such that sum of two equals to third element
+**11.Find a triplet such that sum of two equals to third element** [See Solution](https://gist.github.com/arun-sudharsan/872d28e706fba932156ec4312b9dfae6)  
 
 12.Find the Number Occurring Odd Number of Times
 
