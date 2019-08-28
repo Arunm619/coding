@@ -275,7 +275,7 @@ Array Searching:
 
 **9.Smallest Difference Triplet from Three arrays** [See Solution](https://gist.github.com/arun-sudharsan/595f8b1fbc6ac6306c594ce30728854c)  
 
-10.Count triplets with sum smaller than a given value
+**10.Count triplets with sum smaller than a given value** [See Solution](https://gist.github.com/arun-sudharsan/dcbdea3f690c45ac98c3c0787e1ba8f0)  
 
 
 
