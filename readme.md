@@ -281,7 +281,7 @@ Array Searching:
 
 **11.Find a triplet such that sum of two equals to third element** [See Solution](https://gist.github.com/arun-sudharsan/872d28e706fba932156ec4312b9dfae6)  
 
-12.Find the Number Occurring Odd Number of Times
+**12.Find the Number Occurring Odd Number of Times** [See Solution](https://gist.github.com/arun-sudharsan/e98a51d6c3dba40f48db434dd6473177)  
 
 13.Find lost element from a duplicated array
 
