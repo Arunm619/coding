@@ -273,7 +273,7 @@ Array Searching:
 
 8.Find subarray with given sum | Set 1 (Nonnegative Numbers)
 
-9.Smallest Difference Triplet from Three arrays
+**9.Smallest Difference Triplet from Three arrays** [See Solution](https://gist.github.com/arun-sudharsan/595f8b1fbc6ac6306c594ce30728854c)  
 
 10.Count triplets with sum smaller than a given value
 
