@@ -285,7 +285,7 @@ Array Searching:
 
 **13.Find lost element from a duplicated array** [See Solution](https://gist.github.com/arun-sudharsan/ae5e152acbfc093d2ce4d7115c076b50)  
 
-14.Find the repeating and the missing | Added 3 new methods
+**14.Find the repeating and the missing | Added 3 new methods** [See Solution](https://gist.github.com/arun-sudharsan/a0c79f169164edea8a4542cd705795d9)  
 
 15.Find the two numbers with odd occurrences in an unsorted array
 
