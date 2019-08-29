@@ -289,9 +289,9 @@ Array Searching:
 
 **15.Find the two numbers with odd occurrences in an unsorted array** [See Solution](https://gist.github.com/arun-sudharsan/81a901d78141d75b5695e92df9a47838)  
 
-16.Find four elements that sum to a given value | Set 1 (n^3 solution)
+**16.Find four elements that sum to a given value | Set 1 (n^3 solution)** [See Solution](https://gist.github.com/arun-sudharsan/1b5800ef8e6f9976cc4ad59a945ff83c)  
 
-17.Find four elements that sum to a given value | Set 2 ( O(n^2Logn) Solution)
+**17.Find four elements that sum to a given value | Set 2 ( O(n^2) Solution)** [See Solution](https://gist.github.com/arun-sudharsan/1b5800ef8e6f9976cc4ad59a945ff83c)  
 
 18.Check if a given array contains duplicate elements within k distance from each other
 
