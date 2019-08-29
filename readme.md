@@ -304,7 +304,7 @@ Array Searching:
 
 **23.Find sum of non-repeating (distinct) elements in an array** [See Solution](https://gist.github.com/arun-sudharsan/bfd33e8e779a1d91eac9a3924532cef5)  
 
-24.Check whether Arithmetic Progression can be formed from the given array
+**24.Check whether Arithmetic Progression can be formed from the given array** [See Solution](https://gist.github.com/arun-sudharsan/85ef80af125bd6aec9d97da6c0b679b5)  
 
 25.Count ways of choosing a pair with maximum difference
 
