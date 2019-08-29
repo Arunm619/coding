@@ -293,7 +293,7 @@ Array Searching:
 
 **17.Find four elements that sum to a given value | Set 2 ( O(n^2) Solution)** [See Solution](https://gist.github.com/arun-sudharsan/1b5800ef8e6f9976cc4ad59a945ff83c)  
 
-18.Check if a given array contains duplicate elements within k distance from each other
+**18.Check if a given array contains duplicate elements within k distance from each other** [See Solution](https://gist.github.com/arun-sudharsan/e32c8d97321e43e391dafb5cecc0bb81)  
 
 19.Trapping Rain Water
 
