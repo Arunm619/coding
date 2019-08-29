@@ -302,7 +302,7 @@ Array Searching:
 
 **22.Find first k natural numbers missing in given array** [See Solution](https://gist.github.com/arun-sudharsan/f0a45fb49d64c467c82909d06e264bad)  
 
-23.Find sum of non-repeating (distinct) elements in an array
+**23.Find sum of non-repeating (distinct) elements in an array** [See Solution](https://gist.github.com/arun-sudharsan/bfd33e8e779a1d91eac9a3924532cef5)  
 
 24.Check whether Arithmetic Progression can be formed from the given array
 
