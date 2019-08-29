@@ -300,7 +300,7 @@ Array Searching:
 **20.Consecutive steps to roof top** [See Solution](https://gist.github.com/arun-sudharsan/d7dc1ba84b1f53713a03f2df4cf10277)  
 **21.Print n smallest elements from given array in their original order** [See Solution](https://gist.github.com/arun-sudharsan/42caf5b990f1f7e0bd2ba6d80e3b8e0a)  
 
-22.Find first k natural numbers missing in given array
+**22.Find first k natural numbers missing in given array** [See Solution](https://gist.github.com/arun-sudharsan/f0a45fb49d64c467c82909d06e264bad)  
 
 23.Find sum of non-repeating (distinct) elements in an array
 
