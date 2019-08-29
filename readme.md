@@ -306,7 +306,7 @@ Array Searching:
 
 **24.Check whether Arithmetic Progression can be formed from the given array** [See Solution](https://gist.github.com/arun-sudharsan/85ef80af125bd6aec9d97da6c0b679b5)  
 
-25.Count ways of choosing a pair with maximum difference
+**25.Count ways of choosing a pair with maximum difference** [See Solution](https://gist.github.com/arun-sudharsan/897758753d59968e79889a3d4e46562d)  
 
 26.Maximum sum of pairwise product in an array with negative allowed
 
