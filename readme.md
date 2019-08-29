@@ -308,7 +308,7 @@ Array Searching:
 
 **25.Count ways of choosing a pair with maximum difference** [See Solution](https://gist.github.com/arun-sudharsan/897758753d59968e79889a3d4e46562d)  
 
-26.Maximum sum of pairwise product in an array with negative allowed
+**26.Maximum sum of pairwise product in an array with negative allowed** [See Solution](https://gist.github.com/arun-sudharsan/7125f34ba7a931050af363778ff30134)  
 
 
 
