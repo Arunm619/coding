@@ -298,9 +298,7 @@ Array Searching:
 **19.Trapping Rain Water** [See Solution](https://gist.github.com/arun-sudharsan/ee0e125994e92399ee172fc59ca9bb83)  
 
 **20.Consecutive steps to roof top** [See Solution](https://gist.github.com/arun-sudharsan/d7dc1ba84b1f53713a03f2df4cf10277)  
-
-
-21.Print n smallest elements from given array in their original order
+**21.Print n smallest elements from given array in their original order** [See Solution](https://gist.github.com/arun-sudharsan/42caf5b990f1f7e0bd2ba6d80e3b8e0a)  
 
 22.Find first k natural numbers missing in given array
 
