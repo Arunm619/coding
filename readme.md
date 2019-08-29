@@ -287,7 +287,7 @@ Array Searching:
 
 **14.Find the repeating and the missing | Added 3 new methods** [See Solution](https://gist.github.com/arun-sudharsan/a0c79f169164edea8a4542cd705795d9)  
 
-15.Find the two numbers with odd occurrences in an unsorted array
+**15.Find the two numbers with odd occurrences in an unsorted array** [See Solution](https://gist.github.com/arun-sudharsan/81a901d78141d75b5695e92df9a47838)  
 
 16.Find four elements that sum to a given value | Set 1 (n^3 solution)
 
