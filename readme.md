@@ -297,8 +297,7 @@ Array Searching:
 
 **19.Trapping Rain Water** [See Solution](https://gist.github.com/arun-sudharsan/ee0e125994e92399ee172fc59ca9bb83)  
 
-20.Consecutive steps to roof top
-
+**20.Consecutive steps to roof top** [See Solution](https://gist.github.com/arun-sudharsan/d7dc1ba84b1f53713a03f2df4cf10277)  
 
 
 21.Print n smallest elements from given array in their original order
