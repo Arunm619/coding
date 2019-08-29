@@ -295,7 +295,7 @@ Array Searching:
 
 **18.Check if a given array contains duplicate elements within k distance from each other** [See Solution](https://gist.github.com/arun-sudharsan/e32c8d97321e43e391dafb5cecc0bb81)  
 
-19.Trapping Rain Water
+**19.Trapping Rain Water** [See Solution](https://gist.github.com/arun-sudharsan/ee0e125994e92399ee172fc59ca9bb83)  
 
 20.Consecutive steps to roof top
 
