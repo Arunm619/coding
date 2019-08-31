@@ -320,7 +320,7 @@ Array Searching:
 
 **1.Smallest power of 2 greater than or equal to n** [See Solution](https://gist.github.com/arun-sudharsan/d75c9b6535e07104f68437bc6e693266)  
 
-2.Add 1 to a given number
+**2.Add 1 to a given number** [See Solution](https://gist.github.com/arun-sudharsan/4aac48c3bf795d6e86ed093ec7ff9898)  
 
 3.How to swap two numbers without using a temporary variable
 
