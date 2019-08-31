@@ -330,7 +330,7 @@ Array Searching:
 
 **6.Euclid&#39;s Algorithm when % and / operations are costly** [See Solution](https://gist.github.com/arun-sudharsan/4fbc34343533ed29a94f21daa7c9f94b)  
 
-7.Find the element that appears once
+**7.Find the element that appears once** [See Solution](https://gist.github.com/arun-sudharsan/d3c63a943250be611033f11638e8ed1c)  
 
 8.Interesting Facts about Bitwise Operators in C
 
