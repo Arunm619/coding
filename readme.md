@@ -316,8 +316,9 @@ Array Searching:
 
 **Bit algorithms:**
 
-**Bit Manipulations Basics** [See Solutions](https://gist.github.com/arun-sudharsan/5b4810285b4889d9cda5954a1640b0a2)  
-1.Smallest power of 2 greater than or equal to n
+**Bit Manipulations Basics** [See Solution](https://gist.github.com/arun-sudharsan/5b4810285b4889d9cda5954a1640b0a2)  
+
+**1.Smallest power of 2 greater than or equal to n** [See Solution](https://gist.github.com/arun-sudharsan/d75c9b6535e07104f68437bc6e693266)  
 
 2.Add 1 to a given number
 
