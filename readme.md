@@ -332,7 +332,7 @@ Array Searching:
 
 **7.Find the element that appears once** [See Solution](https://gist.github.com/arun-sudharsan/d3c63a943250be611033f11638e8ed1c)  
 
-8.Interesting Facts about Bitwise Operators in C
+**8.Interesting Facts about Bitwise Operators in C** [See Solution](https://gist.github.com/arun-sudharsan/c64d01ad3dd073bbb17416743fbd53c4)  
 
 9.Optimization Techniques | Set 1 (Modulus)
 
