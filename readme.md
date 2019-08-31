@@ -324,7 +324,7 @@ Array Searching:
 
 **3.How to swap two numbers without using a temporary variable** [See Solution](https://gist.github.com/arun-sudharsan/4a184a73b66ed42c344548acfe0d346e)  
 
-4.Check if binary representation of a number is palindrome
+**4.Check if binary representation of a number is palindrome** [See Solution](https://gist.github.com/arun-sudharsan/8827d0637b802471cb46eb5183c55665)  
 
 5.Efficient way to multiply with 7
 
