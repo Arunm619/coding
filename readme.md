@@ -352,7 +352,7 @@ Array Searching:
 
 Basics:
 
-1.Pangram Checking
+**1.Pangram Checking** [See Solution](https://gist.github.com/arun-sudharsan/05a8694c7d873af6d62f63ae6a3a6f5a)  
 
 2.Rearrange characters in a string such that no two adjacent are same
 
