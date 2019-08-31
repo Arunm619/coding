@@ -326,7 +326,7 @@ Array Searching:
 
 **4.Check if binary representation of a number is palindrome** [See Solution](https://gist.github.com/arun-sudharsan/8827d0637b802471cb46eb5183c55665)  
 
-5.Efficient way to multiply with 7
+**5.Efficient way to multiply with 7** [See Solution](https://gist.github.com/arun-sudharsan/5329515a29434cab82ca533597fa7125)  
 
 6.Euclid&#39;s Algorithm when % and / operations are costly
 
