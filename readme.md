@@ -344,9 +344,9 @@ Array Searching:
 
 **13.Builtin functions of GCC compiler** [Read](https://gist.github.com/arun-sudharsan/bb59c882c7eb3cd54a57e50e6c7fad8f)  
 
-14.Bits manipulation (Important tactics)
+**14.Bits manipulation (Important tactics)** 
 
-15.Bit Tricks for Competitive Programming
+**15.Bit Tricks for Competitive Programming** [Read](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
 
 **Strings:**
 
