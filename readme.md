@@ -328,7 +328,7 @@ Array Searching:
 
 **5.Efficient way to multiply with 7** [See Solution](https://gist.github.com/arun-sudharsan/5329515a29434cab82ca533597fa7125)  
 
-6.Euclid&#39;s Algorithm when % and / operations are costly
+**6.Euclid&#39;s Algorithm when % and / operations are costly** [See Solution](https://gist.github.com/arun-sudharsan/4fbc34343533ed29a94f21daa7c9f94b)  
 
 7.Find the element that appears once
 
