@@ -322,7 +322,7 @@ Array Searching:
 
 **2.Add 1 to a given number** [See Solution](https://gist.github.com/arun-sudharsan/4aac48c3bf795d6e86ed093ec7ff9898)  
 
-3.How to swap two numbers without using a temporary variable
+**3.How to swap two numbers without using a temporary variable** [See Solution](https://gist.github.com/arun-sudharsan/4a184a73b66ed42c344548acfe0d346e)  
 
 4.Check if binary representation of a number is palindrome
 
