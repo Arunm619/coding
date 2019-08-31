@@ -334,15 +334,15 @@ Array Searching:
 
 **8.Interesting Facts about Bitwise Operators in C** [See Solution](https://gist.github.com/arun-sudharsan/c64d01ad3dd073bbb17416743fbd53c4)  
 
-9.Optimization Techniques | Set 1 (Modulus)
+**9.Optimization Techniques | Set 1 (Modulus)**
 
-10.What are the differences between bitwise and logical AND operators in C/C++?
+**10.What are the differences between bitwise and logical AND operators in C/C++?**
 
-11.Bit Fields in C
+**11.Bit Fields in C** [Read](https://gist.github.com/arun-sudharsan/c64d01ad3dd073bbb17416743fbd53c4)  
+ 
+**12.C++ bitset interesting facts** [Read](https://gist.github.com/arun-sudharsan/bb59c882c7eb3cd54a57e50e6c7fad8f) 
 
-12.C++ bitset interesting facts
-
-13.Builtin functions of GCC compiler
+**13.Builtin functions of GCC compiler** [Read](https://gist.github.com/arun-sudharsan/bb59c882c7eb3cd54a57e50e6c7fad8f)  
 
 14.Bits manipulation (Important tactics)
 
