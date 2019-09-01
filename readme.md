@@ -370,7 +370,7 @@ Arthimetic Operation in String:
 
 **5.Calculate sum of all numbers present in a string** [See Solution](https://gist.github.com/arun-sudharsan/2ac87fed11ab5526742dda22e3632c80)  
 
-6.Extract maximum numeric value from a given string | Set 2 (Regex approach)
+**6.Extract maximum numeric value from a given string** [See Solution](https://gist.github.com/arun-sudharsan/913968c279637f808e3e5d20e5534470)  
 
 7.Calculate maximum value using &#39;+&#39; or &#39;\*&#39; sign between two numbers in a string
 
