@@ -374,7 +374,7 @@ Arthimetic Operation in String:
 
 **7.Calculate maximum value using &#39;+&#39; or &#39;\*&#39; sign between two numbers in a string** [See Solution](https://gist.github.com/arun-sudharsan/8b38ffe265eda6376b130e8c0d094fac)  
 
-8.Difference of two large numbers
+**8.Difference of two large numbers** [See Solution](https://gist.github.com/arun-sudharsan/36c7be4745832d19af4d29d1c0b295c9)  
 
 **9.Check if a large number is divisible by 4 or not** [See Solution](https://gist.github.com/arun-sudharsan/3eb51f8e6ce1e74654de3a4a5ee13365)  
 
