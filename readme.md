@@ -362,7 +362,7 @@ Basics:
 
 Arthimetic Operation in String:
 
-1.Minimum sum of squares of character counts in a given string after removing k characters
+**1.Minimum sum of squares of character counts in a given string after removing k characters** [See Solution](https://gist.github.com/arun-sudharsan/cd1917fef6b52b499ec87b106ec18148)  
 
 2.Maximum and minimum sums from two numbers with digit replacements
 
