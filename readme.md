@@ -372,7 +372,7 @@ Arthimetic Operation in String:
 
 **6.Extract maximum numeric value from a given string** [See Solution](https://gist.github.com/arun-sudharsan/913968c279637f808e3e5d20e5534470)  
 
-7.Calculate maximum value using &#39;+&#39; or &#39;\*&#39; sign between two numbers in a string
+**7.Calculate maximum value using &#39;+&#39; or &#39;\*&#39; sign between two numbers in a string** [See Solution](https://gist.github.com/arun-sudharsan/8b38ffe265eda6376b130e8c0d094fac)  
 
 8.Difference of two large numbers
 
