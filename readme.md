@@ -378,7 +378,7 @@ Arthimetic Operation in String:
 
 **9.Check if a large number is divisible by 4 or not** [See Solution](https://gist.github.com/arun-sudharsan/3eb51f8e6ce1e74654de3a4a5ee13365)  
 
-10.Check if a large number is divisible by 11 or not
+**10.Check if a large number is divisible by 11 or not** [See Solution](https://gist.github.com/arun-sudharsan/fb30c113467f27626c3e33e044459890)  
 
 1.Decimal representation of given binary string is divisible by 5 or not
 
