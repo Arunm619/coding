@@ -354,7 +354,7 @@ Basics:
 
 **1.Pangram Checking** [See Solution](https://gist.github.com/arun-sudharsan/05a8694c7d873af6d62f63ae6a3a6f5a)  
 
-2.Rearrange characters in a string such that no two adjacent are same
+**2.Rearrange characters in a string such that no two adjacent are same** [See Solution](https://gist.github.com/arun-sudharsan/11420c6ec9d1568f38e30f40f9526172)  
 
 **3.Check Whether a number is Duck Number or not** [See Solution](https://gist.github.com/arun-sudharsan/acde751ad7280b90400b322ac101c11b)  
 
