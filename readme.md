@@ -356,7 +356,7 @@ Basics:
 
 2.Rearrange characters in a string such that no two adjacent are same
 
-3.Check Whether a number is Duck Number or not
+**3.Check Whether a number is Duck Number or not** [See Solution](https://gist.github.com/arun-sudharsan/acde751ad7280b90400b322ac101c11b)  
 
 4.Round the given number to nearest multiple of 10
 
