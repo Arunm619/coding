@@ -368,7 +368,7 @@ Arthimetic Operation in String:
 
 **4.Sum of two large numbers** [See Solution](https://gist.github.com/arun-sudharsan/807913f154f40a91d13c7d6d0e342add)  
 
-5.Calculate sum of all numbers present in a string
+**5.Calculate sum of all numbers present in a string** [See Solution](https://gist.github.com/arun-sudharsan/2ac87fed11ab5526742dda22e3632c80)  
 
 6.Extract maximum numeric value from a given string | Set 2 (Regex approach)
 
