@@ -364,7 +364,7 @@ Arthimetic Operation in String:
 
 **1.Minimum sum of squares of character counts in a given string after removing k characters** [See Solution](https://gist.github.com/arun-sudharsan/cd1917fef6b52b499ec87b106ec18148)  
 
-2.Maximum and minimum sums from two numbers with digit replacements
+**2.Maximum and minimum sums from two numbers with digit replacements** [See Solution](https://gist.github.com/arun-sudharsan/27651043f3647d9134c14b01ca9f96dc)  
 
 4.Sum of two large numbers
 
