@@ -376,7 +376,7 @@ Arthimetic Operation in String:
 
 8.Difference of two large numbers
 
-9.Check if a large number is divisible by 4 or not
+**9.Check if a large number is divisible by 4 or not** [See Solution](https://gist.github.com/arun-sudharsan/3eb51f8e6ce1e74654de3a4a5ee13365)  
 
 10.Check if a large number is divisible by 11 or not
 
