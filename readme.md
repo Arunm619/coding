@@ -358,7 +358,7 @@ Basics:
 
 **3.Check Whether a number is Duck Number or not** [See Solution](https://gist.github.com/arun-sudharsan/acde751ad7280b90400b322ac101c11b)  
 
-4.Round the given number to nearest multiple of 10
+**4.Round the given number to nearest multiple of 10** [See Solution](https://gist.github.com/arun-sudharsan/e49d2da2ce13222b80656a03e35e128c)  
 
 Arthimetic Operation in String:
 
