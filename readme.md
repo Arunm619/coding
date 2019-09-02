@@ -386,7 +386,7 @@ Arthimetic Operation in String:
 
 **3.To check divisibility of any large number by 999** [See Solution](https://gist.github.com/arun-sudharsan/77a7274f420c16a2f87f7072ae98425e)  
 
-4.Multiply Large Numbers represented as Strings
+**4.Multiply Large Numbers represented as Strings** [See Solution](https://gist.github.com/arun-sudharsan/c03be6b4a3a92efdaa0c668f73a0c319)  
 
 5.Calculate the difficulty of a sentence
 
