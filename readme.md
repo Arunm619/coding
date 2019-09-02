@@ -392,7 +392,7 @@ Arthimetic Operation in String:
 
 **6.Remainder with 7 for large numbers** [See Solution](https://gist.github.com/arun-sudharsan/99184e5b1be833c0ce0739f1060fec6c)  
 
-7.Check whether a given number is even or odd
+**7.Check whether a given number is even or odd** [See Solution](https://gist.github.com/arun-sudharsan/265b1704c6b87d6665e743f7ec9c2e49)  
 
 Character Counting Based Problems :
 
