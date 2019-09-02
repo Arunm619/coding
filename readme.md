@@ -380,7 +380,7 @@ Arthimetic Operation in String:
 
 **10.Check if a large number is divisible by 11 or not** [See Solution](https://gist.github.com/arun-sudharsan/fb30c113467f27626c3e33e044459890)  
 
-1.Decimal representation of given binary string is divisible by 5 or not
+**1.Decimal representation of given binary string is divisible by 5 or not** [See Solution](https://gist.github.com/arun-sudharsan/c8a1e94aa246c3d796559ba6ce778242)  
 
 2.Divide large number represented as string
 
