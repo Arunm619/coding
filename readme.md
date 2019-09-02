@@ -384,7 +384,7 @@ Arthimetic Operation in String:
 
 **2.Divide large number represented as string** [See Solution](https://gist.github.com/arun-sudharsan/0e67443605aa534b4e5b46dcf441cbc1)  
 
-3.To check divisibility of any large number by 999
+**3.To check divisibility of any large number by 999** [See Solution](https://gist.github.com/arun-sudharsan/77a7274f420c16a2f87f7072ae98425e)  
 
 4.Multiply Large Numbers represented as Strings
 
