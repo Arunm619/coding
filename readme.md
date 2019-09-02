@@ -388,7 +388,7 @@ Arthimetic Operation in String:
 
 **4.Multiply Large Numbers represented as Strings** [See Solution](https://gist.github.com/arun-sudharsan/c03be6b4a3a92efdaa0c668f73a0c319)  
 
-5.Calculate the difficulty of a sentence
+**5.Calculate the difficulty of a sentence** [See Solution](https://gist.github.com/arun-sudharsan/cbdfd3ecc12b1c1bde54cd77dd987a03)  
 
 6.Remainder with 7 for large numbers
 
