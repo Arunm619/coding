@@ -390,7 +390,7 @@ Arthimetic Operation in String:
 
 **5.Calculate the difficulty of a sentence** [See Solution](https://gist.github.com/arun-sudharsan/cbdfd3ecc12b1c1bde54cd77dd987a03)  
 
-6.Remainder with 7 for large numbers
+**6.Remainder with 7 for large numbers** [See Solution](https://gist.github.com/arun-sudharsan/99184e5b1be833c0ce0739f1060fec6c)  
 
 7.Check whether a given number is even or odd
 
