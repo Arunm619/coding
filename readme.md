@@ -382,7 +382,7 @@ Arthimetic Operation in String:
 
 **1.Decimal representation of given binary string is divisible by 5 or not** [See Solution](https://gist.github.com/arun-sudharsan/c8a1e94aa246c3d796559ba6ce778242)  
 
-2.Divide large number represented as string
+**2.Divide large number represented as string** [See Solution](https://gist.github.com/arun-sudharsan/0e67443605aa534b4e5b46dcf441cbc1)  
 
 3.To check divisibility of any large number by 999
 
