@@ -406,7 +406,7 @@ Character Counting Based Problems :
 
 **6.Count words in a given string** [See Solution](https://gist.github.com/arun-sudharsan/c9b44cd510275bd4c32c3cf538883305)  
 
-7.Count substrings with same first and last characters
+**7.Count substrings with same first and last characters** [See Solution](https://gist.github.com/arun-sudharsan/1e9d94379fd86a5cf643000d49ab873c)  
 
 8.Count number of strings (made of R, G and B) using given combination
 
