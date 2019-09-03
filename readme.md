@@ -396,7 +396,7 @@ Arthimetic Operation in String:
 
 Character Counting Based Problems :
 
-1.Count Uppercase, Lowercase, special character and numeric values
+**1.Count Uppercase, Lowercase, special character and numeric values** [See Solution](https://gist.github.com/arun-sudharsan/7cffcfe94a484e8108b1281fd3099188)  
 
 2.Find the smallest window in a string containing all characters of another string
 
