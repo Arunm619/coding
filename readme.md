@@ -412,7 +412,7 @@ Character Counting Based Problems :
 
 9.Count of strings that can be formed using a, b and c under given constraints
 
-10.Count number of equal pairs in a string
+**10.Count number of equal pairs in a string** [See Solution](https://gist.github.com/arun-sudharsan/617c8d2a206ffc01224dae1479f4c4a3)  
 
 1.Print all distinct characters of a string in order (3 Methods)
 
