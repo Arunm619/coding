@@ -402,7 +402,7 @@ Character Counting Based Problems :
 
 **3.Smallest window that contains all characters of string itself** [See Solution](https://gist.github.com/arun-sudharsan/def033d131eb4a31790411d8cca0255e)  
 
-4.Count number of substrings with exactly k distinct characters
+**4.Count number of substrings with exactly k distinct characters** [See Solution](https://gist.github.com/arun-sudharsan/5a0c2eaa9c758a97f5df3acf72c31f7b)  
 
 6.Count words in a given string
 
