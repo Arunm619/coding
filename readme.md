@@ -398,7 +398,7 @@ Character Counting Based Problems :
 
 **1.Count Uppercase, Lowercase, special character and numeric values** [See Solution](https://gist.github.com/arun-sudharsan/7cffcfe94a484e8108b1281fd3099188)  
 
-2.Find the smallest window in a string containing all characters of another string
+**2.Find the smallest window in a string containing all characters of another string** [See Solution](https://gist.github.com/arun-sudharsan/ad5a7a0e626ff50d5241ca7433cb7362)  
 
 3.Smallest window that contains all characters of string itself
 
