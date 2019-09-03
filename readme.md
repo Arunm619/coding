@@ -400,7 +400,7 @@ Character Counting Based Problems :
 
 **2.Find the smallest window in a string containing all characters of another string** [See Solution](https://gist.github.com/arun-sudharsan/ad5a7a0e626ff50d5241ca7433cb7362)  
 
-3.Smallest window that contains all characters of string itself
+**3.Smallest window that contains all characters of string itself** [See Solution](https://gist.github.com/arun-sudharsan/def033d131eb4a31790411d8cca0255e)  
 
 4.Count number of substrings with exactly k distinct characters
 
