@@ -404,7 +404,7 @@ Character Counting Based Problems :
 
 **4.Count number of substrings with exactly k distinct characters** [See Solution](https://gist.github.com/arun-sudharsan/5a0c2eaa9c758a97f5df3acf72c31f7b)  
 
-6.Count words in a given string
+**6.Count words in a given string** [See Solution](https://gist.github.com/arun-sudharsan/c9b44cd510275bd4c32c3cf538883305)  
 
 7.Count substrings with same first and last characters
 
