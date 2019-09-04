@@ -418,7 +418,7 @@ Character Counting Based Problems :
 
 **2.Concatenated string with uncommon characters of two strings** [See Solution](https://gist.github.com/arun-sudharsan/3acce929719c2c6dca3e02300003b870)  
 
-3.Program to count vowels in a string (Iterative and Recursive)
+**3.Program to count vowels in a string (Iterative and Recursive)** [See Solution](https://gist.github.com/arun-sudharsan/82dc5b33f18b77e9bebcd458e3172ff0)  
 
 4.Given a binary string, count number of substrings that start and end with 1.
 
