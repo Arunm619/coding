@@ -430,7 +430,7 @@ Character Counting Based Problems :
 
 **8.Find the character in first string that is present at minimum index in second string** [See Solution](https://gist.github.com/arun-sudharsan/91c70fcf1d4174d4b193e0c99a3016b6)  
 
-9.Remove characters from the first string which are present in the second string
+**9.Remove characters from the first string which are present in the second string** [See Solution](https://gist.github.com/arun-sudharsan/caafc7f85f215df2fdfc861d1bcdd524)  
 
 10.Length of Longest sub-string that can be removed
 
