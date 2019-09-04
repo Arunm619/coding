@@ -424,7 +424,7 @@ Character Counting Based Problems :
 
 **5.Count words that appear exactly two times in an array of words** [See Solution](https://gist.github.com/arun-sudharsan/b1756bebac0769a64b9b6ffab31703c9)  
 
-6.Check if frequency of all characters can become same by one removal
+**6.Check if frequency of all characters can become same by one removal** [See Solution](https://gist.github.com/arun-sudharsan/9beed9277401f525ea9c5a63a784e831)  
 
 7.Count ways to increase LCS length of two strings by one
 
