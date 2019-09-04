@@ -422,7 +422,7 @@ Character Counting Based Problems :
 
 **4.Given a binary string, count number of substrings that start and end with 1.** [See Solution](https://gist.github.com/arun-sudharsan/ee953cdade17756c90e40a2f4d468046)  
 
-5.Count words that appear exactly two times in an array of words
+**5.Count words that appear exactly two times in an array of words** [See Solution](https://gist.github.com/arun-sudharsan/b1756bebac0769a64b9b6ffab31703c9)  
 
 6.Check if frequency of all characters can become same by one removal
 
