@@ -416,7 +416,7 @@ Character Counting Based Problems :
 
 **1.Print all distinct characters of a string in order (3 Methods)** [See Solution](https://gist.github.com/arun-sudharsan/7e4029c1077746cad28ad2728c707894)  
 
-2.Concatenated string with uncommon characters of two strings
+**2.Concatenated string with uncommon characters of two strings** [See Solution](https://gist.github.com/arun-sudharsan/3acce929719c2c6dca3e02300003b870)  
 
 3.Program to count vowels in a string (Iterative and Recursive)
 
