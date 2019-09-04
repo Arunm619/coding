@@ -432,7 +432,7 @@ Character Counting Based Problems :
 
 **9.Remove characters from the first string which are present in the second string** [See Solution](https://gist.github.com/arun-sudharsan/caafc7f85f215df2fdfc861d1bcdd524)  
 
-10.Length of Longest sub-string that can be removed
+**10.Length of Longest sub-string that can be removed** [See Solution](https://gist.github.com/arun-sudharsan/4c7da9d93bf638696742b57f4a597c68)  
 
 String | Subsequence &amp; Substring
 
