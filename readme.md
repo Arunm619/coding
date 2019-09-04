@@ -428,7 +428,7 @@ Character Counting Based Problems :
 
 7.Count ways to increase LCS length of two strings by one
 
-8.Find the character in first string that is present at minimum index in second string
+**8.Find the character in first string that is present at minimum index in second string** [See Solution](https://gist.github.com/arun-sudharsan/91c70fcf1d4174d4b193e0c99a3016b6)  
 
 9.Remove characters from the first string which are present in the second string
 
