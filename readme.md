@@ -414,7 +414,7 @@ Character Counting Based Problems :
 
 **10.Count number of equal pairs in a string** [See Solution](https://gist.github.com/arun-sudharsan/617c8d2a206ffc01224dae1479f4c4a3)  
 
-1.Print all distinct characters of a string in order (3 Methods)
+**1.Print all distinct characters of a string in order (3 Methods)** [See Solution](https://gist.github.com/arun-sudharsan/7e4029c1077746cad28ad2728c707894)  
 
 2.Concatenated string with uncommon characters of two strings
 
