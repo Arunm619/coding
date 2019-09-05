@@ -440,7 +440,7 @@ String | Subsequence &amp; Substring
 
 **2.Number of subsequences of the form a^i b^j c^k** [See Solution](https://gist.github.com/arun-sudharsan/f9bb67fad145fae5098ac65d7348bd3a)  
 
-3.Count All Palindromic Subsequence in a given String
+**3.Count All Palindromic Subsequence in a given String** [See Solution](https://gist.github.com/arun-sudharsan/8c7420289c4a03f02d4ce42ed722ec4a)  
 
 4.Find number of times a string occurs as a subsequence in given string
 
