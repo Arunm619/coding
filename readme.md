@@ -461,7 +461,7 @@ String | Subsequence &amp; Substring
 
 1.Print all Subsequences of String which Start with Vowel and End with Consonant.
 
-2.Find if a given string can be represented from a substring by iterating the substring &quot;n&quot; times
+**2.Find if a given string can be represented from a substring by iterating the substring &quot;n&quot; times** [See Solution](https://gist.github.com/arun-sudharsan/afdeb29b95d0f40dee9e4ea9f0b24b9e)  
 
 3.Longest common substring in binary representation of two numbers
 
