@@ -446,7 +446,7 @@ String | Subsequence &amp; Substring
 
 5.Count Distinct Subsequences
 
-6.Count distinct occurrences as a subsequence
+**6.Count distinct occurrences as a subsequence** [See Solution](https://gist.github.com/arun-sudharsan/4c8dd299d07e6350778dc1619f3162d8)  
 
 7.Longest common subsequence with permutations allowed
 
