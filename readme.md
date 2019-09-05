@@ -448,7 +448,7 @@ String | Subsequence &amp; Substring
 
 **6.Count distinct occurrences as a subsequence** [See Solution](https://gist.github.com/arun-sudharsan/4c8dd299d07e6350778dc1619f3162d8)  
 
-7.Longest common subsequence with permutations allowed
+**7.Longest common subsequence with permutations allowed** [See Solution](https://gist.github.com/arun-sudharsan/4888e30b283398df7a75f28b8d5bddad)  
 
 8.Minimum number of palindromic subsequences to be removed to empty a binary string
 
