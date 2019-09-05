@@ -438,7 +438,7 @@ String | Subsequence &amp; Substring
 
 **1.Given two strings, find if first string is a subsequence of second** [See Solution](https://gist.github.com/arun-sudharsan/46cd31fa144aebc4cf592b55aa8e57c5)  
 
-2.Number of subsequences of the form a^i b^j c^k
+**2.Number of subsequences of the form a^i b^j c^k** [See Solution](https://gist.github.com/arun-sudharsan/f9bb67fad145fae5098ac65d7348bd3a)  
 
 3.Count All Palindromic Subsequence in a given String
 
