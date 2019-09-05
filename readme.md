@@ -455,7 +455,7 @@ String | Subsequence &amp; Substring
 **9.Longest Repeating Subsequence** [See Solution](https://gist.github.com/arun-sudharsan/42eb7357a69ecdd8bb704523c4731113)  
 **Longest Common Subsequence** [See Solution](https://gist.github.com/arun-sudharsan/6fc0fbcc2fa1f6e493f61df3b03aadc2)  
 
-10.Find largest word in dictionary by deleting some characters of given string
+**10.Find largest word in dictionary by deleting some characters of given string** [See Solution](https://gist.github.com/arun-sudharsan/a240cbe9e5b2f096609082e1347c5c67)  
 
 
 
