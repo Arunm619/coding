@@ -442,7 +442,7 @@ String | Subsequence &amp; Substring
 
 **3.Count All Palindromic Subsequence in a given String** [See Solution](https://gist.github.com/arun-sudharsan/8c7420289c4a03f02d4ce42ed722ec4a)  
 
-4.Find number of times a string occurs as a subsequence in given string
+**4.Find number of times a string occurs as a subsequence in given string** [See Solution](https://gist.github.com/arun-sudharsan/3c2ccd12a15adaf106bd2924dbef0f87)  
 
 5.Count Distinct Subsequences
 
