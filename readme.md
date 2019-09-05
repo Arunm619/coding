@@ -450,7 +450,7 @@ String | Subsequence &amp; Substring
 
 **7.Longest common subsequence with permutations allowed** [See Solution](https://gist.github.com/arun-sudharsan/4888e30b283398df7a75f28b8d5bddad)  
 
-8.Minimum number of palindromic subsequences to be removed to empty a binary string
+**8.Minimum number of palindromic subsequences to be removed to empty a binary string** [See Solution](https://gist.github.com/arun-sudharsan/587eef71cc92e0ec5fd9fa4cde26a5fe)  
 
 9.Longest Repeating Subsequence
 
