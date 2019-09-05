@@ -452,7 +452,8 @@ String | Subsequence &amp; Substring
 
 **8.Minimum number of palindromic subsequences to be removed to empty a binary string** [See Solution](https://gist.github.com/arun-sudharsan/587eef71cc92e0ec5fd9fa4cde26a5fe)  
 
-9.Longest Repeating Subsequence
+9.Longest Repeating Subsequence  
+**Longest Common Subsequence** [See Solution](https://gist.github.com/arun-sudharsan/6fc0fbcc2fa1f6e493f61df3b03aadc2)  
 
 10.Find largest word in dictionary by deleting some characters of given string
 
