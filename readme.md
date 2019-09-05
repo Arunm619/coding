@@ -436,7 +436,7 @@ Character Counting Based Problems :
 
 String | Subsequence &amp; Substring
 
-1.Given two strings, find if first string is a subsequence of second
+**1.Given two strings, find if first string is a subsequence of second** [See Solution](https://gist.github.com/arun-sudharsan/46cd31fa144aebc4cf592b55aa8e57c5)  
 
 2.Number of subsequences of the form a^i b^j c^k
 
