@@ -474,7 +474,7 @@ String | Subsequence &amp; Substring
 **Longest Common Substring** [See Solution](https://gist.github.com/arun-sudharsan/f3a54a0f30f0cfd724ed9f94193f22ce)  
 **7.Longest repeating and non-overlapping substring** [See Solution](https://gist.github.com/arun-sudharsan/d2ee64bb18c14b3f525e92f6a1147d86)  
 
-8.Length of the longest valid substring
+**8.Length of the longest valid substring** [See Solution](https://gist.github.com/arun-sudharsan/53f778dd090f0eddb0720d4d8f637805)  
 
 **9.Length Of Last Word in a String** [See Solution](https://gist.github.com/arun-sudharsan/25185dd7d7524c0154519488634597b3)  
 
