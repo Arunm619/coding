@@ -469,7 +469,7 @@ String | Subsequence &amp; Substring
 
 **5.Maximum length substring having all same characters after k changes** [See Solution](https://gist.github.com/arun-sudharsan/f92caea206cb7726942ddc0f27fe5991)  
 
-6.Find length of longest subsequence of one string which is substring of another string
+**6.Find length of longest subsequence of one string which is substring of another string** [See Solution](https://gist.github.com/arun-sudharsan/d15a049f391a67a1bfb0eaf33acacd94)  
 
 7.Longest repeating and non-overlapping substring
 
