@@ -465,7 +465,7 @@ String | Subsequence &amp; Substring
 
 3.Longest common substring in binary representation of two numbers
 
-4.Find the longest substring with k unique characters in a given string
+**4.Find the longest substring with k unique characters in a given string** [See Solution](https://gist.github.com/arun-sudharsan/fb79b030ca321d413a0a43120a68559c)  
 
 5.Maximum length substring having all same characters after k changes
 
