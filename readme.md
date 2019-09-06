@@ -472,7 +472,7 @@ String | Subsequence &amp; Substring
 **6.Find length of longest subsequence of one string which is substring of another string** [See Solution](https://gist.github.com/arun-sudharsan/d15a049f391a67a1bfb0eaf33acacd94)  
 
 **Longest Common Substring** [See Solution](https://gist.github.com/arun-sudharsan/f3a54a0f30f0cfd724ed9f94193f22ce)  
-7.Longest repeating and non-overlapping substring
+**7.Longest repeating and non-overlapping substring** [See Solution](https://gist.github.com/arun-sudharsan/d2ee64bb18c14b3f525e92f6a1147d86)  
 
 8.Length of the longest valid substring
 
