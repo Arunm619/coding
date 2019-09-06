@@ -459,7 +459,7 @@ String | Subsequence &amp; Substring
 
 
 
-1.Print all Subsequences of String which Start with Vowel and End with Consonant.
+**1.Print all Subsequences of String which Start with Vowel and End with Consonant.** [See Solution](https://gist.github.com/arun-sudharsan/e78a812b6b72b04f1d79e59847eac2d5)  
 
 **2.Find if a given string can be represented from a substring by iterating the substring &quot;n&quot; times** [See Solution](https://gist.github.com/arun-sudharsan/afdeb29b95d0f40dee9e4ea9f0b24b9e)  
 
