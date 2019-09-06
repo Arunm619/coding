@@ -467,7 +467,7 @@ String | Subsequence &amp; Substring
 
 **4.Find the longest substring with k unique characters in a given string** [See Solution](https://gist.github.com/arun-sudharsan/fb79b030ca321d413a0a43120a68559c)  
 
-5.Maximum length substring having all same characters after k changes
+**5.Maximum length substring having all same characters after k changes** [See Solution](https://gist.github.com/arun-sudharsan/f92caea206cb7726942ddc0f27fe5991)  
 
 6.Find length of longest subsequence of one string which is substring of another string
 
