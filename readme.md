@@ -536,7 +536,7 @@ Reverse &amp; Rotation :
 
 **3.Write a program to reverse an array or string** [See Solution](https://gist.github.com/arun-sudharsan/bc588da52592cba0ce422ae287a270d4)  
 
-4.Reverse an array without affecting special characters
+**4.Reverse an array without affecting special characters** [See Solution](https://gist.github.com/arun-sudharsan/30c6220ee881e2385246430038e8cab1)  
 
 5.Reverse words in a given string b
 
