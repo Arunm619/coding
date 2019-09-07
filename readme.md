@@ -534,7 +534,7 @@ Reverse &amp; Rotation :
 
 **2.Check if a string can be obtained by rotating another string 2 places**[See Solution](https://gist.github.com/arun-sudharsan/2eec983dd5ad8151432c09802d620ccf)  
 
-3.Write a program to reverse an array or string
+**3.Write a program to reverse an array or string** [See Solution](https://gist.github.com/arun-sudharsan/bc588da52592cba0ce422ae287a270d4)  
 
 4.Reverse an array without affecting special characters
 
