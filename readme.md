@@ -520,7 +520,7 @@ Anagram :
 
 **5.Check if two strings are k-anagrams or not** [See Solution](https://gist.github.com/arun-sudharsan/2a6601bfc3fb0055ca36576e1590bbb1)  
 
-6.Check if two strings are permutation of each other
+**6.Check if two strings are permutation of each other** [See Solution](https://gist.github.com/arun-sudharsan/a4692763cd945b687c12d33f04d0747c)  
 
 7.Check if any anagram of a string is palindrome or not
 
