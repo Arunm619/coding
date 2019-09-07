@@ -502,7 +502,7 @@ Spacing :
 
 Case Sensitive String :
 
-1.Lower case to upper case – An interesting fact
+**1.Lower case to upper case – An interesting fact** [See Solution](https://gist.github.com/arun-sudharsan/b58fd7e4ad6e942b31821135e338a499)  
 
 **2.Print all words matching a pattern in CamelCase Notation Dictonary** [See Solution](https://gist.github.com/arun-sudharsan/72248abd9b496fdd9398e3ead5a18434)  
 
