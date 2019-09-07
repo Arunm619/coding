@@ -542,7 +542,7 @@ Reverse &amp; Rotation :
 
 **6.Reverse a string preserving space positions** [See Solution](https://gist.github.com/arun-sudharsan/adb625f768fd18fdf4b4a5c896684c04)  
 
-7.Reverse vowels in a given string
+**7.Reverse vowels in a given string** [See Solution](https://gist.github.com/arun-sudharsan/7e9c64fb499d33ec8e5a1ad80bcd32f3)  
 
 8.Perfect reversible string
 
