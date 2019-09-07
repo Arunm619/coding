@@ -510,7 +510,7 @@ Case Sensitive String :
 
 Anagram :
 
-1.Check whether two strings are anagram of each other
+**1.Check whether two strings are anagram of each other** [See Solution](https://gist.github.com/arun-sudharsan/a4692763cd945b687c12d33f04d0747c)  
 
 2.Given a sequence of words, print all anagrams together | Set 1
 
