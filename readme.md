@@ -498,7 +498,7 @@ Spacing :
 
 **4.String containing first letter of every word in a given string with spaces** [See Solution](https://gist.github.com/arun-sudharsan/080990497c07a9b8674ddea92923665e)  
 
-5.Print all possible strings that can be made by placing spaces
+**5.Print all possible strings that can be made by placing spaces** [See Solution](https://gist.github.com/arun-sudharsan/b2a4e7e9b6b5a2bcc4da2bb7f6d2d144)  
 
 Case Sensitive String :
 
