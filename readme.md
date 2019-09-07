@@ -496,7 +496,7 @@ Spacing :
 
 **3.URLify a given string (Replace spaces is %20)** [See Solution](https://gist.github.com/arun-sudharsan/d0f60d8c5d69ec7136e3a8b3315ccb58)  
 
-4.String containing first letter of every word in a given string with spaces
+**4.String containing first letter of every word in a given string with spaces** [See Solution](https://gist.github.com/arun-sudharsan/080990497c07a9b8674ddea92923665e)  
 
 5.Print all possible strings that can be made by placing spaces
 
