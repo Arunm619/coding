@@ -538,7 +538,7 @@ Reverse &amp; Rotation :
 
 **4.Reverse an array without affecting special characters** [See Solution](https://gist.github.com/arun-sudharsan/30c6220ee881e2385246430038e8cab1)  
 
-5.Reverse words in a given string b
+**5.Reverse words in a given string b** [See Solution](https://gist.github.com/arun-sudharsan/b9ecccc07204361feb55f900358ed710)  
 
 6.Reverse a string preserving space positions
 
