@@ -490,7 +490,7 @@ String | Subsequence &amp; Substring
 
 Spacing :
 
-1.Remove spaces from a given string
+**1.Remove spaces from a given string** [See Solution](https://gist.github.com/arun-sudharsan/0cc08520e32c1d01a29b0c96c47a1fbb)  
 
 2.Put spaces between words starting with capital letters
 
