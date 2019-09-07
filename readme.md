@@ -504,7 +504,7 @@ Case Sensitive String :
 
 1.Lower case to upper case – An interesting fact
 
-2.Print all words matching a pattern in CamelCase Notation Dictonary
+**2.Print all words matching a pattern in CamelCase Notation Dictonary** [See Solution](https://gist.github.com/arun-sudharsan/72248abd9b496fdd9398e3ead5a18434)  
 
 3.How to design a tiny URL or URL shortener?
 
