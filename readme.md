@@ -492,7 +492,7 @@ Spacing :
 
 **1.Remove spaces from a given string** [See Solution](https://gist.github.com/arun-sudharsan/0cc08520e32c1d01a29b0c96c47a1fbb)  
 
-2.Put spaces between words starting with capital letters
+**2.Put spaces between words starting with capital letters** [See Solution](https://gist.github.com/arun-sudharsan/7db1a93d727208691fc3d895d66e3ef4)  
 
 3.URLify a given string (Replace spaces is %20)
 
