@@ -516,7 +516,7 @@ Anagram :
 
 **3.Anagram Substring Search (Or Search for all permutations)** [See Solution](https://gist.github.com/arun-sudharsan/e46bda3f724aeaa033539c2290442732)  
 
-4.Remove minimum number of characters so that two strings become anagram
+**4.Remove minimum number of characters so that two strings become anagram** [See Solution](https://gist.github.com/arun-sudharsan/c7a1c37f87df2da647870d93d5b2f7dc)  
 
 5.Check if two strings are k-anagrams or not
 
