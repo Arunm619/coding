@@ -486,7 +486,7 @@ String | Subsequence &amp; Substring
 
 **2.Number of even substrings in a string of digits** [See Solution](https://gist.github.com/arun-sudharsan/38ba80e27cd21436e8311236dea5e5d1)  
 
-3.Length of the smallest sub-string consisting of maximum distinct characters
+**3.Length of the smallest sub-string consisting of maximum distinct characters** [See Solution](https://gist.github.com/arun-sudharsan/f5234d51c7b10f5c50656d7ad7b6682c)  
 
 Spacing :
 
