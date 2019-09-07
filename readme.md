@@ -530,9 +530,9 @@ Anagram :
 
 Reverse &amp; Rotation :
 
-1.Length of the smallest sub-string consisting of maximum distinct characters
+**1.Length of the smallest sub-string consisting of maximum distinct characters** [See Solution](https://gist.github.com/arun-sudharsan/f5234d51c7b10f5c50656d7ad7b6682c)  
 
-2.Check if a string can be obtained by rotating another string 2 places
+**2.Check if a string can be obtained by rotating another string 2 places**[See Solution](https://gist.github.com/arun-sudharsan/2eec983dd5ad8151432c09802d620ccf)  
 
 3.Write a program to reverse an array or string
 
