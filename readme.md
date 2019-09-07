@@ -544,7 +544,7 @@ Reverse &amp; Rotation :
 
 **7.Reverse vowels in a given string** [See Solution](https://gist.github.com/arun-sudharsan/7e9c64fb499d33ec8e5a1ad80bcd32f3)  
 
-8.Perfect reversible string
+**8.Perfect reversible string** [See Solution](https://gist.github.com/arun-sudharsan/0893a026b1ec93149a53e87fd67f35eb)  
 
 Occurrence Based String :
 
