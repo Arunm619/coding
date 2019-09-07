@@ -524,7 +524,7 @@ Anagram :
 
 **7.Check if any anagram of a string is palindrome or not** [See Solution](https://gist.github.com/arun-sudharsan/1639a6ab4dc5c6aa8a551ded3db9b94a)  
 
-8.Minimum Number of Manipulations required to make two Strings Anagram Without Deletion of Character
+**8.Minimum Number of Manipulations required to make two Strings Anagram Without Deletion of Character** [See Solution](https://gist.github.com/arun-sudharsan/a14923bb3ac232e7b059ebf0f52f8b14)  
 
 
 
