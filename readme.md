@@ -540,7 +540,7 @@ Reverse &amp; Rotation :
 
 **5.Reverse words in a given string b** [See Solution](https://gist.github.com/arun-sudharsan/b9ecccc07204361feb55f900358ed710)  
 
-6.Reverse a string preserving space positions
+**6.Reverse a string preserving space positions** [See Solution](https://gist.github.com/arun-sudharsan/adb625f768fd18fdf4b4a5c896684c04)  
 
 7.Reverse vowels in a given string
 
