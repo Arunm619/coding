@@ -518,7 +518,7 @@ Anagram :
 
 **4.Remove minimum number of characters so that two strings become anagram** [See Solution](https://gist.github.com/arun-sudharsan/c7a1c37f87df2da647870d93d5b2f7dc)  
 
-5.Check if two strings are k-anagrams or not
+**5.Check if two strings are k-anagrams or not** [See Solution](https://gist.github.com/arun-sudharsan/2a6601bfc3fb0055ca36576e1590bbb1)  
 
 6.Check if two strings are permutation of each other
 
