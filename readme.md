@@ -478,7 +478,7 @@ String | Subsequence &amp; Substring
 
 **9.Length Of Last Word in a String** [See Solution](https://gist.github.com/arun-sudharsan/25185dd7d7524c0154519488634597b3)  
 
-10.Longest Even Length Substring such that Sum of First and Second Half is same
+**10.Longest Even Length Substring such that Sum of First and Second Half is same** [See Solution](https://gist.github.com/arun-sudharsan/76543653501ee5b7f0e368a1df648001)  
 
 
 
