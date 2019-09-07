@@ -512,7 +512,7 @@ Anagram :
 
 **1.Check whether two strings are anagram of each other** [See Solution](https://gist.github.com/arun-sudharsan/a4692763cd945b687c12d33f04d0747c)  
 
-2.Given a sequence of words, print all anagrams together | Set 1
+**2.Given a sequence of words, print all anagrams together | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/a7887a70fd37ab375742fc112ac021d1)  
 
 3.Anagram Substring Search (Or Search for all permutations)
 
