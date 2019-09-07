@@ -514,7 +514,7 @@ Anagram :
 
 **2.Given a sequence of words, print all anagrams together | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/a7887a70fd37ab375742fc112ac021d1)  
 
-3.Anagram Substring Search (Or Search for all permutations)
+**3.Anagram Substring Search (Or Search for all permutations)** [See Solution](https://gist.github.com/arun-sudharsan/e46bda3f724aeaa033539c2290442732)  
 
 4.Remove minimum number of characters so that two strings become anagram
 
