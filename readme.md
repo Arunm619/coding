@@ -522,7 +522,7 @@ Anagram :
 
 **6.Check if two strings are permutation of each other** [See Solution](https://gist.github.com/arun-sudharsan/a4692763cd945b687c12d33f04d0747c)  
 
-7.Check if any anagram of a string is palindrome or not
+**7.Check if any anagram of a string is palindrome or not** [See Solution](https://gist.github.com/arun-sudharsan/1639a6ab4dc5c6aa8a551ded3db9b94a)  
 
 8.Minimum Number of Manipulations required to make two Strings Anagram Without Deletion of Character
 
