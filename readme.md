@@ -482,7 +482,7 @@ String | Subsequence &amp; Substring
 
 
 
-1.Sum of all substrings of a string representing a number |Set2 (Constant Extra Space)
+**1.Sum of all substrings of a string representing a number |Set2 (Constant Extra Space)** [See Solution](https://gist.github.com/arun-sudharsan/45c75c6da1d73ec8c8c4100d4b29ca1e)  
 
 2.Number of even substrings in a string of digits
 
