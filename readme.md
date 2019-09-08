@@ -554,9 +554,10 @@ Occurrence Based String :
 
 **3.Convert to a string that is repetition of a substring of k length** [See Solution](https://gist.github.com/arun-sudharsan/3b64567c0a183a4b2651e253db3db4ea)  
 
-4.Queue based approach for first non-repeating character in a stream
+**4.Queue based approach for first non-repeating character in a stream** [See Solution](
+https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)  
 
-5.Find the first repeated word in a string
+**5.Find the first repeated word in a string** [See Solution](https://gist.github.com/arun-sudharsan/0c9aa41adbd2f4ad55185f5b702fbd02)  
 
 6.Find the first repeated character in a string
 
