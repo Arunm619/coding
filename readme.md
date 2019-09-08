@@ -579,7 +579,7 @@ https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)
 
 Palindrome:
 
-1.C Program to Check if a Given String is Palindrome
+**1.C Program to Check if a Given String is Palindrome** [See Solution](https://gist.github.com/arun-sudharsan/9322d14dfbc4eb0cda13f984358f1857)  
 
 2.Check if a given string is a rotation of a palindrome
 
