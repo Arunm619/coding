@@ -552,7 +552,7 @@ Occurrence Based String :
 
 **2.Find the first non-repeating character from a stream of characters** [See Solution](https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)  
 
-3.Convert to a string that is repetition of a substring of k length
+**3.Convert to a string that is repetition of a substring of k length** [See Solution](https://gist.github.com/arun-sudharsan/3b64567c0a183a4b2651e253db3db4ea)  
 
 4.Queue based approach for first non-repeating character in a stream
 
