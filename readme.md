@@ -565,7 +565,7 @@ https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)
 
 **8.Most frequent word in an array of strings** [See Solution](https://gist.github.com/arun-sudharsan/652db2b3debfdecd1aa29674e0fe4cc4)  
 
-9.Efficiently find first repeated character in a string without using any additional data structure in one traversal
+**9.Efficiently find first repeated character in a string without using any additional data structure in one traversal** [See Solution](https://gist.github.com/arun-sudharsan/da9fd5ca9648804ccd80977763f6621d)  
 
 10.Return maximum occurring character in an input string
 
