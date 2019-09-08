@@ -569,7 +569,7 @@ https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)
 
 **10.Return maximum occurring character in an input string** [See Solution](https://gist.github.com/arun-sudharsan/dc8b7b6700ffa099074223defbf7ef59)  
 
-11.Print the string by ignoring alternate occurrences of any character
+**11.Print the string by ignoring alternate occurrences of any character** [See Solution](https://gist.github.com/arun-sudharsan/27eee1df631bd9100dff2c9cca5c4719)  
 
 2.Print the string after the specified character has occurred given no. of times
 
