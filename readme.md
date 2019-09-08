@@ -561,9 +561,9 @@ https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)
 
 **6.Find the first repeated character in a string** [See Solution](https://gist.github.com/arun-sudharsan/da9fd5ca9648804ccd80977763f6621d)  
 
-7.Second most repeated word in a sequence
+**7.Second most repeated word in a sequence** [See Solution](https://gist.github.com/arun-sudharsan/0c9aa41adbd2f4ad55185f5b702fbd02)  
 
-8.Most frequent word in an array of strings
+**8.Most frequent word in an array of strings** [See Solution](https://gist.github.com/arun-sudharsan/652db2b3debfdecd1aa29674e0fe4cc4)  
 
 9.Efficiently find first repeated character in a string without using any additional data structure in one traversal
 
