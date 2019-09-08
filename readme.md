@@ -550,7 +550,7 @@ Occurrence Based String :
 
 **1.Given a string, find its first non-repeating character** [See Solution](https://gist.github.com/arun-sudharsan/3d19d98b4ea870ab1a7c590587e3d4a0)  
 
-2.Find the first non-repeating character from a stream of characters
+**2.Find the first non-repeating character from a stream of characters** [See Solution](https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)  
 
 3.Convert to a string that is repetition of a substring of k length
 
