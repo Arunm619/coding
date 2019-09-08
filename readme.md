@@ -567,7 +567,7 @@ https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)
 
 **9.Efficiently find first repeated character in a string without using any additional data structure in one traversal** [See Solution](https://gist.github.com/arun-sudharsan/da9fd5ca9648804ccd80977763f6621d)  
 
-10.Return maximum occurring character in an input string
+**10.Return maximum occurring character in an input string** [See Solution](https://gist.github.com/arun-sudharsan/dc8b7b6700ffa099074223defbf7ef59)  
 
 11.Print the string by ignoring alternate occurrences of any character
 
