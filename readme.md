@@ -571,7 +571,7 @@ https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)
 
 **11.Print the string by ignoring alternate occurrences of any character** [See Solution](https://gist.github.com/arun-sudharsan/27eee1df631bd9100dff2c9cca5c4719)  
 
-2.Print the string after the specified character has occurred given no. of times
+**12.Print the string after the specified character has occurred given no. of times** [See Solution](https://gist.github.com/arun-sudharsan/fca31ac70ddacbe1d81d4da4672dd77f)  
 
 
 
