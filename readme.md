@@ -559,7 +559,7 @@ https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)
 
 **5.Find the first repeated word in a string** [See Solution](https://gist.github.com/arun-sudharsan/0c9aa41adbd2f4ad55185f5b702fbd02)  
 
-6.Find the first repeated character in a string
+**6.Find the first repeated character in a string** [See Solution](https://gist.github.com/arun-sudharsan/da9fd5ca9648804ccd80977763f6621d)  
 
 7.Second most repeated word in a sequence
 
