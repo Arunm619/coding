@@ -587,7 +587,7 @@ Palindrome:
 
 **4.Longest Palindromic Substring | Set 2** [See Solution](https://gist.github.com/arun-sudharsan/59afd8f6ae1932e2a09d0c5b0bf9ebe8)  
 
-5.Count All Palindrome Sub-Strings in a String | Set 1
+**5.Count All Palindrome Sub-Strings in a String | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/f96910fb706377fa505825f29d20d7b1)  
 
 6.Count All Palindromic Subsequence in a given String
 
