@@ -583,7 +583,7 @@ Palindrome:
 
 **2.Check if a given string is a rotation of a palindrome** [See Solution](https://gist.github.com/arun-sudharsan/3a5f2c286ecfbeb762321c70786361cc)  
 
-3.Minimum insertions to form a palindrome | DP-28
+**3.Minimum insertions to form a palindrome | DP-28** [See Solution](https://gist.github.com/arun-sudharsan/ed53d393fde8f9ee3fc4036075036224)  
 
 4.Longest Palindromic Substring | Set 2
 
