@@ -589,6 +589,8 @@ Palindrome:
 
 **5.Count All Palindrome Sub-Strings in a String | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/f96910fb706377fa505825f29d20d7b1)  
 
+**Count of Unique Palindromic Substrings** [See Solution](https://gist.github.com/arun-sudharsan/5907b4b549e18b9058955c855148dff5)  
+
 6.Count All Palindromic Subsequence in a given String
 
 8.Minimum steps to delete a string after repeated deletion of palindrome substrings
