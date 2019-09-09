@@ -601,11 +601,11 @@ Palindrome:
 
 11.Count of Palindromic substrings in an Index range
 
-12.Find all distinct palindromic sub-strings of a given string [See Solution](https://gist.github.com/arun-sudharsan/5907b4b549e18b9058955c855148dff5)
+**12.Find all distinct palindromic sub-strings of a given string** [See Solution](https://gist.github.com/arun-sudharsan/5907b4b549e18b9058955c855148dff5)
 
 Sorting &amp; Searching :
 
-1.Alternate Lower Upper String Sort
+**1.Alternate Lower Upper String Sort** [See Solution](https://gist.github.com/arun-sudharsan/b64f89a3c15313b4630fd0b03f3ae105)  
 
 2.Rearrange a string in sorted order followed by the integer sum
 
