@@ -581,7 +581,7 @@ Palindrome:
 
 **1.C Program to Check if a Given String is Palindrome** [See Solution](https://gist.github.com/arun-sudharsan/9322d14dfbc4eb0cda13f984358f1857)  
 
-2.Check if a given string is a rotation of a palindrome
+**2.Check if a given string is a rotation of a palindrome** [See Solution](https://gist.github.com/arun-sudharsan/3a5f2c286ecfbeb762321c70786361cc)  
 
 3.Minimum insertions to form a palindrome | DP-28
 
