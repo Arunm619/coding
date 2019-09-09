@@ -585,7 +585,7 @@ Palindrome:
 
 **3.Minimum insertions to form a palindrome | DP-28** [See Solution](https://gist.github.com/arun-sudharsan/ed53d393fde8f9ee3fc4036075036224)  
 
-4.Longest Palindromic Substring | Set 2
+**4.Longest Palindromic Substring | Set 2** [See Solution](https://gist.github.com/arun-sudharsan/59afd8f6ae1932e2a09d0c5b0bf9ebe8)  
 
 5.Count All Palindrome Sub-Strings in a String | Set 1
 
