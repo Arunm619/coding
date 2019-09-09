@@ -591,17 +591,17 @@ Palindrome:
 
 **Count of Unique Palindromic Substrings** [See Solution](https://gist.github.com/arun-sudharsan/5907b4b549e18b9058955c855148dff5)  
 
-6.Count All Palindromic Subsequence in a given String
+**6.Count All Palindromic Subsequence in a given String** [See Solution](https://gist.github.com/arun-sudharsan/8c7420289c4a03f02d4ce42ed722ec4a)  
 
 8.Minimum steps to delete a string after repeated deletion of palindrome substrings
 
 **9.Longest Palindromic Subsequence | DP-12** [See Solution](https://gist.github.com/arun-sudharsan/5beedcaac704183d3c5b295f84190f38)  
 
-10.Minimum insertions to form a palindrome with permutations allowed
+**10.Minimum insertions to form a palindrome with permutations allowed** [See Solution](https://gist.github.com/arun-sudharsan/9c611b41e0426b43ffca2c812b63edbc)  
 
 11.Count of Palindromic substrings in an Index range
 
-12.Find all distinct palindromic sub-strings of a given string
+12.Find all distinct palindromic sub-strings of a given string [See Solution](https://gist.github.com/arun-sudharsan/5907b4b549e18b9058955c855148dff5)
 
 Sorting &amp; Searching :
 
