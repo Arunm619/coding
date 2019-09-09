@@ -607,7 +607,7 @@ Sorting &amp; Searching :
 
 **1.Alternate Lower Upper String Sort** [See Solution](https://gist.github.com/arun-sudharsan/b64f89a3c15313b4630fd0b03f3ae105)  
 
-2.Rearrange a string in sorted order followed by the integer sum
+**2.Rearrange a string in sorted order followed by the integer sum** [See Solution](https://gist.github.com/arun-sudharsan/093c50c961841410636454e4f7a5950c)  
 
 
 
