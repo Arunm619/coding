@@ -595,7 +595,7 @@ Palindrome:
 
 8.Minimum steps to delete a string after repeated deletion of palindrome substrings
 
-9.Longest Palindromic Subsequence | DP-12
+**9.Longest Palindromic Subsequence | DP-12** [See Solution](https://gist.github.com/arun-sudharsan/5beedcaac704183d3c5b295f84190f38)  
 
 10.Minimum insertions to form a palindrome with permutations allowed
 
