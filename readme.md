@@ -621,7 +621,7 @@ Sorting &amp; Searching :
 
 **4.Applications of Priority Queue** [See Solution](https://gist.github.com/arun-sudharsan/d9ca8d54c14b232d07d97ba815de460b)  
 
-5.Deque
+**5.Deque** [See Solution](https://gist.github.com/arun-sudharsan/5873347e1375a804e90dc1fa84c4f627)  
 
 6.Circular Queue
 
