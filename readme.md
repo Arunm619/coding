@@ -625,7 +625,7 @@ Sorting &amp; Searching :
 
 **6.Circular Queue** [See Solution](https://gist.github.com/arun-sudharsan/28e192513b027ba2080b68ec6e0d98a2)  
 
-1.Implement Queue using Stacks
+**1.Implement Queue using Stacks** [See Solution](https://gist.github.com/arun-sudharsan/47596949c81220a979ab2ce9a15fc36b)  
 
 **2.LRU Cache Implementation** [See Solution](https://gist.github.com/arun-sudharsan/75f80b6cc850f2cfc2d6599059a06a69)  
 
