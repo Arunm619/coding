@@ -613,7 +613,7 @@ Sorting &amp; Searching :
 
 **Queue:**
 
-1.Queue
+**1.Queue** [See Solution](https://gist.github.com/arun-sudharsan/a4cf261c64db20e71d246a06878c8c89)  
 
 2.Applications of Queue Data Structure
 
