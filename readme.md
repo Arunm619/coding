@@ -629,7 +629,7 @@ Sorting &amp; Searching :
 
 **2.LRU Cache Implementation** [See Solution](https://gist.github.com/arun-sudharsan/75f80b6cc850f2cfc2d6599059a06a69)  
 
-3.Implement Stack using Queues
+**3.Implement Stack using Queues** [See Solution](https://gist.github.com/arun-sudharsan/4c33c89f8753c0fdf2103ceb8e9239e8)  
 
 4.Queue | Set 2 (Linked List Implementation)
 
