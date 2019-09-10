@@ -627,7 +627,7 @@ Sorting &amp; Searching :
 
 1.Implement Queue using Stacks
 
-2.LRU Cache Implementation
+**2.LRU Cache Implementation** [See Solution](https://gist.github.com/arun-sudharsan/75f80b6cc850f2cfc2d6599059a06a69)  
 
 3.Implement Stack using Queues
 
