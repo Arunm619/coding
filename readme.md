@@ -615,11 +615,11 @@ Sorting &amp; Searching :
 
 **1.Queue** [See Solution](https://gist.github.com/arun-sudharsan/a4cf261c64db20e71d246a06878c8c89)  
 
-2.Applications of Queue Data Structure
+**2.Applications of Queue Data Structure** [See Solution](https://gist.github.com/arun-sudharsan/a4cf261c64db20e71d246a06878c8c89)  
 
-3.Priority Queue
+**3.Priority Queue** [See Solution](https://gist.github.com/arun-sudharsan/d9ca8d54c14b232d07d97ba815de460b)
 
-4.Applications of Priority Queue
+**4.Applications of Priority Queue** [See Solution](https://gist.github.com/arun-sudharsan/d9ca8d54c14b232d07d97ba815de460b)  
 
 5.Deque
 
