@@ -623,7 +623,7 @@ Sorting &amp; Searching :
 
 **5.Deque** [See Solution](https://gist.github.com/arun-sudharsan/5873347e1375a804e90dc1fa84c4f627)  
 
-6.Circular Queue
+**6.Circular Queue** [See Solution](https://gist.github.com/arun-sudharsan/28e192513b027ba2080b68ec6e0d98a2)  
 
 1.Implement Queue using Stacks
 
