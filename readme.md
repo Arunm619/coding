@@ -631,7 +631,7 @@ Sorting &amp; Searching :
 
 **3.Implement Stack using Queues** [See Solution](https://gist.github.com/arun-sudharsan/4c33c89f8753c0fdf2103ceb8e9239e8)  
 
-4.Queue | Set 2 (Linked List Implementation)
+**4.Queue | Set 2 (Linked List Implementation)** [See Solution](https://gist.github.com/arun-sudharsan/9b2cea1d606809e83894844b6eab99f9)  
 
 5.Implement a stack using single queue
 
