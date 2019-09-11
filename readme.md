@@ -643,7 +643,7 @@ Sorting &amp; Searching :
 
 **1.Breadth First Traversal or BFS for a Graph** [See Solution](https://gist.github.com/arun-sudharsan/c4b70e5633e3008e4c12f70fd286ea68)  
 
-2.Level Order Tree Traversal
+**2.Level Order Tree Traversal** [See Solution](https://gist.github.com/arun-sudharsan/b7180ec86b8a963b35cf82470c265c68)  
 
 3.Reverse a path in BST using queue
 
