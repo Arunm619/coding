@@ -637,7 +637,7 @@ Sorting &amp; Searching :
 
 6.Implementation of Deque using circular array
 
-7.Circular Queue | Set 2 (Circular Linked List Implementation)
+**7.Circular Queue | Set 2 (Circular Linked List Implementation)** [See Solution](https://gist.github.com/arun-sudharsan/1166ad73ea1f49006285cbc24666e566)  
 
 
 
