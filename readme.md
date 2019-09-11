@@ -633,7 +633,7 @@ Sorting &amp; Searching :
 
 **4.Queue | Set 2 (Linked List Implementation)** [See Solution](https://gist.github.com/arun-sudharsan/9b2cea1d606809e83894844b6eab99f9)  
 
-5.Implement a stack using single queue
+**5.Implement a stack using single queue** [See Solution](https://gist.github.com/arun-sudharsan/8455661dfce40e536918136f8df87098)  
 
 6.Implementation of Deque using circular array
 
