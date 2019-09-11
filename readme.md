@@ -661,7 +661,7 @@ Sorting &amp; Searching :
 
 **3.Reversing the first K elements of a Queue** [See Solution](https://gist.github.com/arun-sudharsan/cea2312001216cf36d3938235ce5ef80)  
 
-4.Interleave the first half of the queue with second half
+**4.Interleave the first half of the queue with second half** [See Solution](https://gist.github.com/arun-sudharsan/253789b13a19d9a4b7a9f2c0d271ed26)  
 
 1.Level order traversal in spiral form
 
