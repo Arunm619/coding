@@ -651,7 +651,7 @@ Sorting &amp; Searching :
 
 **5.Program for Page Replacement Algorithms | Set 2 (FIFO)** [See Solution](https://gist.github.com/arun-sudharsan/591bb59440a250ded804f4de9a823dd1)  
 
-6.Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution)
+**6.Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution)** [See Solution](https://gist.github.com/arun-sudharsan/b74e83ffe6e1174cfa5a0b746b468d2f)  
 
 7.ZigZag Tree Traversal
 
