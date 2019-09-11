@@ -659,7 +659,7 @@ Sorting &amp; Searching :
 
 **2.Reversing a queue using recursion** [See Solution](https://gist.github.com/arun-sudharsan/44d1b7a5d0762d99f9058fe265994c0d)  
 
-3.Reversing the first K elements of a Queue
+**3.Reversing the first K elements of a Queue** [See Solution](https://gist.github.com/arun-sudharsan/cea2312001216cf36d3938235ce5ef80)  
 
 4.Interleave the first half of the queue with second half
 
