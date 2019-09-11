@@ -653,7 +653,7 @@ Sorting &amp; Searching :
 
 **6.Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution)** [See Solution](https://gist.github.com/arun-sudharsan/b74e83ffe6e1174cfa5a0b746b468d2f)  
 
-7.ZigZag Tree Traversal
+**7.ZigZag Tree Traversal** [See Solution](https://gist.github.com/arun-sudharsan/385f1e2b771db44a1dbc09b9a0c76868)  
 
 1.Reversing a Queue
 
