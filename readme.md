@@ -655,9 +655,9 @@ Sorting &amp; Searching :
 
 **7.ZigZag Tree Traversal** [See Solution](https://gist.github.com/arun-sudharsan/385f1e2b771db44a1dbc09b9a0c76868)  
 
-1.Reversing a Queue
+**1.Reversing a Queue** [See Solution](https://gist.github.com/arun-sudharsan/44d1b7a5d0762d99f9058fe265994c0d)  
 
-2.Reversing a queue using recursion
+**2.Reversing a queue using recursion** [See Solution](https://gist.github.com/arun-sudharsan/44d1b7a5d0762d99f9058fe265994c0d)  
 
 3.Reversing the first K elements of a Queue
 
