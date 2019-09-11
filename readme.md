@@ -647,7 +647,7 @@ Sorting &amp; Searching :
 
 3.Reverse a path in BST using queue
 
-4.Construct Complete Binary Tree from its Linked List Representation
+**4.Construct Complete Binary Tree from its Linked List Representation** [See Solution](https://gist.github.com/arun-sudharsan/986a4b24c785dfe074ad684484091c94)  
 
 5.Program for Page Replacement Algorithms | Set 2 (FIFO)
 
