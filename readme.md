@@ -671,11 +671,11 @@ Sorting &amp; Searching :
 
 **4.Smallest multiple of a given number made of digits 0 and 9 only** [See Solution](https://gist.github.com/arun-sudharsan/255408c23619aa86087a06b3a0ae805c)  
 
-5.First non-repeating character in a stream
+**5.First non-repeating character in a stream** [See Solution](https://gist.github.com/arun-sudharsan/ba9fad0108ba97b2583b7792f89a9994)  
 
 **6.An Interesting Method to Generate Binary Numbers from 1 to n** [See Solution](https://gist.github.com/arun-sudharsan/0235c51f0e5fbdec72199c1b1208de2d)  
 
-7.Minimum time required to rot all oranges
+**7.Minimum time required to rot all oranges** [See Solution](https://gist.github.com/arun-sudharsan/1d5c961fbab42208c241c248857d727d)  
 
 8.Find maximum level sum in Binary Tree
 
