@@ -673,7 +673,7 @@ Sorting &amp; Searching :
 
 5.First non-repeating character in a stream
 
-6.An Interesting Method to Generate Binary Numbers from 1 to n
+**6.An Interesting Method to Generate Binary Numbers from 1 to n** [See Solution](https://gist.github.com/arun-sudharsan/0235c51f0e5fbdec72199c1b1208de2d)  
 
 7.Minimum time required to rot all oranges
 
