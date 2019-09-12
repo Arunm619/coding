@@ -669,7 +669,7 @@ Sorting &amp; Searching :
 
 **3.Find the first circular tour that visits all petrol pumps** [See Solution](https://gist.github.com/arun-sudharsan/56718ba3f2fb3391ee47701dae11f32f)  
 
-4.Smallest multiple of a given number made of digits 0 and 9 only
+**4.Smallest multiple of a given number made of digits 0 and 9 only** [See Solution](https://gist.github.com/arun-sudharsan/255408c23619aa86087a06b3a0ae805c)  
 
 5.First non-repeating character in a stream
 
