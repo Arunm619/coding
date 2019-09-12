@@ -679,7 +679,7 @@ Sorting &amp; Searching :
 
 **8.Find maximum level sum in Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/b7180ec86b8a963b35cf82470c265c68)  
 
-9.Sum of minimum and maximum elements of all subarrays of size k.
+**9.Sum of minimum and maximum elements of all subarrays of size k.** [See Solution](https://gist.github.com/arun-sudharsan/e4451502dae8bf85b861e921a14c0bc9)  
 
 10.First negative integer in every window of size k
 
