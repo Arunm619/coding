@@ -663,11 +663,11 @@ Sorting &amp; Searching :
 
 **4.Interleave the first half of the queue with second half** [See Solution](https://gist.github.com/arun-sudharsan/253789b13a19d9a4b7a9f2c0d271ed26)  
 
-1.Level order traversal in spiral form
+**1.Level order traversal in spiral form** [See Solution](https://gist.github.com/arun-sudharsan/385f1e2b771db44a1dbc09b9a0c76868)  
 
-2.Sliding Window Maximum (Maximum of all subarrays of size k)
+**2.Sliding Window Maximum (Maximum of all subarrays of size k)** [See Solution](https://gist.github.com/arun-sudharsan/d874556071e1dbcd50a0619f0322d152)  
 
-3.Find the first circular tour that visits all petrol pumps
+**3.Find the first circular tour that visits all petrol pumps** [See Solution](https://gist.github.com/arun-sudharsan/56718ba3f2fb3391ee47701dae11f32f)  
 
 4.Smallest multiple of a given number made of digits 0 and 9 only
 
