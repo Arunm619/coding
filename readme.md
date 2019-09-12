@@ -677,7 +677,7 @@ Sorting &amp; Searching :
 
 **7.Minimum time required to rot all oranges** [See Solution](https://gist.github.com/arun-sudharsan/1d5c961fbab42208c241c248857d727d)  
 
-8.Find maximum level sum in Binary Tree
+**8.Find maximum level sum in Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/b7180ec86b8a963b35cf82470c265c68)  
 
 9.Sum of minimum and maximum elements of all subarrays of size k.
 
