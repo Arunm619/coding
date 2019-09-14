@@ -708,7 +708,7 @@ Sorting &amp; Searching :
 
 **3.Next Greater Element** [See Solution](https://gist.github.com/arun-sudharsan/2dc28ffdf50f30783205aed528a534f1)  
 
-4.Next Greater Frequency Element
+**4.Next Greater Frequency Element** [See Solution](https://gist.github.com/arun-sudharsan/2dc28ffdf50f30783205aed528a534f1)  
 
 5.Number of NGEs to the right
 
