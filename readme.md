@@ -687,7 +687,8 @@ Sorting &amp; Searching :
 
 **STACK:**
 
-1.Implement Queue using Stacks
+**1.Implement Queue using Stacks** [See Solution](https://gist.github.com/arun-sudharsan/47596949c81220a979ab2ce9a15fc36b1.Implement Queue using Stacks)  
+[Single Stack](https://gist.github.com/arun-sudharsan/0a5e54813f4db635382996d4f2c295e2)  
 
 2.Implement two stacks in an array
 
