@@ -696,7 +696,7 @@ Sorting &amp; Searching :
 
 **4.Create a customized data structure which evaluates functions in O(1)** [See Solution](https://gist.github.com/arun-sudharsan/c65df40b4eece6782c1a9bfdeceb2d24)  
 
-5.Design a stack that supports getMin() in O(1) time and O(1) extra space
+**5.Design a stack that supports getMin() in O(1) time and O(1) extra space** [See Solution](https://gist.github.com/arun-sudharsan/ce0ec60d63d707bce450427cdcf50033)  
 
 6.Implement a stack using single queue
 
