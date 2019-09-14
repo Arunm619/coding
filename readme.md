@@ -712,11 +712,11 @@ Sorting &amp; Searching :
 
 **5.Number of NGEs to the right** [See Solution](https://gist.github.com/arun-sudharsan/2dc28ffdf50f30783205aed528a534f1)  
 
-6.Print next greater number of Q queries
+**6.Print next greater number of Q queries** [See Solution](https://gist.github.com/arun-sudharsan/2dc28ffdf50f30783205aed528a534f1)  
 
-7.Design a stack with operations on middle element
+**7.Design a stack with operations on middle element** [See Solution](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)  
 
-8.The Celebrity Problem
+**8.The Celebrity Problem** [See Solution](https://gist.github.com/arun-sudharsan/0878a84d8035d3c02ecbf746ec809579)  
 
 9.The Stock Span Problem
 
