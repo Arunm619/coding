@@ -706,7 +706,7 @@ Sorting &amp; Searching :
 
 **2.Check for balanced parentheses in an expression** [See Solution](https://gist.github.com/arun-sudharsan/ecafb8b348534036fd4eac413322cdb1)  
 
-3.Next Greater Element
+**3.Next Greater Element** [See Solution](https://gist.github.com/arun-sudharsan/2dc28ffdf50f30783205aed528a534f1)  
 
 4.Next Greater Frequency Element
 
