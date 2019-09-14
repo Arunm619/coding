@@ -718,7 +718,7 @@ Sorting &amp; Searching :
 
 **8.The Celebrity Problem** [See Solution](https://gist.github.com/arun-sudharsan/0878a84d8035d3c02ecbf746ec809579)  
 
-9.The Stock Span Problem
+**9.The Stock Span Problem** [See Solution](https://gist.github.com/arun-sudharsan/2a8684b716a986d62dbdbb3c7165c175)  
 
 10.Iterative Tower of Hanoi
 
