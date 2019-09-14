@@ -704,7 +704,7 @@ Sorting &amp; Searching :
 
 **1.Infix to Postfix Conversion using Stack** [See Solution](https://gist.github.com/arun-sudharsan/10df9d5f37788517c5af1f2b605ff44f)  
 
-2.Check for balanced parentheses in an expression
+**2.Check for balanced parentheses in an expression** [See Solution](https://gist.github.com/arun-sudharsan/ecafb8b348534036fd4eac413322cdb1)  
 
 3.Next Greater Element
 
