@@ -710,7 +710,7 @@ Sorting &amp; Searching :
 
 **4.Next Greater Frequency Element** [See Solution](https://gist.github.com/arun-sudharsan/2dc28ffdf50f30783205aed528a534f1)  
 
-5.Number of NGEs to the right
+**5.Number of NGEs to the right** [See Solution](https://gist.github.com/arun-sudharsan/2dc28ffdf50f30783205aed528a534f1)  
 
 6.Print next greater number of Q queries
 
