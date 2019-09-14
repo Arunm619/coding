@@ -690,9 +690,9 @@ Sorting &amp; Searching :
 **1.Implement Queue using Stacks** [See Solution](https://gist.github.com/arun-sudharsan/47596949c81220a979ab2ce9a15fc36b)  
 [Single Stack](https://gist.github.com/arun-sudharsan/0a5e54813f4db635382996d4f2c295e2)  
 
-2.Implement two stacks in an array
+**2.Implement two stacks in an array** [See Solution](https://gist.github.com/arun-sudharsan/723194348b2062dcc4eaf171c3282dab)  
 
-3.Implement Stack using Queues
+**3.Implement Stack using Queues** [See Solution](https://gist.github.com/arun-sudharsan/4c33c89f8753c0fdf2103ceb8e9239e8)  
 
 4.Create a customized data structure which evaluates functions in O(1)
 
