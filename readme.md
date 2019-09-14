@@ -698,7 +698,7 @@ Sorting &amp; Searching :
 
 **5.Design a stack that supports getMin() in O(1) time and O(1) extra space** [See Solution](https://gist.github.com/arun-sudharsan/ce0ec60d63d707bce450427cdcf50033)  
 
-6.Implement a stack using single queue
+**6.Implement a stack using single queue** [See Solution](https://gist.github.com/arun-sudharsan/8455661dfce40e536918136f8df87098)  
 
 
 
