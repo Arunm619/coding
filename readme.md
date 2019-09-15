@@ -734,7 +734,7 @@ Sorting &amp; Searching :
 
 **5.Length of the longest valid substring** [See Solution](https://gist.github.com/arun-sudharsan/53f778dd090f0eddb0720d4d8f637805)  
 
-6.Check if a given array can represent Preorder Traversal of Binary Search Tree
+**6.Check if a given array can represent Preorder Traversal of Binary Search Tree** [See Solution](https://gist.github.com/arun-sudharsan/6716fb9a915d7e2949bb09719dee2c95)  
 
 7.Find maximum difference between nearest left and right smaller elements
 
