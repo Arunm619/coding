@@ -724,9 +724,9 @@ Sorting &amp; Searching :
 
 
 
-1.Sort a stack using recursiongeSort for arrays.
+**1.Sort a stack using recursiongeSort for arrays.** [See Solution](https://gist.github.com/arun-sudharsan/5da4c72c7d5aab06285e07d2e8c741fc)  
 
-2.Sort a stack using a temporary stack
+**2.Sort a stack using a temporary stack** [See Solution](https://gist.github.com/arun-sudharsan/5da4c72c7d5aab06285e07d2e8c741fc)  
 
 3.Largest Rectangular Area in a Histogram | Set 2
 
