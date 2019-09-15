@@ -728,11 +728,11 @@ Sorting &amp; Searching :
 
 **2.Sort a stack using a temporary stack** [See Solution](https://gist.github.com/arun-sudharsan/5da4c72c7d5aab06285e07d2e8c741fc)  
 
-3.Largest Rectangular Area in a Histogram | Set 2
+**3.Largest Rectangular Area in a Histogram | Set 2** [See Solution](https://gist.github.com/arun-sudharsan/cb4b4d359fd3aae32a119b60a07b588c)  
 
 4.Find maximum of minimum for every window size in a given array
 
-5.Length of the longest valid substring
+**5.Length of the longest valid substring** [See Solution](https://gist.github.com/arun-sudharsan/53f778dd090f0eddb0720d4d8f637805)  
 
 6.Check if a given array can represent Preorder Traversal of Binary Search Tree
 
