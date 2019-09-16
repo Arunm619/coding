@@ -740,7 +740,7 @@ Sorting &amp; Searching :
 
 **Linked List:**
 
-1.Linked List | Set 2 (Inserting a node)
+**1.Linked List | Set 2 (Inserting a node)** [See Solution](https://gist.github.com/arun-sudharsan/0b0c796ffa3d9131025ecc4283fda169)  
 
 2.Linked List | Set 3 (Deleting a node)
 
