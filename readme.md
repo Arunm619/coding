@@ -774,7 +774,7 @@ Sorting &amp; Searching :
 
 6.QuickSort on Singly Linked List
 
-7.Segregate even and odd nodes in a Linked List
+**7.Segregate even and odd nodes in a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/e8265a02b2aad56f95fe822764533020)  
 
 8.Reverse a linked list
 
