@@ -748,7 +748,7 @@ Sorting &amp; Searching :
 
 **4.Find Length of a Linked List (Iterative and Recursive)** [See Solution](https://gist.github.com/arun-sudharsan/77ccddf3e84dfe9370deee5b94b8b849)  
 
-5.Write a function to get Nth node in a Linked List
+**5.Write a function to get Nth node in a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/593699496a0ebe248917d5e949210998)  
 
 6.Program for n&#39;th node from the end of a Linked List
 
