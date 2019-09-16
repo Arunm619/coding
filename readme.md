@@ -778,7 +778,7 @@ Sorting &amp; Searching :
 
 **8.Reverse a linked list** [See Solution](https://gist.github.com/arun-sudharsan/8e847a7f6896c03e20584f5e1f9c6770)  
 
-9.Print reverse of a Linked List without actually reversing
+**9.Print reverse of a Linked List without actually reversing** [See Solution](https://gist.github.com/arun-sudharsan/e029e85b73c7a6a1360d803d83e2fc65)  
 
 10.Merge two sorted linked lists such that merged list is in reverse order
 
