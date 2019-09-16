@@ -762,7 +762,7 @@ Sorting &amp; Searching :
 
 
 
-1.Function to check if a singly linked list is palindrome
+**1.Function to check if a singly linked list is palindrome** [See Solution](https://gist.github.com/arun-sudharsan/6822dd1510f771067c5a561b7d67ea7a)  
 
 2.Remove duplicates from an unsorted linked list
 
