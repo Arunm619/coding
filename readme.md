@@ -766,7 +766,7 @@ Sorting &amp; Searching :
 
 2.Remove duplicates from an unsorted linked list
 
-3.Remove duplicates from a sorted linked list
+**3.Remove duplicates from a sorted linked list** [See Solution](https://gist.github.com/arun-sudharsan/606b5090fdf5ec74a561194a321cd775)  
 
 4.Pairwise swap elements of a given linked list
 
