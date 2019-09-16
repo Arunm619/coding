@@ -750,7 +750,7 @@ Sorting &amp; Searching :
 
 **5.Write a function to get Nth node in a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/593699496a0ebe248917d5e949210998)  
 
-6.Program for n&#39;th node from the end of a Linked List
+**6.Program for n&#39;th node from the end of a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/b17984328a0feda0e0fedcb3b8c2b38a)  
 
 7.Find the middle of a given linked list
 
