@@ -758,7 +758,7 @@ Sorting &amp; Searching :
 
 **9.Detect loop in a linked list** [See Solution](https://gist.github.com/arun-sudharsan/dc70757d77570dd72813e84c29de7e27)  
 
-10.Find length of Loop
+**10.Find length of Loop** [See Solution](https://gist.github.com/arun-sudharsan/a438a71f7e6c3e8404bddb717bd2a2c8)  
 
 
 
