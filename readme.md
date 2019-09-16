@@ -752,7 +752,7 @@ Sorting &amp; Searching :
 
 **6.Program for n&#39;th node from the end of a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/b17984328a0feda0e0fedcb3b8c2b38a)  
 
-7.Find the middle of a given linked list
+**7.Find the middle of a given linked list** [See Solution](https://gist.github.com/arun-sudharsan/6da07870e0dc6e073deddbece1f20186)  
 
 8.Write a function that counts the number of times a given int occurs in a Linked List
 
