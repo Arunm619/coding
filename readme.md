@@ -756,7 +756,7 @@ Sorting &amp; Searching :
 
 **8.Write a function that counts the number of times a given int occurs in a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/716be5cda461802aea8e2d8d25216deb)  
 
-9.Detect loop in a linked list
+**9.Detect loop in a linked list** [See Solution](https://gist.github.com/arun-sudharsan/dc70757d77570dd72813e84c29de7e27)  
 
 10.Find length of Loop
 
