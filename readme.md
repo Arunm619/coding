@@ -754,7 +754,7 @@ Sorting &amp; Searching :
 
 **7.Find the middle of a given linked list** [See Solution](https://gist.github.com/arun-sudharsan/6da07870e0dc6e073deddbece1f20186)  
 
-8.Write a function that counts the number of times a given int occurs in a Linked List
+**8.Write a function that counts the number of times a given int occurs in a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/716be5cda461802aea8e2d8d25216deb)  
 
 9.Detect loop in a linked list
 
