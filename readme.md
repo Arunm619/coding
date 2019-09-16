@@ -768,7 +768,7 @@ Sorting &amp; Searching :
 
 **3.Remove duplicates from a sorted linked list** [See Solution](https://gist.github.com/arun-sudharsan/606b5090fdf5ec74a561194a321cd775)  
 
-4.Pairwise swap elements of a given linked list
+**4.Pairwise swap elements of a given linked list** [See Solution](https://gist.github.com/arun-sudharsan/ab5f691ac5675d953abb979e5fbaa9b4)  
 
 5.Intersection of two Sorted Linked Lists
 
