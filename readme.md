@@ -742,9 +742,9 @@ Sorting &amp; Searching :
 
 **1.Linked List | Set 2 (Inserting a node)** [See Solution](https://gist.github.com/arun-sudharsan/0b0c796ffa3d9131025ecc4283fda169)  
 
-2.Linked List | Set 3 (Deleting a node)
+**2.Linked List | Set 3 (Deleting a node)** [See Solution](https://gist.github.com/arun-sudharsan/0b0c796ffa3d9131025ecc4283fda169)  
 
-3.Delete a Linked List node at a given position
+**3.Delete a Linked List node at a given position** [See Solution](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)  
 
 4.Find Length of a Linked List (Iterative and Recursive)
 
