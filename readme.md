@@ -770,7 +770,7 @@ Sorting &amp; Searching :
 
 **4.Pairwise swap elements of a given linked list** [See Solution](https://gist.github.com/arun-sudharsan/ab5f691ac5675d953abb979e5fbaa9b4)  
 
-5.Intersection of two Sorted Linked Lists
+**5.Intersection of two Sorted Linked Lists** [See Solution](https://gist.github.com/arun-sudharsan/03b4a65d635b01a8014197b396b30499)  
 
 6.QuickSort on Singly Linked List
 
