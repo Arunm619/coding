@@ -776,7 +776,7 @@ Sorting &amp; Searching :
 
 **7.Segregate even and odd nodes in a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/e8265a02b2aad56f95fe822764533020)  
 
-8.Reverse a linked list
+**8.Reverse a linked list** [See Solution](https://gist.github.com/arun-sudharsan/8e847a7f6896c03e20584f5e1f9c6770)  
 
 9.Print reverse of a Linked List without actually reversing
 
