@@ -764,7 +764,7 @@ Sorting &amp; Searching :
 
 **1.Function to check if a singly linked list is palindrome** [See Solution](https://gist.github.com/arun-sudharsan/6822dd1510f771067c5a561b7d67ea7a)  
 
-2.Remove duplicates from an unsorted linked list
+**2.Remove duplicates from an unsorted linked list** [See Solution](https://gist.github.com/arun-sudharsan/528eff72f9c621e92b1f9eeb66a4d505)  
 
 **3.Remove duplicates from a sorted linked list** [See Solution](https://gist.github.com/arun-sudharsan/606b5090fdf5ec74a561194a321cd775)  
 
