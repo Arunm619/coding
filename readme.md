@@ -746,7 +746,7 @@ Sorting &amp; Searching :
 
 **3.Delete a Linked List node at a given position** [See Solution](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)  
 
-4.Find Length of a Linked List (Iterative and Recursive)
+**4.Find Length of a Linked List (Iterative and Recursive)** [See Solution](https://gist.github.com/arun-sudharsan/77ccddf3e84dfe9370deee5b94b8b849)  
 
 5.Write a function to get Nth node in a Linked List
 
