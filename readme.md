@@ -796,7 +796,7 @@ Sorting &amp; Searching :
 
 **6.Add two numbers represented by linked lists** [See Solution](https://gist.github.com/arun-sudharsan/5b137e63deb7839124f610139f5dcd87)  
 
-7.Rotate a Linked List
+**7.Rotate a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/ba629b86de32805d85b12ffe06078665)  
 
 8.Flattening a Linked List
 
