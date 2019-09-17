@@ -810,7 +810,7 @@ Sorting &amp; Searching :
 
 **2.Sort linked list which is already sorted on absolute values** [See Solution](https://gist.github.com/arun-sudharsan/4bde5b63fa322878fdf888b187d52d89)  
 
-3.Check if a linked list of strings forms a palindrome
+**3.Check if a linked list of strings forms a palindrome** [See Solution](https://gist.github.com/arun-sudharsan/3e70a31c39ba0365df44220f1dac7224)  
 
 4.Pairwise swap elements of a given linked list by changing links
 
