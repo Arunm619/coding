@@ -792,7 +792,7 @@ Sorting &amp; Searching :
 
 **4.Identical Linked Lists** [See Solution](https://gist.github.com/arun-sudharsan/fcbbd8b65edc8318793bdb4c4d72cfc2)  
 
-5.Delete nodes which have a greater value on right side
+**5.Delete nodes which have a greater value on right side** [See Solution](https://gist.github.com/arun-sudharsan/e71c349f56b727dcbb38791cf710373e)  
 
 6.Add two numbers represented by linked lists
 
