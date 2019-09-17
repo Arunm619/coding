@@ -802,7 +802,7 @@ Sorting &amp; Searching :
 
 **9.Sort a linked list of 0s, 1s and 2s** [See Solution](https://gist.github.com/arun-sudharsan/e62a09c1653c5c31d8a2148918432855)  
 
-10.Delete N nodes after M nodes of a linked list
+**10.Delete N nodes after M nodes of a linked list** [See Solution](https://gist.github.com/arun-sudharsan/2835001eb5f53887913ad4ffda229925)  
 
 
 
