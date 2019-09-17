@@ -790,7 +790,7 @@ Sorting &amp; Searching :
 
 **3.Alternating split of a given Singly Linked List** [See Solution](https://gist.github.com/arun-sudharsan/810617eb1ecdb1dd65792bd97d68f608)  
 
-4.Identical Linked Lists
+**4.Identical Linked Lists** [See Solution](https://gist.github.com/arun-sudharsan/fcbbd8b65edc8318793bdb4c4d72cfc2)  
 
 5.Delete nodes which have a greater value on right side
 
