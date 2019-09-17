@@ -784,7 +784,7 @@ Sorting &amp; Searching :
 
 
 
-1.Reverse a Linked List in groups of given size
+**1.Reverse a Linked List in groups of given size** [See Solution](https://gist.github.com/arun-sudharsan/57bdfcbf5a08d33c803b43beefbf96b2)  
 
 2.Delete alternate nodes of a Linked List
 
