@@ -798,7 +798,7 @@ Sorting &amp; Searching :
 
 **7.Rotate a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/ba629b86de32805d85b12ffe06078665)  
 
-8.Flattening a Linked List
+**8.Flattening a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/e6191c38e9322930620e48af570b62f5)  
 
 9.Sort a linked list of 0s, 1s and 2s
 
