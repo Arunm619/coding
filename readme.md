@@ -788,7 +788,9 @@ Sorting &amp; Searching :
 
 **2.Delete alternate nodes of a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/8c2fbe1d2f19c62dbb5aeeba3175ecb0)  
 
-3.Alternating split of a given Singly Linked List 4.Identical Linked Lists
+**3.Alternating split of a given Singly Linked List** [See Solution](https://gist.github.com/arun-sudharsan/810617eb1ecdb1dd65792bd97d68f608)  
+
+4.Identical Linked Lists
 
 5.Delete nodes which have a greater value on right side
 
