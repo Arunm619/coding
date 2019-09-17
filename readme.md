@@ -800,7 +800,7 @@ Sorting &amp; Searching :
 
 **8.Flattening a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/e6191c38e9322930620e48af570b62f5)  
 
-9.Sort a linked list of 0s, 1s and 2s
+**9.Sort a linked list of 0s, 1s and 2s** [See Solution](https://gist.github.com/arun-sudharsan/e62a09c1653c5c31d8a2148918432855)  
 
 10.Delete N nodes after M nodes of a linked list
 
