@@ -812,7 +812,7 @@ Sorting &amp; Searching :
 
 **3.Check if a linked list of strings forms a palindrome** [See Solution](https://gist.github.com/arun-sudharsan/3e70a31c39ba0365df44220f1dac7224)  
 
-4.Pairwise swap elements of a given linked list by changing links
+**4.Pairwise swap elements of a given linked list by changing links** [See Solution](https://gist.github.com/arun-sudharsan/ab5f691ac5675d953abb979e5fbaa9b4)  
 
 5.Rearrange a given linked list in-place.
 
