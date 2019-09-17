@@ -806,7 +806,7 @@ Sorting &amp; Searching :
 
 
 
-1.Clone a linked list with next and random pointer
+**1.Clone a linked list with next and random pointer** [See Solution](https://gist.github.com/arun-sudharsan/2e1b58ff896d72cbad4369e6be0949d6)  
 
 2.Sort linked list which is already sorted on absolute values
 
