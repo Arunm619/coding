@@ -794,7 +794,7 @@ Sorting &amp; Searching :
 
 **5.Delete nodes which have a greater value on right side** [See Solution](https://gist.github.com/arun-sudharsan/e71c349f56b727dcbb38791cf710373e)  
 
-6.Add two numbers represented by linked lists
+**6.Add two numbers represented by linked lists** [See Solution](https://gist.github.com/arun-sudharsan/5b137e63deb7839124f610139f5dcd87)  
 
 7.Rotate a Linked List
 
