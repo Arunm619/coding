@@ -816,7 +816,7 @@ Sorting &amp; Searching :
 
 **5.Rearrange a given linked list in-place.** [See Solution](https://gist.github.com/arun-sudharsan/e0a564d9f98152c72aac4f027d07d38a)  
 
-6.Sort a linked list that is sorted alternating ascending and descending orders?
+**6.Sort a linked list that is sorted alternating ascending and descending orders?** [See Solution](https://gist.github.com/arun-sudharsan/f02d594f3ad5d258bde8010e4a317815)  
 
 7.Compare two strings represented as linked lists
 
