@@ -814,7 +814,7 @@ Sorting &amp; Searching :
 
 **4.Pairwise swap elements of a given linked list by changing links** [See Solution](https://gist.github.com/arun-sudharsan/ab5f691ac5675d953abb979e5fbaa9b4)  
 
-5.Rearrange a given linked list in-place.
+**5.Rearrange a given linked list in-place.** [See Solution](https://gist.github.com/arun-sudharsan/e0a564d9f98152c72aac4f027d07d38a)  
 
 6.Sort a linked list that is sorted alternating ascending and descending orders?
 
