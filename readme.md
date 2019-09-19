@@ -822,7 +822,7 @@ Sorting &amp; Searching :
 
 **8.Rearrange a linked list such that all even and odd positioned nodes are together** [See Solution](https://gist.github.com/arun-sudharsan/3c4ae46df77786b5bea2cda4779a73c1)  
 
-9.Rearrange a Linked List in Zig-Zag fashion
+**9.Rearrange a Linked List in Zig-Zag fashion** [See Solution](https://gist.github.com/arun-sudharsan/1187f26e73c1e027ab97b07c6a870bb5)  
 
 10.Add 1 to a number represented as linked list
 
