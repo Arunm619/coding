@@ -840,11 +840,11 @@ Sorting &amp; Searching :
 
 **7.Merge two sorted lists (in-place)** [See Solution](https://gist.github.com/arun-sudharsan/15e1d95779bf5eb55755e4cbe5bc5611)  
 
-8.Union and Intersection of two Linked Lists
+**8.Union and Intersection of two Linked Lists** [See Solution](https://gist.github.com/arun-sudharsan/73f3b23a3b6d114d29918402af882503)  
 
-9.Union and Intersection of two linked lists | Set-2 (Using Merge Sort)
+**9.Union and Intersection of two linked lists | Set-2 (Using Merge Sort)** [See Solution](https://gist.github.com/arun-sudharsan/73f3b23a3b6d114d29918402af882503)  
 
-10.Union and Intersection of two linked lists | Set-3 (Hashing)
+**10.Union and Intersection of two linked lists | Set-3 (Hashing)** [See Solution](https://gist.github.com/arun-sudharsan/73f3b23a3b6d114d29918402af882503)  
 
  1.Insert node into the middle of the linked list
 
