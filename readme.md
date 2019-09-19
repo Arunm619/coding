@@ -846,7 +846,7 @@ Sorting &amp; Searching :
 
 **10.Union and Intersection of two linked lists | Set-3 (Hashing)** [See Solution](https://gist.github.com/arun-sudharsan/73f3b23a3b6d114d29918402af882503)  
 
- 1.Insert node into the middle of the linked list
+**1.Insert node into the middle of the linked list** [See Solution](https://gist.github.com/arun-sudharsan/420935dab3b11e5e0c262e142d3dcc30)  
 
 2.Sort a linked list of 0s, 1s and 2s by changing links
 
