@@ -848,9 +848,10 @@ Sorting &amp; Searching :
 
 **1.Insert node into the middle of the linked list** [See Solution](https://gist.github.com/arun-sudharsan/420935dab3b11e5e0c262e142d3dcc30)  
 
-2.Sort a linked list of 0s, 1s and 2s by changing links
+**2.Sort a linked list of 0s, 1s and 2s by changing links** [See Solution](https://gist.github.com/arun-sudharsan/e62a09c1653c5c31d8a2148918432855)  
 
-3.An interesting method to print reverse of a linked list
+
+**3.An interesting method to print reverse of a linked list** [See Solution](https://gist.github.com/arun-sudharsan/12b831a73fc63837c1cd6a8715364a4c)  
 
 4.Given only a pointer/reference to a node to be deleted in a singly linked list, how do you delete it?
 
