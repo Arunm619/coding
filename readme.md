@@ -824,7 +824,7 @@ Sorting &amp; Searching :
 
 **9.Rearrange a Linked List in Zig-Zag fashion** [See Solution](https://gist.github.com/arun-sudharsan/1187f26e73c1e027ab97b07c6a870bb5)  
 
-10.Add 1 to a number represented as linked list
+**10.Add 1 to a number represented as linked list** [See Solution](https://gist.github.com/arun-sudharsan/6537eee031163de276148104be306238)  
 
 1.Merge Sort for Linked Lists
 
