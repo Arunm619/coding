@@ -818,7 +818,7 @@ Sorting &amp; Searching :
 
 **6.Sort a linked list that is sorted alternating ascending and descending orders?** [See Solution](https://gist.github.com/arun-sudharsan/f02d594f3ad5d258bde8010e4a317815)  
 
-7.Compare two strings represented as linked lists
+**7.Compare two strings represented as linked lists** [See Solution](https://gist.github.com/arun-sudharsan/d69b3497427d9d3d55e27997055d8887)  
 
 8.Rearrange a linked list such that all even and odd positioned nodes are together
 
