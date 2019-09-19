@@ -853,7 +853,7 @@ Sorting &amp; Searching :
 
 **3.An interesting method to print reverse of a linked list** [See Solution](https://gist.github.com/arun-sudharsan/12b831a73fc63837c1cd6a8715364a4c)  
 
-4.Given only a pointer/reference to a node to be deleted in a singly linked list, how do you delete it?
+**4.Given only a pointer/reference to a node to be deleted in a singly linked list, how do you delete it?** [See Solution](https://gist.github.com/arun-sudharsan/296227315027c1a87076ddb60d1834ea)  
 
 5.Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
 
