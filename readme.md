@@ -859,7 +859,7 @@ Sorting &amp; Searching :
 
 **6.Find the fractional (or n/k – th) node in linked list** [See Solution](https://gist.github.com/arun-sudharsan/ca49533959653ad3b96c287de9f7f873)  
 
-7.Find modular node in a linked list
+**7.Find modular node in a linked list** [See Solution](https://gist.github.com/arun-sudharsan/c287c0f93ef7270465e160d45d206115)  
 
 8.Construct a linked list from 2D matrix
 
