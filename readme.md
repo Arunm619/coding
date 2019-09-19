@@ -832,7 +832,7 @@ Sorting &amp; Searching :
 
 **3.Merge a linked list into another linked list at alternate positions** [See Solution](https://gist.github.com/arun-sudharsan/6f7f57a8d9d9a354eead7aaecc8cabd1)  
 
-4.Delete middle of linked list
+**4.Delete middle of linked list** [See Solution](https://gist.github.com/arun-sudharsan/ba9cc8b126ecf160ab377bd49f12ccfe)  
 
 5.Merge K sorted linked lists | Set 1
 
