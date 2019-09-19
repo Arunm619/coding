@@ -820,7 +820,7 @@ Sorting &amp; Searching :
 
 **7.Compare two strings represented as linked lists** [See Solution](https://gist.github.com/arun-sudharsan/d69b3497427d9d3d55e27997055d8887)  
 
-8.Rearrange a linked list such that all even and odd positioned nodes are together
+**8.Rearrange a linked list such that all even and odd positioned nodes are together** [See Solution](https://gist.github.com/arun-sudharsan/3c4ae46df77786b5bea2cda4779a73c1)  
 
 9.Rearrange a Linked List in Zig-Zag fashion
 
