@@ -867,7 +867,7 @@ Sorting &amp; Searching :
 
 **10.Modify contents of Linked List** [See Solution](https://gist.github.com/arun-sudharsan/ef66671738e05fafc852e452b6d69403)  
 
-11.Remove loop in a linked list
+**11.Remove loop in a linked list** [See Solution](https://gist.github.com/arun-sudharsan/26d0bca41c0eb7ad06f0d2ab77725483)  
 
 **Doubly Linked List:**
 
