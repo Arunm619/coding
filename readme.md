@@ -855,9 +855,9 @@ Sorting &amp; Searching :
 
 **4.Given only a pointer/reference to a node to be deleted in a singly linked list, how do you delete it?** [See Solution](https://gist.github.com/arun-sudharsan/296227315027c1a87076ddb60d1834ea)  
 
-5.Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
+**5.Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?** [See Solution](https://gist.github.com/arun-sudharsan/1915849aaa2392a355b53760596fa1b8)   
 
-6.Find the fractional (or n/k – th) node in linked list
+**6.Find the fractional (or n/k – th) node in linked list** [See Solution](https://gist.github.com/arun-sudharsan/ca49533959653ad3b96c287de9f7f873)  
 
 7.Find modular node in a linked list
 
