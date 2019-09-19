@@ -834,11 +834,11 @@ Sorting &amp; Searching :
 
 **4.Delete middle of linked list** [See Solution](https://gist.github.com/arun-sudharsan/ba9cc8b126ecf160ab377bd49f12ccfe)  
 
-5.Merge K sorted linked lists | Set 1
+**5.Merge K sorted linked lists | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/b6e995195a4077b3691efa6c448e78fd)  
 
-6.Merge k sorted linked lists | Set 2 (Using Min Heap)
+**6.Merge k sorted linked lists | Set 2 (Using Min Heap)** [See Solution](https://gist.github.com/arun-sudharsan/b6e995195a4077b3691efa6c448e78fd)  
 
-7.Merge two sorted lists (in-place)
+**7.Merge two sorted lists (in-place)** [See Solution](https://gist.github.com/arun-sudharsan/15e1d95779bf5eb55755e4cbe5bc5611)  
 
 8.Union and Intersection of two Linked Lists
 
