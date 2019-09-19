@@ -863,7 +863,7 @@ Sorting &amp; Searching :
 
 **8.Construct a linked list from 2D matrix** [See Solution](https://gist.github.com/arun-sudharsan/4c3dd50a6f35f0df226e1b18d3d3fbd2)  
 
-9.Arrange consonants and vowels nodes in a linked list
+**9.Arrange consonants and vowels nodes in a linked list** [See Solution](https://gist.github.com/arun-sudharsan/828993bade135af6e2109cf43a674bb3)  
 
 10.Modify contents of Linked List
 
