@@ -830,7 +830,7 @@ Sorting &amp; Searching :
 
 **2.Merge two sorted linked lists** [See Solution](https://gist.github.com/arun-sudharsan/15e1d95779bf5eb55755e4cbe5bc5611)  
 
-3.Merge a linked list into another linked list at alternate positions
+**3.Merge a linked list into another linked list at alternate positions** [See Solution](https://gist.github.com/arun-sudharsan/6f7f57a8d9d9a354eead7aaecc8cabd1)  
 
 4.Delete middle of linked list
 
