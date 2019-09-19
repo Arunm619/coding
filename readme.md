@@ -828,7 +828,7 @@ Sorting &amp; Searching :
 
 **1.Merge Sort for Linked Lists** [See Solution](https://gist.github.com/arun-sudharsan/988b64ed822887a5f3e1fb5478147cbe)  
 
-2.Merge two sorted linked lists
+**2.Merge two sorted linked lists** [See Solution](https://gist.github.com/arun-sudharsan/15e1d95779bf5eb55755e4cbe5bc5611)  
 
 3.Merge a linked list into another linked list at alternate positions
 
