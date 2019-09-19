@@ -826,7 +826,7 @@ Sorting &amp; Searching :
 
 **10.Add 1 to a number represented as linked list** [See Solution](https://gist.github.com/arun-sudharsan/6537eee031163de276148104be306238)  
 
-1.Merge Sort for Linked Lists
+**1.Merge Sort for Linked Lists** [See Solution](https://gist.github.com/arun-sudharsan/988b64ed822887a5f3e1fb5478147cbe)  
 
 2.Merge two sorted linked lists
 
