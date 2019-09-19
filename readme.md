@@ -861,7 +861,7 @@ Sorting &amp; Searching :
 
 **7.Find modular node in a linked list** [See Solution](https://gist.github.com/arun-sudharsan/c287c0f93ef7270465e160d45d206115)  
 
-8.Construct a linked list from 2D matrix
+**8.Construct a linked list from 2D matrix** [See Solution](https://gist.github.com/arun-sudharsan/4c3dd50a6f35f0df226e1b18d3d3fbd2)  
 
 9.Arrange consonants and vowels nodes in a linked list
 
