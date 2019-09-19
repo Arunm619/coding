@@ -865,7 +865,7 @@ Sorting &amp; Searching :
 
 **9.Arrange consonants and vowels nodes in a linked list** [See Solution](https://gist.github.com/arun-sudharsan/828993bade135af6e2109cf43a674bb3)  
 
-10.Modify contents of Linked List
+**10.Modify contents of Linked List** [See Solution](https://gist.github.com/arun-sudharsan/ef66671738e05fafc852e452b6d69403)  
 
 11.Remove loop in a linked list
 
