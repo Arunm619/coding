@@ -871,21 +871,21 @@ Sorting &amp; Searching :
 
 **Doubly Linked List:**
 
-1.Doubly Linked List Introduction and Insertion
+**1.Doubly Linked List Introduction and Insertion** [See Solution](https://gist.github.com/arun-sudharsan/e91dbd251fb74b4dc31e826cac34bd4e)  
 
-2.Delete a node in a Doubly Linked List
+**2.Delete a node in a Doubly Linked List** [See Solution](https://gist.github.com/arun-sudharsan/324afecf9231d6d3a0f322326f2f80ca)  
 
-3.Reverse a Doubly Linked List
+**3.Reverse a Doubly Linked List** [See Solution](https://gist.github.com/arun-sudharsan/c492c841cbd5bce49b1bb353a9478933)  
 
 4.QuickSort on Doubly Linked List
 
-5.Swap Kth node from beginning with Kth node from end in a Linked List
+**5.Swap Kth node from beginning with Kth node from end in a Linked List** [See Solution](https://gist.github.com/arun-sudharsan/6edc09d5c0fb0c497c2a326cb1e5ae2d)  
 
-6.Merge Sort for Doubly Linked List
+**6.Merge Sort for Doubly Linked List** [See Solution](https://gist.github.com/arun-sudharsan/4df6c2a9ac02e5df914c35a9b7c01e03)  
 
-7.Convert a given Binary Tree to Doubly Linked List | Set 4
+**7.Convert a given Binary Tree to Doubly Linked List | Set 4** [See Solution](https://gist.github.com/arun-sudharsan/58e7ee613fcad4a5c7de7dc92a1079a3)  
 
-8.Extract Leaves of a Binary Tree in a Doubly Linked List
+**8.Extract Leaves of a Binary Tree in a Doubly Linked List** [See Solution](https://gist.github.com/arun-sudharsan/0e5c6ddd9323a86ce6c4d5ff0d220584)  
 
 **Sorting:**
 
