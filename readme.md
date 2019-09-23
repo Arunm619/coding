@@ -917,6 +917,8 @@ Sorting &amp; Searching :
 
 **BINARY TREE:**
 
+*General Intro* [Read](https://gist.github.com/arun-sudharsan/aeb7b97395b1f38d27314f79dbbc59c1)  
+
 1.Write a program to Delete a Tree
 
 2.Diameter of a Binary Tree
