@@ -919,7 +919,7 @@ Sorting &amp; Searching :
 
 *General Intro* [Read](https://gist.github.com/arun-sudharsan/aeb7b97395b1f38d27314f79dbbc59c1)  
 
-1.Write a program to Delete a Tree
+**1.Write a program to Delete a Tree** [See Solution](https://gist.github.com/arun-sudharsan/df6f6ed86957c82b13265a18193a8232)  
 
 2.Diameter of a Binary Tree
 
