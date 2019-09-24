@@ -921,7 +921,7 @@ Sorting &amp; Searching :
 
 **1.Write a program to Delete a Tree** [See Solution](https://gist.github.com/arun-sudharsan/df6f6ed86957c82b13265a18193a8232)  
 
-2.Diameter of a Binary Tree
+**2.Diameter of a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/0ad1558cfb775c4a8411ec134e965084)  
 
 3.Given a binary tree, print out all of its root-to-leaf paths one per line
 
