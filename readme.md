@@ -923,7 +923,7 @@ Sorting &amp; Searching :
 
 **2.Diameter of a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/0ad1558cfb775c4a8411ec134e965084)  
 
-3.Given a binary tree, print out all of its root-to-leaf paths one per line
+**3.Given a binary tree, print out all of its root-to-leaf paths one per line** [See Solution](https://gist.github.com/arun-sudharsan/b8363fb30330bb7bc2821c016b84a5d8)  
 
 4.Populate Inorder Successor for all nodes
 
