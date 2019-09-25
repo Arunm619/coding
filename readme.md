@@ -925,7 +925,7 @@ Sorting &amp; Searching :
 
 **3.Given a binary tree, print out all of its root-to-leaf paths one per line** [See Solution](https://gist.github.com/arun-sudharsan/b8363fb30330bb7bc2821c016b84a5d8)  
 
-4.Populate Inorder Successor for all nodes
+**4.Populate Inorder Successor for all nodes** [See Solution](https://gist.github.com/arun-sudharsan/fc1c21e6b9a553e4ed53bf7591fa30fa)  
 
 5.Check if a given Binary Tree is SumTree
 
