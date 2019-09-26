@@ -931,7 +931,7 @@ Sorting &amp; Searching :
 
 **6.Print Ancestors of a given node in Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/1a09908f8325e4e70b9dec376aa7830f)  
 
-7.Print nodes at k distance from root
+**7.Print nodes at k distance from root** [See Solution](https://gist.github.com/arun-sudharsan/d4597af383e6f04a062c7c6b60d112c9)  
 
 8.Maximum width of a binary tree
 
