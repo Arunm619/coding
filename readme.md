@@ -933,11 +933,11 @@ Sorting &amp; Searching :
 
 **7.Print nodes at k distance from root** [See Solution](https://gist.github.com/arun-sudharsan/d4597af383e6f04a062c7c6b60d112c9)  
 
-8.Maximum width of a binary tree
+**8.Maximum width of a binary tree** [See Solution](https://gist.github.com/arun-sudharsan/704821b310afa549f0b2e2ba03980748)  
 
-9.Find next right node of a given key
+**9.Find next right node of a given key** [See Solution](https://gist.github.com/arun-sudharsan/62efda3ac6d2f4ed5f430ea1cea65a1f)  
 
-10.Tree Isomorphism Problem
+**10.Tree Isomorphism Problem** [See Solution](https://gist.github.com/arun-sudharsan/e9eebbd2dc7ad8ad15e88e2c1335ad32)  
 
 1.Connect nodes at same level
 
