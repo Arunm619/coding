@@ -927,9 +927,9 @@ Sorting &amp; Searching :
 
 **4.Populate Inorder Successor for all nodes** [See Solution](https://gist.github.com/arun-sudharsan/fc1c21e6b9a553e4ed53bf7591fa30fa)  
 
-5.Check if a given Binary Tree is SumTree
+**5.Check if a given Binary Tree is SumTree** [See Solution](https://gist.github.com/arun-sudharsan/784c59392f460e4aefb52b9f8ccb6143)  
 
-6.Print Ancestors of a given node in Binary Tree
+**6.Print Ancestors of a given node in Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/1a09908f8325e4e70b9dec376aa7830f)  
 
 7.Print nodes at k distance from root
 
