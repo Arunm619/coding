@@ -939,7 +939,7 @@ Sorting &amp; Searching :
 
 **10.Tree Isomorphism Problem** [See Solution](https://gist.github.com/arun-sudharsan/e9eebbd2dc7ad8ad15e88e2c1335ad32)  
 
-1.Connect nodes at same level
+**1.Connect nodes at same level** [See Solution](https://gist.github.com/arun-sudharsan/ed411dc82359ffcd127c5b89afa3d11a)  
 
 2.Check if a binary tree is subtree of another binary tree
 
