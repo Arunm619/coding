@@ -957,7 +957,7 @@ Sorting &amp; Searching :
 
 **9.Print Right View of a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/08ebf8a529e41c4cf65dbe33bb8b92bf)  
 
-10.Print Nodes in Bottom  View of Binary Tree
+**10.Print Nodes in Bottom  View of Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/2d49fab4a2624ffc3c44bac34f6e559f)  
 
 1.Deletion in a Binary Tree
 
