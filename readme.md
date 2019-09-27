@@ -949,13 +949,13 @@ Sorting &amp; Searching :
 
 **5.Deepest left leaf node in a binary tree** [See Solution](https://gist.github.com/arun-sudharsan/bd1a010b3e76194ea02f56a37f42159e)  
 
-6.Print Left View of a Binary Tree
+**6.Print Left View of a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/08ebf8a529e41c4cf65dbe33bb8b92bf)  
 
 7.Check if all leaves are at same level
 
 8.Find the maximum path sum between two leaves of a binary tree
 
-9.Print Right View of a Binary Tree
+**9.Print Right View of a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/08ebf8a529e41c4cf65dbe33bb8b92bf)  
 
 10.Print Nodes in Bottom  View of Binary Tree
 
