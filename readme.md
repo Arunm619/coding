@@ -947,7 +947,7 @@ Sorting &amp; Searching :
 
 **4.Vertical Sum in a given Binary Tree | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/a8e44599ea28c8c92b16bde9ecd7a340)  
 
-5.Deepest left leaf node in a binary tree
+**5.Deepest left leaf node in a binary tree** [See Solution](https://gist.github.com/arun-sudharsan/bd1a010b3e76194ea02f56a37f42159e)  
 
 6.Print Left View of a Binary Tree
 
