@@ -953,7 +953,7 @@ Sorting &amp; Searching :
 
 **7.Check if all leaves are at same level** [See Solution](https://gist.github.com/arun-sudharsan/9240e5065b47b6d3c6d5c1fb3e8b01b5)  
 
-8.Find the maximum path sum between two leaves of a binary tree
+**8.Find the maximum path sum between two leaves of a binary tree** [See Solution](https://gist.github.com/arun-sudharsan/7e242e5d81b5bcce205a869843067b06)  
 
 **9.Print Right View of a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/08ebf8a529e41c4cf65dbe33bb8b92bf)  
 
