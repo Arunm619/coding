@@ -941,7 +941,7 @@ Sorting &amp; Searching :
 
 **1.Connect nodes at same level** [See Solution](https://gist.github.com/arun-sudharsan/ed411dc82359ffcd127c5b89afa3d11a)  
 
-2.Check if a binary tree is subtree of another binary tree
+**2.Check if a binary tree is subtree of another binary tree** [See Solution](https://gist.github.com/arun-sudharsan/697f440090ebbe517f60f377b7da6c26)  
 
 3.Print Nodes in Top View of Binary Tree
 
