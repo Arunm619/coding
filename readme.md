@@ -943,7 +943,7 @@ Sorting &amp; Searching :
 
 **2.Check if a binary tree is subtree of another binary tree** [See Solution](https://gist.github.com/arun-sudharsan/697f440090ebbe517f60f377b7da6c26)  
 
-3.Print Nodes in Top View of Binary Tree
+**3.Print Nodes in Top View of Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/5104a3f60b361c56ad021066f71a8e2f)  
 
 4.Vertical Sum in a given Binary Tree | Set 1
 
