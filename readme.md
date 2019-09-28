@@ -965,7 +965,7 @@ Sorting &amp; Searching :
 
 **3.Check if two nodes are cousins in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/8e9f510cdeeb48cc3904eaf707836158)  
 
-4.Print all nodes that don&#39;t have sibling
+**4.Print all nodes that don&#39;t have sibling** [See Solution](https://gist.github.com/arun-sudharsan/bd8c8a34f36788cc54c0823c7191e4dc)  
 
 5.Diagonal sum of binary tree
 
