@@ -1001,7 +1001,7 @@ Sorting &amp; Searching :
 
 1.Binary Search Tree | Set 1 (Search and Insertion
 
-2.Binary Search Tree | Set 2 (Delete)
+**2.Binary Search Tree | Set 2 (Delete)** [See Solution](https://gist.github.com/arun-sudharsan/e70974b274628e7c3b44173d1e9dd5b5)  
 
 3.Binary Tree to Binary Search Tree Conversion
 
