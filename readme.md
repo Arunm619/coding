@@ -968,8 +968,7 @@ Sorting &amp; Searching :
 **4.Print all nodes that don&#39;t have sibling** [See Solution](https://gist.github.com/arun-sudharsan/bd8c8a34f36788cc54c0823c7191e4dc)  
 
 **Diagonal Traversal of binary tree** [See Solution](https://gist.github.com/arun-sudharsan/d32d542bb38607f2de77a1c7d0bf6bbb)  
-
-5.Diagonal sum of binary tree
+**5.Diagonal sum of binary tree** [See Solution](https://gist.github.com/arun-sudharsan/d32d542bb38607f2de77a1c7d0bf6bbb)  
 
 6.Lowest Common Ancestor in a Binary Tree
 
