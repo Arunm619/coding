@@ -972,7 +972,7 @@ Sorting &amp; Searching :
 
 **6.Lowest Common Ancestor in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/609f946da62ab38a2f1fa9b4c510757b)  
 
-7.Min distance between two given nodes of a Binary Tree
+**7.Min distance between two given nodes of a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/d3fe00bd3984477056af53e4a41f35df)  
 
 8.Convert a Binary Tree into its Mirror Tree
 
