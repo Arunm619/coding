@@ -970,7 +970,7 @@ Sorting &amp; Searching :
 **Diagonal Traversal of binary tree** [See Solution](https://gist.github.com/arun-sudharsan/d32d542bb38607f2de77a1c7d0bf6bbb)  
 **5.Diagonal sum of binary tree** [See Solution](https://gist.github.com/arun-sudharsan/d32d542bb38607f2de77a1c7d0bf6bbb)  
 
-6.Lowest Common Ancestor in a Binary Tree
+**6.Lowest Common Ancestor in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/609f946da62ab38a2f1fa9b4c510757b)  
 
 7.Min distance between two given nodes of a Binary Tree
 
@@ -1042,7 +1042,7 @@ Sorting &amp; Searching :
 
 9.Floor and Ceil from a BST
 
-10.Lowest Common Ancestor in a BST
+**10.Lowest Common Ancestor in a BST** [See Solution](https://gist.github.com/arun-sudharsan/609f946da62ab38a2f1fa9b4c510757b)  
 
 
 
