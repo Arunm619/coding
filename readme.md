@@ -959,7 +959,7 @@ Sorting &amp; Searching :
 
 **10.Print Nodes in Bottom  View of Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/2d49fab4a2624ffc3c44bac34f6e559f)  
 
-1.Deletion in a Binary Tree
+**1.Deletion in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/0b6d6175e40d217f4e8c5c511f841d3f)  
 
 2.Find the closest leaf in a Binary Tree
 
