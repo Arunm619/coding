@@ -961,7 +961,7 @@ Sorting &amp; Searching :
 
 **1.Deletion in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/0b6d6175e40d217f4e8c5c511f841d3f)  
 
-2.Find the closest leaf in a Binary Tree
+**2.Find the closest leaf in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/8ee3be05b35bcdc2cabd0d384afc6dd9)  
 
 3.Check if two nodes are cousins in a Binary Tree
 
