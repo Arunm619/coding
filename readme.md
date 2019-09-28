@@ -978,7 +978,7 @@ Sorting &amp; Searching :
 
 **9.Binary Tree (Properties)** [See Solution](https://gist.github.com/arun-sudharsan/7a9eed7861de7f37e5af3fc72e18f2f6)  
 
-10.Print a Binary Tree in Vertical Order
+**10.Print a Binary Tree in Vertical Order** [See Solution](https://gist.github.com/arun-sudharsan/58a9f3278cc256ec2cc627252b8bcb32)  
 
 1.Maximum difference between node and its ancestor
 
