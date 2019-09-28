@@ -963,7 +963,7 @@ Sorting &amp; Searching :
 
 **2.Find the closest leaf in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/8ee3be05b35bcdc2cabd0d384afc6dd9)  
 
-3.Check if two nodes are cousins in a Binary Tree
+**3.Check if two nodes are cousins in a Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/8e9f510cdeeb48cc3904eaf707836158)  
 
 4.Print all nodes that don&#39;t have sibling
 
