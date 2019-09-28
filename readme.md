@@ -976,7 +976,7 @@ Sorting &amp; Searching :
 
 **8.Convert a Binary Tree into its Mirror Tree** [See Solution](https://gist.github.com/arun-sudharsan/ec87fc48ef44d9043ec9cb2eaf255301)  
 
-9.Binary Tree (Properties)
+**9.Binary Tree (Properties)** [See Solution](https://gist.github.com/arun-sudharsan/7a9eed7861de7f37e5af3fc72e18f2f6)  
 
 10.Print a Binary Tree in Vertical Order
 
