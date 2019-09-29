@@ -988,7 +988,7 @@ Sorting &amp; Searching :
 
 **Serialize and Deserialize Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/87f9bab0f4cffaa6e68c925c6c1fc3c8)  
 
-4.Duplicate subtree in Binary Tree
+**4.Duplicate subtree in Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/0a99f0b4a7c36d0da05b392e31f1db8b)  
 
 5.Print all k-sum paths in a binary tree
 
