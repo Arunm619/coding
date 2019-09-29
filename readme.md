@@ -998,7 +998,7 @@ Sorting &amp; Searching :
 
 **7.Number of root to leaf paths** [See Solution](https://gist.github.com/arun-sudharsan/c3dbdd340130ad04fc308807a1895550)  
 
-8.Largest BST
+**8.Largest BST** [See Solution](https://gist.github.com/arun-sudharsan/2416d39f306e3507c867eadc53cb2274)  
 
 
 
