@@ -986,6 +986,8 @@ Sorting &amp; Searching :
 
 **3.Longest consecutive sequence in Binary tree** [See Solution](https://gist.github.com/arun-sudharsan/269cbd4115a4405a05be1e93a4f3e84a)  
 
+**Serialize and Deserialize Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/87f9bab0f4cffaa6e68c925c6c1fc3c8)  
+
 4.Duplicate subtree in Binary Tree
 
 5.Print all k-sum paths in a binary tree
