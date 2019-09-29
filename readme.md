@@ -994,7 +994,7 @@ Sorting &amp; Searching :
 **Path Sum paths With Given Value** [See Solution](https://gist.github.com/arun-sudharsan/4f3ea593d12b421eb3cf7cfc6bf9c650)  
 **5.Print all k-sum paths in a binary tree** [See Solution](https://gist.github.com/arun-sudharsan/3af95bf0a9d0b468b980b961ac33815a)  
 
-6.Print Nodes having K leaves
+**6.Print Nodes having K leaves** [See Solution](https://gist.github.com/arun-sudharsan/f3521bf3ab5484488df4421d754b82df)  
 
 7.Number of root to leaf paths
 
