@@ -984,7 +984,7 @@ Sorting &amp; Searching :
 
 **2.K-th ancestor of a node in Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/3feed5ec8183d28a4a8bd28c2e39e4cc)  
 
-3.Longest consecutive sequence in Binary tree
+**3.Longest consecutive sequence in Binary tree** [See Solution](https://gist.github.com/arun-sudharsan/269cbd4115a4405a05be1e93a4f3e84a)  
 
 4.Duplicate subtree in Binary Tree
 
