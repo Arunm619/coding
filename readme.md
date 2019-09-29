@@ -996,7 +996,7 @@ Sorting &amp; Searching :
 
 **6.Print Nodes having K leaves** [See Solution](https://gist.github.com/arun-sudharsan/f3521bf3ab5484488df4421d754b82df)  
 
-7.Number of root to leaf paths
+**7.Number of root to leaf paths** [See Solution](https://gist.github.com/arun-sudharsan/c3dbdd340130ad04fc308807a1895550)  
 
 8.Largest BST
 
