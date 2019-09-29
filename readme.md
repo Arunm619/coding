@@ -980,7 +980,7 @@ Sorting &amp; Searching :
 
 **10.Print a Binary Tree in Vertical Order** [See Solution](https://gist.github.com/arun-sudharsan/58a9f3278cc256ec2cc627252b8bcb32)  
 
-1.Maximum difference between node and its ancestor
+**1.Maximum difference between node and its ancestor** [See Solution](https://gist.github.com/arun-sudharsan/54729ab31cd5b6176b2800639bcfbbb6)  
 
 2.K-th ancestor of a node in Binary Tree
 
