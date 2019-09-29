@@ -990,6 +990,8 @@ Sorting &amp; Searching :
 
 **4.Duplicate subtree in Binary Tree** [See Solution](https://gist.github.com/arun-sudharsan/0a99f0b4a7c36d0da05b392e31f1db8b)  
 
+**Path Sum with given Value** [See Solution](https://gist.github.com/arun-sudharsan/5b50613f60276de4615453120b367623)  
+
 5.Print all k-sum paths in a binary tree
 
 6.Print Nodes having K leaves
