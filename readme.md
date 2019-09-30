@@ -1028,7 +1028,7 @@ Sorting &amp; Searching :
 
 
 
-1.Sum of k smallest elements in BST
+**1.Sum of k smallest elements in BST** [See Solution](https://gist.github.com/arun-sudharsan/5b79ce49cb236c653cc5b7df120950f9)  
 
 2.Find the closest element in Binary Search Tree
 
