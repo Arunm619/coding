@@ -1018,11 +1018,11 @@ Sorting &amp; Searching :
 
 **7.Check whether BST contains Dead End or not** [See Solution](https://gist.github.com/arun-sudharsan/418578dffff6a6ebdd988f8139259aa9)  
 
-8.Inorder Successor in Binary Search Tree
+**8.Inorder Successor in Binary Search Tree** [See Solution](https://gist.github.com/arun-sudharsan/a4a8a25de763fea1ef77efa6431e5739)  
 
 9.Two nodes of a BST are swapped, correct the BST
 
-10.Inorder predecessor and successor for a given key in BST
+**10.Inorder predecessor and successor for a given key in BST** [See Solution](https://gist.github.com/arun-sudharsan/a4a8a25de763fea1ef77efa6431e5739)  
 
 
 
