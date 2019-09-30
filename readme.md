@@ -1010,7 +1010,7 @@ Sorting &amp; Searching :
 
 **3.Binary Tree to Binary Search Tree Conversion** [See Solution](https://gist.github.com/arun-sudharsan/7ff3931f1372306571eccb6e0298121e)  
 
-4.A program to check if a binary tree is BST or not
+**4.A program to check if a binary tree is BST or not** [See Solution](https://gist.github.com/arun-sudharsan/2a215f7a461bd9eda258139c3cff6fe8)  
 
 5.Find k-th smallest element in BST
 
