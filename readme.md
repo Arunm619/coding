@@ -1008,7 +1008,7 @@ Sorting &amp; Searching :
 
 **2.Binary Search Tree | Set 2 (Delete)** [See Solution](https://gist.github.com/arun-sudharsan/e70974b274628e7c3b44173d1e9dd5b5)  
 
-3.Binary Tree to Binary Search Tree Conversion
+**3.Binary Tree to Binary Search Tree Conversion** [See Solution](https://gist.github.com/arun-sudharsan/7ff3931f1372306571eccb6e0298121e)  
 
 4.A program to check if a binary tree is BST or not
 
