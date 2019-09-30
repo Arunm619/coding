@@ -1020,7 +1020,7 @@ Sorting &amp; Searching :
 
 **8.Inorder Successor in Binary Search Tree** [See Solution](https://gist.github.com/arun-sudharsan/a4a8a25de763fea1ef77efa6431e5739)  
 
-9.Two nodes of a BST are swapped, correct the BST
+**9.Two nodes of a BST are swapped, correct the BST** [See Solution](https://gist.github.com/arun-sudharsan/6d394c81ab6f8a6d78b528bd64e9ac5e)  
 
 **10.Inorder predecessor and successor for a given key in BST** [See Solution](https://gist.github.com/arun-sudharsan/a4a8a25de763fea1ef77efa6431e5739)  
 
