@@ -1016,7 +1016,7 @@ Sorting &amp; Searching :
 
 **6.K&#39;th Largest Element in BST when modification to BST is not allowed** [See Solution](https://gist.github.com/arun-sudharsan/8d6380cd6246020f827932b7f17e45b6)  
 
-7.Check whether BST contains Dead End or not
+**7.Check whether BST contains Dead End or not** [See Solution](https://gist.github.com/arun-sudharsan/418578dffff6a6ebdd988f8139259aa9)  
 
 8.Inorder Successor in Binary Search Tree
 
