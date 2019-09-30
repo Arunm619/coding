@@ -1012,9 +1012,9 @@ Sorting &amp; Searching :
 
 **4.A program to check if a binary tree is BST or not** [See Solution](https://gist.github.com/arun-sudharsan/2a215f7a461bd9eda258139c3cff6fe8)  
 
-5.Find k-th smallest element in BST
+**5.Find k-th smallest element in BST** [See Solution](https://gist.github.com/arun-sudharsan/8d6380cd6246020f827932b7f17e45b6)
 
-6.K&#39;th Largest Element in BST when modification to BST is not allowed
+**6.K&#39;th Largest Element in BST when modification to BST is not allowed** [See Solution](https://gist.github.com/arun-sudharsan/8d6380cd6246020f827932b7f17e45b6)  
 
 7.Check whether BST contains Dead End or not
 
