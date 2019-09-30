@@ -1004,7 +1004,7 @@ Sorting &amp; Searching :
 
 **Binary search tree:**
 
-1.Binary Search Tree | Set 1 (Search and Insertion
+**1.Binary Search Tree | Set 1 (Search and Insertion)** [See Solution](https://gist.github.com/arun-sudharsan/aeb7b97395b1f38d27314f79dbbc59c1)  
 
 **2.Binary Search Tree | Set 2 (Delete)** [See Solution](https://gist.github.com/arun-sudharsan/e70974b274628e7c3b44173d1e9dd5b5)  
 
