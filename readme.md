@@ -1050,7 +1050,7 @@ Sorting &amp; Searching :
 
 **10.Lowest Common Ancestor in a BST** [See Solution](https://gist.github.com/arun-sudharsan/609f946da62ab38a2f1fa9b4c510757b)  
 
-
+**Tree Traversals** [See Solution](https://gist.github.com/arun-sudharsan/563eca4f568783663eb514b2322019bf)  
 
 **Heap:**
 
