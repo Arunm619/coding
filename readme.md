@@ -1036,7 +1036,7 @@ Sorting &amp; Searching :
 
 3.Replace every element with the least greater element on its right
 
-4.Print Common Nodes in Two Binary Search Trees
+**4.Print Common Nodes in Two Binary Search Trees** [See Solution](https://gist.github.com/arun-sudharsan/8e0203b2a6a19589b7299d56c911855d)  
 
 5.Count BST nodes that lie in a given range
 
