@@ -1042,7 +1042,7 @@ Sorting &amp; Searching :
 
 6.Given n appointments, find all conflicting appointments
 
-7.Find median of BST in O(n) time and O(1) space
+**7.Find median of BST in O(n) time and O(1) space** [See Solution](https://gist.github.com/arun-sudharsan/6e3eed0059c2694ca3ae17e41f141a9a)  
 
 8.Binary Tree to DLL
 
