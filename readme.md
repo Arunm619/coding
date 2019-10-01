@@ -1038,7 +1038,7 @@ Sorting &amp; Searching :
 
 **4.Print Common Nodes in Two Binary Search Trees** [See Solution](https://gist.github.com/arun-sudharsan/8e0203b2a6a19589b7299d56c911855d)  
 
-5.Count BST nodes that lie in a given range
+**5.Count BST nodes that lie in a given range** [See Solution](https://gist.github.com/arun-sudharsan/69f3f3672ea65513a0bcd766fe3e62a5)  
 
 6.Given n appointments, find all conflicting appointments
 
