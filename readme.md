@@ -1034,7 +1034,7 @@ Sorting &amp; Searching :
 
 **Iterative Inorder Traversal** [See Solution](https://gist.github.com/arun-sudharsan/bbcdf6a20f6cc68bda77381395fc3987)  
 
-3.Replace every element with the least greater element on its right
+**3.Replace every element with the least greater element on its right** [See Solution](https://gist.github.com/arun-sudharsan/19d9a78855dac27caf4657b0d55e9622)  
 
 **4.Print Common Nodes in Two Binary Search Trees** [See Solution](https://gist.github.com/arun-sudharsan/8e0203b2a6a19589b7299d56c911855d)  
 
