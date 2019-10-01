@@ -1032,6 +1032,8 @@ Sorting &amp; Searching :
 
 **2.Find the closest element in Binary Search Tree** [See Solution](https://gist.github.com/arun-sudharsan/b8739001b45d3c2f7a91c5bc36ec8850)  
 
+**Iterative Inorder Traversal** [See Solution](https://gist.github.com/arun-sudharsan/bbcdf6a20f6cc68bda77381395fc3987)  
+
 3.Replace every element with the least greater element on its right
 
 4.Print Common Nodes in Two Binary Search Trees
