@@ -1040,11 +1040,11 @@ Sorting &amp; Searching :
 
 **5.Count BST nodes that lie in a given range** [See Solution](https://gist.github.com/arun-sudharsan/69f3f3672ea65513a0bcd766fe3e62a5)  
 
-6.Given n appointments, find all conflicting appointments
+**6.Given n appointments, find all conflicting appointments** [See Solution](https://gist.github.com/arun-sudharsan/f9212beeda6b9e3d89ddf955c1718bff)  
 
 **7.Find median of BST in O(n) time and O(1) space** [See Solution](https://gist.github.com/arun-sudharsan/6e3eed0059c2694ca3ae17e41f141a9a)  
 
-8.Binary Tree to DLL
+**8.Binary Tree to DLL** [See Solution](https://gist.github.com/arun-sudharsan/58e7ee613fcad4a5c7de7dc92a1079a3)  
 
 **9.Floor and Ceil from a BST** [See Solution](https://gist.github.com/arun-sudharsan/4d0ffc1436625ef303a8a07717f651cd)  
 
