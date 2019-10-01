@@ -1046,7 +1046,7 @@ Sorting &amp; Searching :
 
 8.Binary Tree to DLL
 
-9.Floor and Ceil from a BST
+**9.Floor and Ceil from a BST** [See Solution](https://gist.github.com/arun-sudharsan/4d0ffc1436625ef303a8a07717f651cd)  
 
 **10.Lowest Common Ancestor in a BST** [See Solution](https://gist.github.com/arun-sudharsan/609f946da62ab38a2f1fa9b4c510757b)  
 
