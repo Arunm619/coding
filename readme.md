@@ -1054,7 +1054,7 @@ Sorting &amp; Searching :
 
 **Heap:**
 
-1.Binary Heap
+**1.Binary Heap** [See Solution](https://gist.github.com/arun-sudharsan/1800d4057199d2fe2e477f529a03a0f2)  
 
 2K&#39;th Smallest/Largest Element in Unsorted Array | Set 1
 
