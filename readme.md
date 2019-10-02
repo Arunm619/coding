@@ -1056,7 +1056,7 @@ Sorting &amp; Searching :
 
 **1.Binary Heap** [See Solution](https://gist.github.com/arun-sudharsan/1800d4057199d2fe2e477f529a03a0f2)  
 
-2K&#39;th Smallest/Largest Element in Unsorted Array | Set 1
+**2K&#39;th Smallest/Largest Element in Unsorted Array | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/494af884e0ae7b0b062b006329aa7d6d)  
 
 3.Check if a given Binary Tree is Heap
 
