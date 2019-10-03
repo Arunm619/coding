@@ -1072,7 +1072,7 @@ Sorting &amp; Searching :
 
 **9.Heap Sort** [See Solution](https://gist.github.com/arun-sudharsan/cbacb1fe02a093ab627481da5ceaadfe)  
 
-10.Print all nodes less than a value x in a Min Heap.
+**10.Print all nodes less than a value x in a Min Heap.** [See Solution](https://gist.github.com/arun-sudharsan/c8cbf2573f85e8a4dbf4b62d76c2fe09)  
 
 1.K&#39;th largest element in a stream
 
