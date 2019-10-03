@@ -1076,7 +1076,7 @@ Sorting &amp; Searching :
 
 **1.K&#39;th largest element in a stream** [See Solution](https://gist.github.com/arun-sudharsan/6159317371da7fb4b69c0861832c4518)  
 
-2.Minimum sum of two numbers formed from digits of an array
+**2.Minimum sum of two numbers formed from digits of an array** [See Solution](https://gist.github.com/arun-sudharsan/e539723b76401230e51d44889007d609)  
 
 3.Rearrange characters in a string such that no two adjacent are same
 
