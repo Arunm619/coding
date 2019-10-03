@@ -1070,7 +1070,7 @@ Sorting &amp; Searching :
 
 **8.Convert min Heap to max Heap** [See Solution](https://gist.github.com/arun-sudharsan/06faf5fc49fe0d1d8d3aa490ca22a4aa)  
 
-9.Heap Sort
+**9.Heap Sort** [See Solution](https://gist.github.com/arun-sudharsan/cbacb1fe02a093ab627481da5ceaadfe)  
 
 10.Print all nodes less than a value x in a Min Heap.
 
