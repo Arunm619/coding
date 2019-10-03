@@ -1074,7 +1074,7 @@ Sorting &amp; Searching :
 
 **10.Print all nodes less than a value x in a Min Heap.** [See Solution](https://gist.github.com/arun-sudharsan/c8cbf2573f85e8a4dbf4b62d76c2fe09)  
 
-1.K&#39;th largest element in a stream
+**1.K&#39;th largest element in a stream** [See Solution](https://gist.github.com/arun-sudharsan/6159317371da7fb4b69c0861832c4518)  
 
 2.Minimum sum of two numbers formed from digits of an array
 
