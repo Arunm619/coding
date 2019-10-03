@@ -1062,7 +1062,7 @@ Sorting &amp; Searching :
 
 **4.Convert BST to Min Heap** [See Solution](https://gist.github.com/arun-sudharsan/75ba7f013d1286d0a6ffdd195daa2284)  
 
-5.Merge k sorted arrays | Set 1
+**5.Merge k sorted arrays | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/a171c522927bb1ff44d6d8eae1f59860)  
 
 6.Binomial Heap
 
