@@ -1078,7 +1078,7 @@ Sorting &amp; Searching :
 
 **2.Minimum sum of two numbers formed from digits of an array** [See Solution](https://gist.github.com/arun-sudharsan/e539723b76401230e51d44889007d609)  
 
-3.Rearrange characters in a string such that no two adjacent are same
+**3.Rearrange characters in a string such that no two adjacent are same** [See Solution](https://gist.github.com/arun-sudharsan/11420c6ec9d1568f38e30f40f9526172)  
 
 4.Maximum difference between two subsets of m elements
 
