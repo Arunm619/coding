@@ -1060,7 +1060,7 @@ Sorting &amp; Searching :
 
 **3.Check if a given Binary Tree is Heap** [See Solution](https://gist.github.com/arun-sudharsan/9ba4d607b61a750a58777fc25eb2cf61)  
 
-4.Convert BST to Min Heap
+**4.Convert BST to Min Heap** [See Solution](https://gist.github.com/arun-sudharsan/75ba7f013d1286d0a6ffdd195daa2284)  
 
 5.Merge k sorted arrays | Set 1
 
