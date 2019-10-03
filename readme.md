@@ -1068,7 +1068,7 @@ Sorting &amp; Searching :
 
 7.Sum of all elements between k1&#39;th and k2&#39;th smallest elements
 
-8.Convert min Heap to max Heap
+**8.Convert min Heap to max Heap** [See Solution](https://gist.github.com/arun-sudharsan/06faf5fc49fe0d1d8d3aa490ca22a4aa)  
 
 9.Heap Sort
 
