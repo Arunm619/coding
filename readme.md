@@ -1058,7 +1058,7 @@ Sorting &amp; Searching :
 
 **2K&#39;th Smallest/Largest Element in Unsorted Array | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/494af884e0ae7b0b062b006329aa7d6d)  
 
-3.Check if a given Binary Tree is Heap
+**3.Check if a given Binary Tree is Heap** [See Solution](https://gist.github.com/arun-sudharsan/9ba4d607b61a750a58777fc25eb2cf61)  
 
 4.Convert BST to Min Heap
 
