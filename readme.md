@@ -1086,7 +1086,7 @@ Sorting &amp; Searching :
 
 6.Iterative Heap Sort
 
-7.Maximum distinct elements after removing k elements
+**7.Maximum distinct elements after removing k elements** [See Solution](https://gist.github.com/arun-sudharsan/0ae917da61d9e9a3f7f3d4e33aa5651b)  
 
 8.Largest triplet product in a stream
 
