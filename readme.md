@@ -1088,7 +1088,7 @@ Sorting &amp; Searching :
 
 **7.Maximum distinct elements after removing k elements** [See Solution](https://gist.github.com/arun-sudharsan/0ae917da61d9e9a3f7f3d4e33aa5651b)  
 
-8.Largest triplet product in a stream
+**8.Largest triplet product in a stream** [See Solution](https://gist.github.com/arun-sudharsan/5663fb247d50a2049a54f05f0f8807f7)  
 
 9.Minimum product of k integers in an array of positive Integers
 
