@@ -1090,7 +1090,7 @@ Sorting &amp; Searching :
 
 **8.Largest triplet product in a stream** [See Solution](https://gist.github.com/arun-sudharsan/5663fb247d50a2049a54f05f0f8807f7)  
 
-9.Minimum product of k integers in an array of positive Integers
+**9.Minimum product of k integers in an array of positive Integers** [See Solution](https://gist.github.com/arun-sudharsan/08927533525c9ef999e99d50ecc56068)  
 
 10.Median in a stream of integers (running integers)
 
