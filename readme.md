@@ -1080,7 +1080,7 @@ Sorting &amp; Searching :
 
 **3.Rearrange characters in a string such that no two adjacent are same** [See Solution](https://gist.github.com/arun-sudharsan/11420c6ec9d1568f38e30f40f9526172)  
 
-4.Maximum difference between two subsets of m elements
+**4.Maximum difference between two subsets of m elements** [See Solution](https://gist.github.com/arun-sudharsan/ef5cbd0a044152cad22375487a0fbcbc)  
 
 5.Time Complexity of building a heap
 
