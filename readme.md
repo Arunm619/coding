@@ -1092,7 +1092,7 @@ Sorting &amp; Searching :
 
 **9.Minimum product of k integers in an array of positive Integers** [See Solution](https://gist.github.com/arun-sudharsan/08927533525c9ef999e99d50ecc56068)  
 
-10.Median in a stream of integers (running integers)
+**10.Median in a stream of integers (running integers)** [See Solution](https://gist.github.com/arun-sudharsan/c28b575a9b35c02a2441d71716d1d77f)  
 
 
 
