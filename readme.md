@@ -1108,7 +1108,7 @@ Sorting &amp; Searching :
 
 **2.Given an array A[] and a number x, check for pair in A[] with sum as x** [See Solution](https://gist.github.com/arun-sudharsan/bd47286717a8dc0f32e295f5ac365eea)  
 
-3.Minimum delete operations to make all elements of array same
+**3.Minimum delete operations to make all elements of array same** [See Solution](https://gist.github.com/arun-sudharsan/6118233d4718bb6101e1d3a35972e5d6)  
 
 4.Number of subarrays having sum exactly equal to k
 
