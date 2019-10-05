@@ -1104,7 +1104,7 @@ Sorting &amp; Searching :
 
 **Hashing:**
 
-1.Find whether an array is subset of another array
+**1.Find whether an array is subset of another array** [See Solution](https://gist.github.com/arun-sudharsan/6e4d0a40d2d3820957514c97c7bf5096)  
 
 2.Given an array A[] and a number x, check for pair in A[] with sum as x
 
