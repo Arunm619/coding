@@ -1134,7 +1134,7 @@ Sorting &amp; Searching :
 
 **4.Find four elements a, b, c and d in an array such that a+b = c+d** [See Solution](https://gist.github.com/arun-sudharsan/2727a4fe038bc5bb362dc3bfcffc4dd1)  
 
-5.Maximum difference between first and last indexes of an element in array
+**5.Maximum difference between first and last indexes of an element in array** [See Solution](https://gist.github.com/arun-sudharsan/14aa593171ad7e0982c809270bc597db)  
 
 6.Check if array contains contiguous integers with duplicates allowed
 
