@@ -1110,7 +1110,7 @@ Sorting &amp; Searching :
 
 **3.Minimum delete operations to make all elements of array same** [See Solution](https://gist.github.com/arun-sudharsan/6118233d4718bb6101e1d3a35972e5d6)  
 
-4.Number of subarrays having sum exactly equal to k
+**4.Number of subarrays having sum exactly equal to k** [See Solution](https://gist.github.com/arun-sudharsan/365801f923b4dce70abefceafca34e75)  
 
 5.k-th distinct (or non-repeating) element in an array.
 
