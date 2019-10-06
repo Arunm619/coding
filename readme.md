@@ -1122,7 +1122,7 @@ Sorting &amp; Searching :
 
 **9.Pairs of Positive Negative values in an array** [See Solution](https://gist.github.com/arun-sudharsan/9c3a1d58786c1f16b1e9a2200068bf3a)  
 
-10.Sort elements by frequency
+**10.Sort elements by frequency** [See Solution](https://gist.github.com/arun-sudharsan/20c7f2de966ca2ffefd24460cb221481)  
 
 
 
