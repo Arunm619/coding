@@ -1146,7 +1146,7 @@ Sorting &amp; Searching :
 
 **9.Find subarray with given sum** [See Solution](https://gist.github.com/arun-sudharsan/365801f923b4dce70abefceafca34e75)  
 
-10.Count subsets having distinct even numbers
+**10.Count subsets having distinct even numbers** [See Solution](https://gist.github.com/arun-sudharsan/9fce3414ff0f1ce69003c6a933b5b3a5)  
 
 1.Largest subarray with equal number of 0s and 1s
 
