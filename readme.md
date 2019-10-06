@@ -1114,7 +1114,7 @@ Sorting &amp; Searching :
 
 **5.k-th distinct (or non-repeating) element in an array.** [See Solution](https://gist.github.com/arun-sudharsan/ecb170381447c560f3a122843089afc4)  
 
-6.Frequency of each element in an unsorted array
+**6.Frequency of each element in an unsorted array** [See Solution](https://gist.github.com/arun-sudharsan/a235f1059bab9b5be865b3a92c128c2f)  
 
 7.Find k numbers with most occurrences in the given array
 
