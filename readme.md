@@ -1126,7 +1126,7 @@ Sorting &amp; Searching :
 
 
 
-1.Find the largest subarray with 0 sum
+**1.Find the largest subarray with 0 sum** [See Solution](https://gist.github.com/arun-sudharsan/5454fd8db8cb5ca8a79b26c965ff0468)  
 
 2.Longest subarray with sum divisible by k
 
