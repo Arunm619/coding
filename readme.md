@@ -1116,7 +1116,7 @@ Sorting &amp; Searching :
 
 **6.Frequency of each element in an unsorted array** [See Solution](https://gist.github.com/arun-sudharsan/a235f1059bab9b5be865b3a92c128c2f)  
 
-7.Find k numbers with most occurrences in the given array
+**7.Find k numbers with most occurrences in the given array** [See Solution](https://gist.github.com/arun-sudharsan/826c5063b832fe4bb550f5563a9cc958)  
 
 8.Print All Distinct Elements of a given integer array
 
