@@ -1132,7 +1132,7 @@ Sorting &amp; Searching :
 
 **3.Longest subsequence such that difference between adjacents is one** [See Solution](https://gist.github.com/arun-sudharsan/dde583b527467edf2d820940011242a8)  
 
-4.Find four elements a, b, c and d in an array such that a+b = c+d
+**4.Find four elements a, b, c and d in an array such that a+b = c+d** [See Solution](https://gist.github.com/arun-sudharsan/2727a4fe038bc5bb362dc3bfcffc4dd1)  
 
 5.Maximum difference between first and last indexes of an element in array
 
