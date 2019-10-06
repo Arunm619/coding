@@ -1112,7 +1112,7 @@ Sorting &amp; Searching :
 
 **4.Number of subarrays having sum exactly equal to k** [See Solution](https://gist.github.com/arun-sudharsan/365801f923b4dce70abefceafca34e75)  
 
-5.k-th distinct (or non-repeating) element in an array.
+**5.k-th distinct (or non-repeating) element in an array.** [See Solution](https://gist.github.com/arun-sudharsan/ecb170381447c560f3a122843089afc4)  
 
 6.Frequency of each element in an unsorted array
 
