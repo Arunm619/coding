@@ -1118,7 +1118,7 @@ Sorting &amp; Searching :
 
 **7.Find k numbers with most occurrences in the given array** [See Solution](https://gist.github.com/arun-sudharsan/826c5063b832fe4bb550f5563a9cc958)  
 
-8.Print All Distinct Elements of a given integer array
+**8.Print All Distinct Elements of a given integer array** [See Solution](https://gist.github.com/arun-sudharsan/47195ebd811fa6a489d27a8925acc467)  
 
 9.Pairs of Positive Negative values in an array
 
