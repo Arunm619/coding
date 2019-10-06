@@ -1150,7 +1150,7 @@ Sorting &amp; Searching :
 
 **1.Largest subarray with equal number of 0s and 1s** [See Solution](https://gist.github.com/arun-sudharsan/ce72d47c2f6b243c21c3ce48fcc35a03)  
 
-2.Range Queries for Frequencies of array elements
+**2.Range Queries for Frequencies of array elements** [See Solution](https://gist.github.com/arun-sudharsan/ce5eee61f25770823cced2e5e8844138)  
 
 3.Find all triplets with zero sum
 
