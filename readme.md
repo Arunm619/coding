@@ -1144,7 +1144,7 @@ Sorting &amp; Searching :
 
 8.Subset with no pair sum divisible by K
 
-9.Find subarray with given sum
+**9.Find subarray with given sum** [See Solution](https://gist.github.com/arun-sudharsan/365801f923b4dce70abefceafca34e75)  
 
 10.Count subsets having distinct even numbers
 
