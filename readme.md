@@ -1154,7 +1154,7 @@ Sorting &amp; Searching :
 
 **3.Find all triplets with zero sum** [See Solution](https://gist.github.com/arun-sudharsan/d5ef301448d9c8322462fc8dfe36feb3)  
 
-4.Count of index pairs with equal elements in an array
+**4.Count of index pairs with equal elements in an array** [See Solution](https://gist.github.com/arun-sudharsan/89b3764405653e7ddd4dac24ea40babc)  
 
 5.Minimum number of distinct elements after removing m items
 
