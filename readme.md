@@ -1136,6 +1136,8 @@ Sorting &amp; Searching :
 
 **5.Maximum difference between first and last indexes of an element in array** [See Solution](https://gist.github.com/arun-sudharsan/14aa593171ad7e0982c809270bc597db)  
 
+**Check if array elements are consecutive** [See Solution](https://gist.github.com/arun-sudharsan/3ce2808c41bb17b95bd507c97b23a892)  
+
 6.Check if array contains contiguous integers with duplicates allowed
 
 7.Count distinct elements in every window of size k
