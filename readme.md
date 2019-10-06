@@ -1130,7 +1130,7 @@ Sorting &amp; Searching :
 
 **2.Longest subarray with sum divisible by k** [See Solution](https://gist.github.com/arun-sudharsan/a4d2d277bd38f71225677be3a0c71d31)  
 
-3.Longest subsequence such that difference between adjacents is one
+**3.Longest subsequence such that difference between adjacents is one** [See Solution](https://gist.github.com/arun-sudharsan/dde583b527467edf2d820940011242a8)  
 
 4.Find four elements a, b, c and d in an array such that a+b = c+d
 
