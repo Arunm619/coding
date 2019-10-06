@@ -1120,7 +1120,7 @@ Sorting &amp; Searching :
 
 **8.Print All Distinct Elements of a given integer array** [See Solution](https://gist.github.com/arun-sudharsan/47195ebd811fa6a489d27a8925acc467)  
 
-9.Pairs of Positive Negative values in an array
+**9.Pairs of Positive Negative values in an array** [See Solution](https://gist.github.com/arun-sudharsan/9c3a1d58786c1f16b1e9a2200068bf3a)  
 
 10.Sort elements by frequency
 
