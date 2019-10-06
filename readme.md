@@ -1152,7 +1152,7 @@ Sorting &amp; Searching :
 
 **2.Range Queries for Frequencies of array elements** [See Solution](https://gist.github.com/arun-sudharsan/ce5eee61f25770823cced2e5e8844138)  
 
-3.Find all triplets with zero sum
+**3.Find all triplets with zero sum** [See Solution](https://gist.github.com/arun-sudharsan/d5ef301448d9c8322462fc8dfe36feb3)  
 
 4.Count of index pairs with equal elements in an array
 
