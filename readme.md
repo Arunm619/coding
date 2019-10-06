@@ -1140,7 +1140,7 @@ Sorting &amp; Searching :
 
 **6.Check if array contains contiguous integers with duplicates allowed** [See Solution](https://gist.github.com/arun-sudharsan/3ce2808c41bb17b95bd507c97b23a892)  
 
-7.Count distinct elements in every window of size k
+**7.Count distinct elements in every window of size k** [See Solution](https://gist.github.com/arun-sudharsan/ac6971f8c70c6aaf6e57ce8696276603)  
 
 8.Subset with no pair sum divisible by K
 
