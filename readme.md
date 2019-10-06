@@ -1148,7 +1148,7 @@ Sorting &amp; Searching :
 
 **10.Count subsets having distinct even numbers** [See Solution](https://gist.github.com/arun-sudharsan/9fce3414ff0f1ce69003c6a933b5b3a5)  
 
-1.Largest subarray with equal number of 0s and 1s
+**1.Largest subarray with equal number of 0s and 1s** [See Solution](https://gist.github.com/arun-sudharsan/ce72d47c2f6b243c21c3ce48fcc35a03)  
 
 2.Range Queries for Frequencies of array elements
 
