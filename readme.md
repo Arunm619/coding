@@ -1156,7 +1156,7 @@ Sorting &amp; Searching :
 
 **4.Count of index pairs with equal elements in an array** [See Solution](https://gist.github.com/arun-sudharsan/89b3764405653e7ddd4dac24ea40babc)  
 
-5.Minimum number of distinct elements after removing m items
+**5.Minimum number of distinct elements after removing m items** [See Solution](https://gist.github.com/arun-sudharsan/0ae917da61d9e9a3f7f3d4e33aa5651b)  
 
 6.Subarrays with distinct elements
 
