@@ -1138,7 +1138,7 @@ Sorting &amp; Searching :
 
 **Check if array elements are consecutive** [See Solution](https://gist.github.com/arun-sudharsan/3ce2808c41bb17b95bd507c97b23a892)  
 
-6.Check if array contains contiguous integers with duplicates allowed
+**6.Check if array contains contiguous integers with duplicates allowed** [See Solution](https://gist.github.com/arun-sudharsan/3ce2808c41bb17b95bd507c97b23a892)  
 
 7.Count distinct elements in every window of size k
 
