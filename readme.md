@@ -1166,9 +1166,9 @@ Sorting &amp; Searching :
 
 **9.Count subarrays having total distinct elements same as original array** [See Solution](https://gist.github.com/arun-sudharsan/39374319c66e24f39aa3ac31a1e9f9fc)  
 
-10.Hash Table vs STL Map
+**10.Hash Table vs STL Map** [See Solution](https://gist.github.com/arun-sudharsan/3b1085090838a93789d74ea0a867a1c2)  
 
-11.Advantages of BST over Hash Table
+**11.Advantages of BST over Hash Table** [See Solution](https://gist.github.com/arun-sudharsan/3b1085090838a93789d74ea0a867a1c2)  
 
 
 
