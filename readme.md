@@ -1162,7 +1162,7 @@ Sorting &amp; Searching :
 
 **7.Elements to be added so that all elements of a range are present in array** [See Solution](https://gist.github.com/arun-sudharsan/2611ac0210769eee75511bb64693c2af)  
 
-8.Find smallest range containing elements from k lists
+**8.Find smallest range containing elements from k lists** [See Solution](https://gist.github.com/arun-sudharsan/e06d09046f86a3cbe9c1653074c1bf4a)  
 
 9.Count subarrays having total distinct elements same as original array
 
