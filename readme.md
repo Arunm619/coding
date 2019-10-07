@@ -1175,7 +1175,7 @@ Sorting &amp; Searching :
 **Dynamic Programming:**
 
 
-1.Sum of all substrings of a number
+**1.Sum of all substrings of a number** [See Solution](https://gist.github.com/arun-sudharsan/009671f64b934e9d133f1ae8b17535c6)  
 
 2.Count numbers containing 4
 
