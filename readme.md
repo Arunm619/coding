@@ -1158,7 +1158,7 @@ Sorting &amp; Searching :
 
 **5.Minimum number of distinct elements after removing m items** [See Solution](https://gist.github.com/arun-sudharsan/0ae917da61d9e9a3f7f3d4e33aa5651b)  
 
-6.Subarrays with distinct elements
+**6.Subarrays with distinct elements** [See Solution](https://gist.github.com/arun-sudharsan/ee9e246a47c3a89a50a840fd9124ac35)  
 
 7.Elements to be added so that all elements of a range are present in array
 
