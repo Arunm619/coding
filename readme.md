@@ -1174,11 +1174,12 @@ Sorting &amp; Searching :
 
 **Dynamic Programming:**
 
+
 1.Sum of all substrings of a number
 
 2.Count numbers containing 4
 
-3.Fibonaaccii numbers
+**3.Fibonaaccii numbers** [See Solution](https://gist.github.com/arun-sudharsan/fa1acd8d3d15e2db1639dbcce743ce37)  
 
 4.Ugly numbers
 
