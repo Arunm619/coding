@@ -1160,7 +1160,7 @@ Sorting &amp; Searching :
 
 **6.Subarrays with distinct elements** [See Solution](https://gist.github.com/arun-sudharsan/ee9e246a47c3a89a50a840fd9124ac35)  
 
-7.Elements to be added so that all elements of a range are present in array
+**7.Elements to be added so that all elements of a range are present in array** [See Solution](https://gist.github.com/arun-sudharsan/2611ac0210769eee75511bb64693c2af)  
 
 8.Find smallest range containing elements from k lists
 
