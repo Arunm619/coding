@@ -1174,6 +1174,7 @@ Sorting &amp; Searching :
 
 **Dynamic Programming:**
 
+**Coin Change Min Coins** [See Solution](https://gist.github.com/arun-sudharsan/eb5026883a5131fcd29c357000ba73cd) 
 
 **1.Sum of all substrings of a number** [See Solution](https://gist.github.com/arun-sudharsan/009671f64b934e9d133f1ae8b17535c6)  
 
