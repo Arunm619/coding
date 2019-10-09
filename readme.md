@@ -1176,7 +1176,7 @@ Sorting &amp; Searching :
 
 **Coin Change Min Coins** [See Solution](https://gist.github.com/arun-sudharsan/eb5026883a5131fcd29c357000ba73cd) 
 **Largest SubSquare Matrix** [See Solution](https://gist.github.com/arun-sudharsan/08e2768079430120f7ce8832ddcb6df2)  
-
+**0/1 Knapsack Problem** [See Solution](https://gist.github.com/arun-sudharsan/d7697a27121779be0f10ce247397be2a)  
 **1.Sum of all substrings of a number** [See Solution](https://gist.github.com/arun-sudharsan/009671f64b934e9d133f1ae8b17535c6)  
 
 2.Count numbers containing 4
