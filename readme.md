@@ -1178,6 +1178,7 @@ Sorting &amp; Searching :
 **Largest SubSquare Matrix** [See Solution](https://gist.github.com/arun-sudharsan/08e2768079430120f7ce8832ddcb6df2)  
 **0/1 Knapsack Problem** [See Solution](https://gist.github.com/arun-sudharsan/d7697a27121779be0f10ce247397be2a)  
 **1.Sum of all substrings of a number** [See Solution](https://gist.github.com/arun-sudharsan/009671f64b934e9d133f1ae8b17535c6)  
+**Partition Equal Sum Subset** [See Solution](https://gist.github.com/arun-sudharsan/bb3610029815c54b736a613bdec5d985)  
 
 2.Count numbers containing 4
 
