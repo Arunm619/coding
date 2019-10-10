@@ -1180,6 +1180,8 @@ Sorting &amp; Searching :
 **1.Sum of all substrings of a number** [See Solution](https://gist.github.com/arun-sudharsan/009671f64b934e9d133f1ae8b17535c6)  
 **Partition Equal Sum Subset** [See Solution](https://gist.github.com/arun-sudharsan/bb3610029815c54b736a613bdec5d985)  
 **Shortest Common SuperSequence** [See Solution](https://gist.github.com/arun-sudharsan/ac32c3768d748020af052043d0b90745)  
+**Longest Increasing Subsequence** [See Solution](https://gist.github.com/arun-sudharsan/83602e83b8b02c91a960d82b831774b4)  
+
 2.Count numbers containing 4
 
 **3.Fibonaaccii numbers** [See Solution](https://gist.github.com/arun-sudharsan/fa1acd8d3d15e2db1639dbcce743ce37)  
