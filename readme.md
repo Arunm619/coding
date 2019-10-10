@@ -1200,7 +1200,7 @@ Sorting &amp; Searching :
 
 Sequences of given length where every element is more than or equal to twice of previous
 
-1.Longest Common Subsequence | DP-4
+**1.Longest Common Subsequence | DP-4** [See Solution](https://gist.github.com/arun-sudharsan/b328895f0142fbb8256b591b3553dd54)  
 
 2.Longest Repeating Subsequence
 
