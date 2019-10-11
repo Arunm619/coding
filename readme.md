@@ -1181,7 +1181,7 @@ Sorting &amp; Searching :
 **Partition Equal Sum Subset** [See Solution](https://gist.github.com/arun-sudharsan/bb3610029815c54b736a613bdec5d985)  
 **Shortest Common SuperSequence** [See Solution](https://gist.github.com/arun-sudharsan/ac32c3768d748020af052043d0b90745)  
 **Longest Increasing Subsequence** [See Solution](https://gist.github.com/arun-sudharsan/83602e83b8b02c91a960d82b831774b4)  
-
+**Edit Distance** [See Solution](https://gist.github.com/arun-sudharsan/a72f8c03f81b793493ea046b562b1dd2)  
 2.Count numbers containing 4
 
 **3.Fibonaaccii numbers** [See Solution](https://gist.github.com/arun-sudharsan/fa1acd8d3d15e2db1639dbcce743ce37)  
