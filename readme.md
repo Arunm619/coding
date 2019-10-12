@@ -1183,6 +1183,7 @@ Sorting &amp; Searching :
 **Longest Increasing Subsequence** [See Solution](https://gist.github.com/arun-sudharsan/83602e83b8b02c91a960d82b831774b4)  
 **Edit Distance** [See Solution](https://gist.github.com/arun-sudharsan/a72f8c03f81b793493ea046b562b1dd2)  
 **Matrix Chain Multiplication** [See Solution](https://gist.github.com/arun-sudharsan/e1dcead955102fc7ec4cb8955cd834ba)  
+**Rod Cutting** [See Solution](https://gist.github.com/arun-sudharsan/501622b5a9e3f44c17056c8f5d00569c)  
 2.Count numbers containing 4
 
 **3.Fibonaaccii numbers** [See Solution](https://gist.github.com/arun-sudharsan/fa1acd8d3d15e2db1639dbcce743ce37)  
