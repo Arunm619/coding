@@ -1213,7 +1213,7 @@ Sequences of given length where every element is more than or equal to twice of 
 
 4.perm\_identity
 
-Longest subsequence such that difference between adjacents is one
+**Longest subsequence such that difference between adjacents is one** [See Solution](https://gist.github.com/arun-sudharsan/dde583b527467edf2d820940011242a8)  
 
 5.Maximum Length Chain of Pairs | DP-20
 
