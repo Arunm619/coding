@@ -1207,7 +1207,7 @@ Sequences of given length where every element is more than or equal to twice of 
 
 **1.Longest Common Subsequence | DP-4** [See Solution](https://gist.github.com/arun-sudharsan/b328895f0142fbb8256b591b3553dd54)  
 
-2.Longest Repeating Subsequence
+**2.Longest Repeating Subsequence** [See Solution](https://gist.github.com/arun-sudharsan/1d6a43fac48554655c142fe6c7b7a93b)  
 
 **3.LCS (Longest Common Subsequence) of three strings** [See Solution](https://gist.github.com/arun-sudharsan/defbcff211babbd6111a9db55bfe04ae)  
 
