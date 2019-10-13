@@ -1215,11 +1215,11 @@ Sequences of given length where every element is more than or equal to twice of 
 
 **Longest subsequence such that difference between adjacents is one** [See Solution](https://gist.github.com/arun-sudharsan/dde583b527467edf2d820940011242a8)  
 
-5.Maximum Length Chain of Pairs | DP-20
+**5.Maximum Length Chain of Pairs | DP-20** [See Solution](https://gist.github.com/arun-sudharsan/b04e4706f0c6e414ef31c92d98b95095)  
 
 6.Maximum sum of pairs with specific difference
 
-7.0 - 1 Knapsack Problem
+**7. 0 - 1 Knapsack Problem** [See Solution](https://gist.github.com/arun-sudharsan/d7697a27121779be0f10ce247397be2a)  
 
 **Backtracking:**
 
