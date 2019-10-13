@@ -1209,7 +1209,7 @@ Sequences of given length where every element is more than or equal to twice of 
 
 2.Longest Repeating Subsequence
 
-3.LCS (Longest Common Subsequence) of three strings
+**3.LCS (Longest Common Subsequence) of three strings** [See Solution](https://gist.github.com/arun-sudharsan/defbcff211babbd6111a9db55bfe04ae)  
 
 4.perm\_identity
 
