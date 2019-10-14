@@ -1217,7 +1217,7 @@ Sequences of given length where every element is more than or equal to twice of 
 
 **5.Maximum Length Chain of Pairs | DP-20** [See Solution](https://gist.github.com/arun-sudharsan/b04e4706f0c6e414ef31c92d98b95095)  
 
-6.Maximum sum of pairs with specific difference
+**6.Maximum sum of pairs with specific difference** [See Solution](https://gist.github.com/arun-sudharsan/ee58bd0e1f68d693b388deb2c40c568a)  
 
 **7. 0 - 1 Knapsack Problem** [See Solution](https://gist.github.com/arun-sudharsan/d7697a27121779be0f10ce247397be2a)  
 
