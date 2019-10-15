@@ -1223,6 +1223,8 @@ Sequences of given length where every element is more than or equal to twice of 
 
 **Count ways to top using stairs** [See Solution](https://gist.github.com/arun-sudharsan/d11ac1c4507edd4c48170d8d11bc56c5)
 
+**Longest Path Matrix** [See Solution](https://gist.github.com/arun-sudharsan/68854228f7c41e381dbbc8d7f8f19dd8)  
+ 
 **Backtracking:**
 
 Standard Algorithms:
