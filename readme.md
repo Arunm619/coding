@@ -1221,6 +1221,8 @@ Sequences of given length where every element is more than or equal to twice of 
 
 **7. 0 - 1 Knapsack Problem** [See Solution](https://gist.github.com/arun-sudharsan/d7697a27121779be0f10ce247397be2a)  
 
+**Count ways to top using stairs** [See Solution](https://gist.github.com/arun-sudharsan/d11ac1c4507edd4c48170d8d11bc56c5)
+
 **Backtracking:**
 
 Standard Algorithms:
