@@ -1193,7 +1193,7 @@ Sorting &amp; Searching :
 
 5.Ways To Tile A Floor
 
-6.Gold Mine Problem
+**6.Gold Mine Problem** [See Solution](https://gist.github.com/arun-sudharsan/54558541ab853792d38999c307daf724)  
 
 7.Friends Pairing Problem
 
