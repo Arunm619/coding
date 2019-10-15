@@ -1225,6 +1225,7 @@ Sequences of given length where every element is more than or equal to twice of 
 
 **Longest Path Matrix** [See Solution](https://gist.github.com/arun-sudharsan/68854228f7c41e381dbbc8d7f8f19dd8)  
  
+**Subset Sum** [See Solution](https://gist.github.com/arun-sudharsan/44e6f68f61cb936d85b389d46c368741)   
 **Backtracking:**
 
 Standard Algorithms:
