@@ -1195,7 +1195,7 @@ Sorting &amp; Searching :
 
 **6.Gold Mine Problem** [See Solution](https://gist.github.com/arun-sudharsan/54558541ab853792d38999c307daf724)  
 
-7.Friends Pairing Problem
+**7.Friends Pairing Problem** [See Solution](https://gist.github.com/arun-sudharsan/e4c3151d2c291c6250c0744037a1195a)  
 
 8.Perfect Sum Problem
 
