@@ -1229,7 +1229,7 @@ Sequences of given length where every element is more than or equal to twice of 
 **Backtracking:**
 
 **Print Binary and Decimal Numbers** [See Solution](https://gist.github.com/arun-sudharsan/9aadf3e8009239a4557477fe0bf6a2ef) 
-
+**Dice Rolls** [See Solution](https://gist.github.com/arun-sudharsan/40d4393f3c0bb1295fbe03ad7ef724e2)  
 Standard Algorithms:
 
 1.The Knight&#39;s tour problem | Backtracking-1
