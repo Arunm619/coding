@@ -1228,6 +1228,8 @@ Sequences of given length where every element is more than or equal to twice of 
 **Subset Sum** [See Solution](https://gist.github.com/arun-sudharsan/44e6f68f61cb936d85b389d46c368741)   
 **Backtracking:**
 
+**Print Binary and Decimal Numbers** [See Solution](https://gist.github.com/arun-sudharsan/9aadf3e8009239a4557477fe0bf6a2ef) 
+
 Standard Algorithms:
 
 1.The Knight&#39;s tour problem | Backtracking-1
