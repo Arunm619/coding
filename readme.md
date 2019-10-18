@@ -1231,7 +1231,7 @@ Sequences of given length where every element is more than or equal to twice of 
 **Print Binary and Decimal Numbers** [See Solution](https://gist.github.com/arun-sudharsan/9aadf3e8009239a4557477fe0bf6a2ef) 
 **Dice Rolls** [See Solution](https://gist.github.com/arun-sudharsan/40d4393f3c0bb1295fbe03ad7ef724e2)  
 **Permute String**[See Solution](https://gist.github.com/arun-sudharsan/ffbcbf095f4cbaa8864324a9fff7fdb9)  
-
+**Power Lists** [See Solution](https://gist.github.com/arun-sudharsan/92bea533ee8fdbf4476c62285b6d1d24)  
 Standard Algorithms:
 
 1.The Knight&#39;s tour problem | Backtracking-1
