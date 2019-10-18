@@ -1242,7 +1242,7 @@ Standard Algorithms:
 
 4.Hamiltonian Path
 
-5.Backtracking | Set 7 (Sudoku)
+**5.Backtracking | Set 7 (Sudoku)** [See Solution](https://gist.github.com/arun-sudharsan/c92a6c626801c009ebb4deee8b59915d)  
 
 6.Backtracking | Set 5 (m Coloring Problem)
 
