@@ -1238,7 +1238,7 @@ Standard Algorithms:
 
 2.Backtracking | Set 2 (Rat in a Maze)
 
-3.Backtracking | Set 3 (N Queen Problem)
+**3.Backtracking | Set 3 (N Queen Problem)** [See Solution](https://gist.github.com/arun-sudharsan/3c5c91c9263728c2f742bb9a04422989)  
 
 4.Hamiltonian Path
 
