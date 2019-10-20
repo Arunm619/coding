@@ -1239,7 +1239,7 @@ Standard Algorithms:
 
 **1.The Knight&#39;s tour problem | Backtracking-1** [See Solution](https://gist.github.com/arun-sudharsan/b1e0f83863eb6e374e61496bc1a16ea4)  
 
-2.Backtracking | Set 2 (Rat in a Maze)
+**2.Backtracking | Set 2 (Rat in a Maze)** [See Solution](https://gist.github.com/arun-sudharsan/b6d39f6a1259254ab164d16ec93648f1)  
 
 **3.Backtracking | Set 3 (N Queen Problem)** [See Solution](https://gist.github.com/arun-sudharsan/3c5c91c9263728c2f742bb9a04422989)  
 
