@@ -1233,7 +1233,8 @@ Sequences of given length where every element is more than or equal to twice of 
 **Permute String**[See Solution](https://gist.github.com/arun-sudharsan/ffbcbf095f4cbaa8864324a9fff7fdb9)  
 **Power Lists** [See Solution](https://gist.github.com/arun-sudharsan/92bea533ee8fdbf4476c62285b6d1d24)  
 **Subsets and Subsets With Duplicates** [See Solution](https://gist.github.com/arun-sudharsan/42d7f63a303445443383a3a0ac7de7bf)  
-**Combination Sum** [See Solution](https://gist.github.com/arun-sudharsan/84b28ad4942d686bad5461c4f81e44a3)  
+**Combination Sum** [See Solution](https://gist.github.com/arun-sudharsan/84b28ad4942d686bad5461c4f81e44a3) 
+**Palindrome Partitioning** [See Solution](https://gist.github.com/arun-sudharsan/6af1576f307cf3a6f5ae4e1335f5c9f3)  
 Standard Algorithms:
 
 1.The Knight&#39;s tour problem | Backtracking-1
