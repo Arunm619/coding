@@ -1237,7 +1237,7 @@ Sequences of given length where every element is more than or equal to twice of 
 **Palindrome Partitioning** [See Solution](https://gist.github.com/arun-sudharsan/6af1576f307cf3a6f5ae4e1335f5c9f3)  
 Standard Algorithms:
 
-1.The Knight&#39;s tour problem | Backtracking-1
+**1.The Knight&#39;s tour problem | Backtracking-1** [See Solution](https://gist.github.com/arun-sudharsan/b1e0f83863eb6e374e61496bc1a16ea4)  
 
 2.Backtracking | Set 2 (Rat in a Maze)
 
