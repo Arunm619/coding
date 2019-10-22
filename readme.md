@@ -1252,7 +1252,7 @@ Standard Algorithms:
 
 7.Remove Invalid Parentheses
 
-8.Rat in a Maze with multiple steps or jump allowed
+**8.Rat in a Maze with multiple steps or jump allowed** [See Solution](https://gist.github.com/arun-sudharsan/e1dd9bd9c85130a0ba2d40ddca46b7ff)  
 
 **Greedy Algorithms:**
 
