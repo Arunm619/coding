@@ -1244,7 +1244,7 @@ Standard Algorithms:
 
 **3.Backtracking | Set 3 (N Queen Problem)** [See Solution](https://gist.github.com/arun-sudharsan/3c5c91c9263728c2f742bb9a04422989)  
 
-4.Hamiltonian Path
+**4.Hamiltonian Path** [See Solution](https://gist.github.com/arun-sudharsan/c30521a745acbb27a0245734c9df9dbb)  
 
 **5.Backtracking | Set 7 (Sudoku)** [See Solution](https://gist.github.com/arun-sudharsan/c92a6c626801c009ebb4deee8b59915d)  
 
