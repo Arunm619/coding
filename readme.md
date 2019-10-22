@@ -1235,6 +1235,7 @@ Sequences of given length where every element is more than or equal to twice of 
 **Subsets and Subsets With Duplicates** [See Solution](https://gist.github.com/arun-sudharsan/42d7f63a303445443383a3a0ac7de7bf)  
 **Combination Sum** [See Solution](https://gist.github.com/arun-sudharsan/84b28ad4942d686bad5461c4f81e44a3) 
 **Palindrome Partitioning** [See Solution](https://gist.github.com/arun-sudharsan/6af1576f307cf3a6f5ae4e1335f5c9f3)  
+**Generate matched paranthesis** [See Solution](https://gist.github.com/arun-sudharsan/11cbb988ea6ed46f1e38e95ec14ccd49)  
 Standard Algorithms:
 
 **1.The Knight&#39;s tour problem | Backtracking-1** [See Solution](https://gist.github.com/arun-sudharsan/b1e0f83863eb6e374e61496bc1a16ea4)  
