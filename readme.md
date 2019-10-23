@@ -1258,7 +1258,7 @@ Standard Algorithms:
 
 Standard Algorithms:
 
-1.Activity Selection Problem
+**1.Activity Selection Problem** [See Solution](https://gist.github.com/arun-sudharsan/32355f07cd437545fe66f47cad9b5c7b)  
 
 2.Job Sequencing Problem
 
