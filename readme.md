@@ -1260,7 +1260,7 @@ Standard Algorithms:
 
 **1.Activity Selection Problem** [See Solution](https://gist.github.com/arun-sudharsan/32355f07cd437545fe66f47cad9b5c7b)  
 
-2.Job Sequencing Problem
+**2.Job Sequencing Problem** [See Solution](https://gist.github.com/arun-sudharsan/680e1e9a224a5eca869ffa9bb908684d)  
 
 3.Huffman Coding | Greedy Algo-3
 
