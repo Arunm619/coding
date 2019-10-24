@@ -1280,6 +1280,8 @@ Standard Algorithms:
 
 **Arrays Greedy problems:**
 
+**Max product of three numbers** [See Solution](https://gist.github.com/arun-sudharsan/6355aa4acae71bae432cac6ff507d8c0)  
+
 1.Minimum product subset of an array
 
 2Maximum product subset of an array
