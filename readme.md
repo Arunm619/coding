@@ -1290,7 +1290,7 @@ Standard Algorithms:
 
 **4.Maximize array sum after K negations | Set 2** [See Solution](https://gist.github.com/arun-sudharsan/35d1c00adfd0ea1f2c74a5e941b7126d)  
 
-5.Maximum sum of increasing order elements from n arrays
+**5.Maximum sum of increasing order elements from n arrays** [See Solution](https://gist.github.com/arun-sudharsan/160f0a0f82c8dda0e0f25f053c5dcb5a)  
 
 6.Maximize sum of consecutive differences in a circular array
 
