@@ -1292,7 +1292,7 @@ Standard Algorithms:
 
 **5.Maximum sum of increasing order elements from n arrays** [See Solution](https://gist.github.com/arun-sudharsan/160f0a0f82c8dda0e0f25f053c5dcb5a)  
 
-6.Maximize sum of consecutive differences in a circular array
+**6.Maximize sum of consecutive differences in a circular array** [See Solution](https://gist.github.com/arun-sudharsan/89e7658b22addfe6c51b872833ca0d99)  
 
 7.Partition into two subarrays of lengths k and (N – k) such that the difference of sums is maximum
 
