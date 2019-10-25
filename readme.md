@@ -1282,7 +1282,7 @@ Standard Algorithms:
 
 **Max product of three numbers** [See Solution](https://gist.github.com/arun-sudharsan/6355aa4acae71bae432cac6ff507d8c0)  
 
-1.Minimum product subset of an array
+**1.Minimum product subset of an array** [See Solution](https://gist.github.com/arun-sudharsan/056a7e947aa1fa5456ab609797eddcb2)  
 
 2Maximum product subset of an array
 
