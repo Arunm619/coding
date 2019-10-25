@@ -1296,7 +1296,7 @@ Standard Algorithms:
 
 **7.Partition into two subarrays of lengths k and (N – k) such that the difference of sums is maximum** [See Solution](https://gist.github.com/arun-sudharsan/ebdbf88db0302b6f7a2e1dbe1480633c)  
 
-8.Minimum sum by choosing minimum of pairs from array
+**8.Minimum sum by choosing minimum of pairs from array** [See Solution](https://gist.github.com/arun-sudharsan/1082e7e7722c3b69c330b783e7f36ae5)  
 
 9.Minimum sum of absolute difference of pairs of two arrays
 
