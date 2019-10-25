@@ -1286,9 +1286,9 @@ Standard Algorithms:
 
 **2.Maximum product subset of an array** [See Solution](https://gist.github.com/arun-sudharsan/e1aa89bf9cf334017344ef88de81f335)  
 
-3.Maximize array sum after K negations | Set 1
+**3.Maximize array sum after K negations | Set 1** [See Solution](https://gist.github.com/arun-sudharsan/35d1c00adfd0ea1f2c74a5e941b7126d)  
 
-4.Maximize array sum after K negations | Set 2
+**4.Maximize array sum after K negations | Set 2** [See Solution](https://gist.github.com/arun-sudharsan/35d1c00adfd0ea1f2c74a5e941b7126d)  
 
 5.Maximum sum of increasing order elements from n arrays
 
