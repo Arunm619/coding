@@ -1284,7 +1284,7 @@ Standard Algorithms:
 
 **1.Minimum product subset of an array** [See Solution](https://gist.github.com/arun-sudharsan/056a7e947aa1fa5456ab609797eddcb2)  
 
-2Maximum product subset of an array
+**2.Maximum product subset of an array** [See Solution](https://gist.github.com/arun-sudharsan/e1aa89bf9cf334017344ef88de81f335)  
 
 3.Maximize array sum after K negations | Set 1
 
