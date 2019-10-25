@@ -1298,7 +1298,7 @@ Standard Algorithms:
 
 **8.Minimum sum by choosing minimum of pairs from array** [See Solution](https://gist.github.com/arun-sudharsan/1082e7e7722c3b69c330b783e7f36ae5)  
 
-9.Minimum sum of absolute difference of pairs of two arrays
+**9.Minimum sum of absolute difference of pairs of two arrays** [See Solution](https://gist.github.com/arun-sudharsan/e4d2de3b5ddc90ff4e311b1dbbd5f616)  
 
 10.Minimum sum of two numbers formed from digits of an array
 
