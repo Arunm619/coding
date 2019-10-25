@@ -1300,11 +1300,11 @@ Standard Algorithms:
 
 **9.Minimum sum of absolute difference of pairs of two arrays** [See Solution](https://gist.github.com/arun-sudharsan/e4d2de3b5ddc90ff4e311b1dbbd5f616)  
 
-10.Minimum sum of two numbers formed from digits of an array
+**10.Minimum sum of two numbers formed from digits of an array** [See Solution](https://gist.github.com/arun-sudharsan/e539723b76401230e51d44889007d609)  
 
 1.Minimum increment/decrement to make array non-Increasing
 
-2.Making elements of two arrays same with minimum increment/decrement
+**2.Making elements of two arrays same with minimum increment/decrement** [See Solution](https://gist.github.com/arun-sudharsan/a0cf38db82366d2b345fddebc97a9e06)  
 
 3.Find if k bookings possible with given arrival and departure times
 
