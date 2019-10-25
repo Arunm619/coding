@@ -1306,7 +1306,7 @@ Standard Algorithms:
 
 **2.Making elements of two arrays same with minimum increment/decrement** [See Solution](https://gist.github.com/arun-sudharsan/a0cf38db82366d2b345fddebc97a9e06)  
 
-3.Find if k bookings possible with given arrival and departure times
+**3.Find if k bookings possible with given arrival and departure times** [See Solution](https://gist.github.com/arun-sudharsan/db1f8b0b0d1a858d34420c13cc5fa926)  
 
  4.Lexicographically smallest array after at-most K consecutive swaps
 
