@@ -1294,7 +1294,7 @@ Standard Algorithms:
 
 **6.Maximize sum of consecutive differences in a circular array** [See Solution](https://gist.github.com/arun-sudharsan/89e7658b22addfe6c51b872833ca0d99)  
 
-7.Partition into two subarrays of lengths k and (N – k) such that the difference of sums is maximum
+**7.Partition into two subarrays of lengths k and (N – k) such that the difference of sums is maximum** [See Solution](https://gist.github.com/arun-sudharsan/ebdbf88db0302b6f7a2e1dbe1480633c)  
 
 8.Minimum sum by choosing minimum of pairs from array
 
